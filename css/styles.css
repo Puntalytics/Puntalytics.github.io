@@ -3,18 +3,23 @@
   padding:10px;
 }
 
-
-
-#octocat {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:384px;
+h {
+  text-align: center;
+  font: sans-serif;
 }
+
+
 
 p {
   display: block;
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
+
+#octocat {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:384px;
 }
