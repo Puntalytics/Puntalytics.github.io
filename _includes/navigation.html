@@ -1,3 +1,4 @@
+<!-- old, handmade version of this:
 <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
 
   {%- if site.title-img -%}
@@ -44,9 +45,9 @@
   {% endif %}
 
 </nav>
+-->
 
 
-<!-- old, handmade version of this:
 <nav>
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
@@ -54,4 +55,4 @@
     </a>
   {% endfor %}
 </nav> 
--->
+
