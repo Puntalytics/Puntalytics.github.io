@@ -1,9 +1,9 @@
 ---
 layout: default
-title: puntr, an R package for puntalytics
+title: puntr
 ---
 
-# puntr
+# puntr, an R package for puntalytics
 
 We've been compiling our code for importing, processing, analyzing, and visualizing punting data into an R package, `puntr`. 
 This is mostly for our own ease of use, but it's also available on github for anyone interested.  
