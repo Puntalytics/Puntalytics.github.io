@@ -1,8 +1,7 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
-- name: puntr
-  link: /puntr.html
 - name: Our Metrics
   link: /metrics.html
+- name: puntr
+  link: /puntr.html
+
