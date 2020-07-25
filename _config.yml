@@ -1,2 +1,4 @@
 title: Puntalytics
 theme: jekyll-theme-modernist
+plugins:
+  - lazy-tweet-embedding
