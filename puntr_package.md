@@ -13,4 +13,5 @@ Install via:
 devtools::install_github("Puntalytics/puntr")
 library(puntr)
 ```
-You can also find a .rds file of all punts from the 2000-2019 seasons on GitHub at Puntalytics/Puntalytics/data/punts_all_seasons.rds
+
+You can find .rds files of all punts from each season 1999-2019 [here](https://github.com/Puntalytics/puntr/tree/master/data)
