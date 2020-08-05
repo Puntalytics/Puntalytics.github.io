@@ -11,7 +11,7 @@ The go-to stat in the modern analytics community is EPA - expected points added.
 There are a few big hurdles to using EPA for punting. First, the yards-to-go on fourth down when the punt is called is a huge, huge factor. It's essentially impossible for a punter to log positive EPA on a 4th&1 punt; otherwise put, don't punt on 4th&1! We sidestep this issue by averaging EP values across the entire `nflfastR` dataset to get a game-script-independent valuation of each yardline on 1st or 4th down. With EP values in hand, we can do the subtraction ourself and determine a realistic EPA for every punt.  
   
 However, analyzing the correlation between EPA/punt and line of scrimmage makes it clear that we're still doing punters a disservice:
-![EPA/punt vs. line of scrimmage](/assets/img/epavslos.png)
+![EPA/punt vs. line of scrimmage](/assets/img/epvslos.png)
 We normalize our data one step further by assigning that blue line as the "expected" EPA from that yardline, and scoring each punt based on how much it's above or below that expectation.  
   
 Another big problem with standard EPA/punt is that it's hugely influenced by plays with large returns or turnovers, especially those that result in touchdowns. We account for this by basing our EPA model on RERUN.
