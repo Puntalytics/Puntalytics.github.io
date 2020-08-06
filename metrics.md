@@ -8,7 +8,10 @@ Puntalytics was founded out of a frustration with the metrics typically used to 
 ## EPA/punt
 ![EPA/punt above expected for all punters in 2019](/assets/img/epaae.png)
 The go-to stat in the modern analytics community is EPA - expected points added. Read about EPA [here](https://www.advancedfootballanalytics.com/index.php/home/stats/stats-explained/expected-points-and-epa-explained), among other places.  
-There are a few big hurdles to using EPA for punting. First, the yards-to-go on fourth down when the punt is called is a huge, huge factor. It's essentially impossible for a punter to log positive EPA on a 4th&1 punt; otherwise put, don't punt on 4th&1! We sidestep this issue by averaging EP values across the entire `nflfastR` dataset to get a game-script-independent valuation of each yardline on 1st or 4th down. With EP values in hand, we can do the subtraction ourself and determine a realistic EPA for every punt.  
+There are a few big hurdles to using EPA for punting. First, the yards-to-go on fourth down when the punt is called is a huge, huge factor. It's essentially impossible for a punter to log positive EPA on a 4th&1 punt; otherwise put, don't punt on 4th&1! We sidestep this issue by averaging EP values across the entire `nflfastR` dataset to get a game-script-independent valuation of each yardline on 4th down. This is very similar to what Ben Baldwin does to make this plot:  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EP by yardline and down using <a href="https://twitter.com/nflfastR?ref_src=twsrc%5Etfw">@nflfastR</a> model <a href="https://t.co/MuTWfCLeiu">pic.twitter.com/MuTWfCLeiu</a></p>&mdash; Ben Baldwin (@benbbaldwin) <a href="https://twitter.com/benbbaldwin/status/1289276157238575104?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
+Now, a punt from point A to point B will now be worth the same in our model, regardless of the yards-to-go, score, time left, etc. This is a good start!
   
 However, analyzing the correlation between EPA/punt and line of scrimmage makes it clear that we're still doing punters a disservice:
 ![EPA/punt vs. line of scrimmage](/assets/img/epalos.png)
