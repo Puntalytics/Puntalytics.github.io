@@ -2,6 +2,10 @@
   link: /
 - name: Our Metrics
   link: /metrics.html
+- name: Gallery
+  link: /gallery.html
 - name: puntr Package
   link: /puntr_package.html
+- name: nflfastR website
+  link: https://mrcaseb.github.io/nflfastR/
 
