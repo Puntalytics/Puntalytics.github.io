@@ -4,8 +4,8 @@
   link: /metrics.html
 - name: Gallery
   link: /gallery.html
-- name: puntr Package
-  link: /puntr_package.html
+- name: puntr Documentation
+  link: https://puntalytics.github.io/puntr/
 - name: nflfastR website
   link: https://mrcaseb.github.io/nflfastR/
 
