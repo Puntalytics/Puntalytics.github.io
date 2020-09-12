@@ -11,7 +11,7 @@ knit: (function(inputFile, encoding) {
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_chunk$set(fig.path = '../images')
+knitr::opts_chunk$set(fig.path = '../assets/img/Rmarkdown/')
 ```
 
 This is text
@@ -23,9 +23,10 @@ library(tidyverse)
 # Heading - plot time!
 Here are some plots:
 
-```{r}
+```{r sampleplot}
 df <- tibble(a = 1:100) %>%
   mutate(b = a^2)
 ggplot(data=df, mapping = aes(x=a, y=b)) +
-  geom_point()
+  geom_point() +
+  theme_bw()
 ```

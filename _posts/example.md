@@ -24,7 +24,8 @@ Here are some plots:
 df <- tibble(a = 1:100) %>%
   mutate(b = a^2)
 ggplot(data=df, mapping = aes(x=a, y=b)) +
-  geom_point()
+  geom_point() +
+  theme_bw()
 ```
 
-![](../imagesunnamed-chunk-2-1.png)<!-- -->
+![](../assets/img/Rmarkdown/sampleplot-1.png)<!-- -->
