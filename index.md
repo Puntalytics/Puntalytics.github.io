@@ -11,4 +11,4 @@ If you somehow made it here without knowing about [our twitter](https://twitter.
 ## Puntalytics elsewhere
 We recently contributed to [Open Source Football](https://www.opensourcefootball.com/), a cool project devoted to compiling football analytics from different sources. Read our article about RERUN [here](https://www.opensourcefootball.com/posts/2020-08-21-rerun-exonerating-punters-for-large-returns/)
   
-<a class="twitter-timeline" data-width="500" data-height="600" data-theme="dark" href="https://twitter.com/ThePuntRunts?ref_src=twsrc%5Etfw">Tweets by ThePuntRunts</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline tw-align-center" data-width="500" data-height="600" data-theme="dark" href="https://twitter.com/ThePuntRunts?ref_src=twsrc%5Etfw">Tweets by ThePuntRunts</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
