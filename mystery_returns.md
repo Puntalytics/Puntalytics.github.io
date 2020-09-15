@@ -39,22 +39,30 @@ And finally, plot the distribution of returns:
 ggplot(data = returned_punts_2019, mapping = aes(x = return_yards)) +
   geom_histogram(binwidth = 1) +
   theme_bw() +
-  labs(title = "Distribution of returns on returned punts",
+  labs(title = "Distribution of returns on returned punts in 2019",
          subtitle = "Why all the punts with return = 0?",
          x="Return yards", caption="figure @ThePuntRunts | data @nflfastR")
 ```
 
 ![](../assets/img/Rmarkdown/returndistributions-1.png)<!-- -->
 Everything about this plot seems right, other than 100(\!) more 0-yard
-returns than you’d expect. Our two leading theories are:
+returns than you’d expect. Our leading theories are:
 
+  - there’s some filtering step beyond out-of-bounds, downed, fair
+    catch, and touchback that we’re forgetting, or we’re doing this
+    filtering improperly  
   - some fair catches are missing, meaning a fair caught punt is instead
     logged as “returned” punt with a 0-yard return  
   - some returns are missing, meaning e.g. a 50-yard punt with a 5-yard
-    return gets logged as a 45-yard punt with a 0-yard return  
-    It’s also unclear to us where along the pipeline this discrepancy is
-    most likely to have happened, anywhere from the scorekeeper going to
-    the bathroom during a punt to improper filtering by `puntr`.  
-    And lastly, it’s of course possible that this isn’t an error at all,
-    and there’s just some football reason we’re missing that there are
-    so many 0-yard returns.
+    return gets logged as a 45-yard punt with a 0-yard return
+
+It’s also unclear to us where along the pipeline this discrepancy is
+most likely to have happened, anywhere from the scorekeeper going to the
+bathroom during a punt to improper filtering by `puntr`.  
+And lastly, it’s of course possible that this isn’t an error at all, and
+there’s just some football reason we’re missing that there are so many
+0-yard returns.
+
+In case you’re curious (we were\!) here’s the same plot for all punts
+1999-2019:
+![](../assets/img/Rmarkdown/returndistributionsallyears-1.png)<!-- -->
