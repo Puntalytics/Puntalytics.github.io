@@ -9,7 +9,7 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "..") })
 ---
 
-# An `nflfasR` mystery
+# An `nflfastR` mystery
 
 Here’s a quick little code chunk re: the (too?) large number of
 “returned” punts with 0 yard returns.
@@ -22,7 +22,7 @@ library(puntr)
 library(tidyverse)
 ```
 
-Filter to just returned punts
+Filter to just returned punts:
 
 ``` r
 punts_2019 <- import_punts(2019)
@@ -45,3 +45,16 @@ ggplot(data = returned_punts_2019, mapping = aes(x = return_yards)) +
 ```
 
 ![](../assets/img/Rmarkdown/returndistributions-1.png)<!-- -->
+Everything about this plot seems right, other than 100(\!) more 0-yard
+returns than you’d expect. Our two leading theories are:
+
+  - some fair catches are missing, meaning a fair caught punt is instead
+    logged as “returned” punt with a 0-yard return  
+  - some returns are missing, meaning e.g. a 50-yard punt with a 5-yard
+    return gets logged as a 45-yard punt with a 0-yard return  
+    It’s also unclear to us where along the pipeline this discrepancy is
+    most likely to have happened, anywhere from the scorekeeper going to
+    the bathroom during a punt to improper filtering by `puntr`.  
+    And lastly, it’s of course possible that this isn’t an error at all,
+    and there’s just some football reason we’re missing that there are
+    so many 0-yard returns.

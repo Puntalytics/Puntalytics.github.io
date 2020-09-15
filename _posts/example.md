@@ -9,21 +9,18 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_chunk$set(fig.path = '../assets/img/Rmarkdown/')
-```
-
 This is text
-```{r, message=FALSE, results='hide'}
+
+``` r
 install.packages("tidyverse", repos = "http://cran.us.r-project.org")
 library(tidyverse)
 ```
 
-# Heading - plot time!
+# Heading - plot time\!
+
 Here are some plots:
 
-```{r sampleplot}
+``` r
 df <- tibble(a = 1:100) %>%
   mutate(b = a^2)
 ggplot(data=df, mapping = aes(x=a, y=b)) +
@@ -33,3 +30,5 @@ ggplot(data=df, mapping = aes(x=a, y=b)) +
          subtitle = "Why all the punts with return = 0?",
          x="Return yards", caption="figure @ThePuntRunts | data @nflfastR")
 ```
+
+![](../assets/img/Rmarkdown/sampleplot-1.png)<!-- -->
