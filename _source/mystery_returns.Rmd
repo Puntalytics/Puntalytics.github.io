@@ -64,3 +64,37 @@ ggplot(data = returned_punts, mapping = aes(x = return_yards)) +
          subtitle = "Why all the punts with return = 0?",
          x="Return yards", caption="figure @ThePuntRunts | data @nflfastR")
 ```
+  
+In a last-ditch effort, we checked if some simple `str_detect`s could fix the problem; unfortunately, it seems like even this very wide net only snags a couple hundred punts, ~10% of the mystery.
+```{r, include=TRUE}
+punts %>% 
+  filter(punt_out_of_bounds==0 & return_yards==0) %>%
+  filter(desc %>% str_detect("bounds")) %>%
+  mutate(gotcha = desc %>% str_extract("bounds")) %>%
+  select(punt_out_of_bounds, gotcha)
+```
+
+```{r, include=TRUE}
+punts %>% 
+  filter(punt_downed==0) %>%
+  filter(desc %>% str_detect("owned")) %>%
+  mutate(gotcha = desc %>% str_extract("owned")) %>%
+  select(punt_downed, gotcha)
+```
+
+```{r, include=TRUE}
+punts %>% 
+  filter(punt_fair_catch==0) %>%
+  filter(desc %>% str_detect("air catch" ) | 
+           desc %>% str_detect("air caught")) %>%
+  mutate(gotcha = desc %>% str_extract("air c[:alpha:]+")) %>%
+  select(punt_fair_catch, gotcha)
+```
+
+```{r, include=TRUE}
+punts %>% 
+  filter(touchback==0) %>%
+  filter(desc %>% str_detect("ouchback" )) %>%
+  mutate(gotcha = desc %>% str_extract("ouchback")) %>%
+  select(punt_fair_catch, gotcha)
+```
