@@ -4,8 +4,6 @@
   link: /metrics.html
 - name: Punterviews
   link: /punterviews.html
-   - name: test
-     link: /punterviews/test.html
 #- name: Gallery
 #  link: /gallery.html
 - name: puntr Documentation
