@@ -2,7 +2,7 @@
 layout: post
 subtitle: The Patriots all-pro dishes on punter archetypes, watching football, and more
 ---
-Last week, we had the pleasure of chatting with Patriots punter Jake Bailey. Here is part 1 of our conversation, lighly edited for clarity and conciseness. Stay tuned for Part 2, where we'll dive more into the nitty-gritty of Bailey's approach to punting.  
+Last week, we had the pleasure of chatting with Patriots punter Jake Bailey. Here is part 1 of our conversation, lighly edited for clarity and conciseness. Stay tuned for part 2, where we'll dive more into the nitty-gritty of Bailey's approach to punting.  
   
 ***The Punt Runts: How did you get into punting? What sports did you play before? What made you want to become a punter?***  
   
