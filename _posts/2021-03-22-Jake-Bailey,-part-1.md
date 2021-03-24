@@ -62,7 +62,7 @@ It's always fun, for me, watching the camera zoom in on the punter walking on th
   
 *The Punt Runts: What's something that you'd wish the world and our followers knew about punting that they might not know?*  
   
-**Jake Bailey:(( I would say, if I have a son that I would want them to be a punter, not a kicker.  
+**Jake Bailey:** I would say, if I have a son that I would want them to be a punter, not a kicker.  
   
 I'm happy, I was always a kicker in high school, I didn't punt till my senior year of high school actually. I loved field goal kicking in high school, I went to a small little Christian school and there were 400 people at most watching my games. It was a fun little environment to kind of grow your technique and stuff, I was super raw. Once I got to college, my college coaches were like “yeah, you're going to be a punter,” I was like “Okay, whatever, I just want to go to Stanford.”  
   
