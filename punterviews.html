@@ -1,0 +1,15 @@
+---
+layout: default
+title: Punterviews
+---
+
+<h1> Punterviews </h1>
+<h3> Like interviews, but with punters </h3>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.subtitle }}
+    </li>
+  {% endfor %}
+</ul>

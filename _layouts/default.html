@@ -1,4 +1,9 @@
 <!doctype html>
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+{% endif %}
+
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
@@ -13,6 +18,8 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    
+    
   </head>
   <body>
     <div class="wrapper">

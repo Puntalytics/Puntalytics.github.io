@@ -2,12 +2,12 @@
   link: /
 - name: Our Metrics
   link: /metrics.html
-- name: Gallery
-  link: /gallery.html
+- name: Punterviews
+  link: /punterviews.html
+#- name: Gallery
+#  link: /gallery.html
 - name: puntr Documentation
   link: https://puntalytics.github.io/puntr/
 - name: nflfastR website
   link: https://mrcaseb.github.io/nflfastR/
-- name: Mystery Returns
-  link: /mystery_returns.html
   
