@@ -7,16 +7,15 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 always_allow_html: TRUE
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "_posts") })
 ---
 
 [//]: # (THIS DOCUMENT WILL NO LONGER RENDER LOCALLY, lit)
+[//]: # (knit: (function(inputFile, encoding { rmarkdown::render(inputFile, encoding = encoding, output_dir = "_posts") }))
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(base.url = '/')
-knitr::opts_chunk$set(fig.path = 'assets/img/Rmarkdown/')
+#knitr::opts_knit$set(base.url = '/')
+#knitr::opts_chunk$set(fig.path = 'assets/img/Rmarkdown/')
 install.packages(c("devtools", "tidyverse"), repos = "http://cran.us.r-project.org")
 library(tidyverse)
 
