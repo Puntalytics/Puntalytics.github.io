@@ -19,10 +19,9 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
 
       - name: Install packages
-        run: >
-          Rscript -e 'install.packages("renv")'
+        run: Rscript -e 'install.packages("renv")'
           
-          Rscript -e 'renv::restore()'
+          #Rscript -e 'renv::restore()'
 
       - name: Render Rmarkdown files
         run: >
