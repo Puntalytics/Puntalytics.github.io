@@ -15,7 +15,7 @@ knit: (function(inputFile, encoding) {
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_chunk$set(fig.path = 'assets/img/Rmarkdown/')
+knitr::opts_chunk$set(fig.path = '/assets/img/Rmarkdown/')
 install.packages(c("devtools", "tidyverse"), repos = "http://cran.us.r-project.org")
 library(tidyverse)
 
