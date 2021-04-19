@@ -11,8 +11,6 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 ---
 
-# Part 2 - nitty gritty
-
 ***The Punt Runts: How many different punt plays does the team have? To
 what extent are you being directed on the sidelines what to do in a
 particular situation?***
@@ -211,10 +209,12 @@ played the Texans, at one point we were trying to adjust the direction
 of the punt. And I ended up hitting it right, and it was probably one of
 my best hang times of the season. It went right on the sideline and if
 it had been two inches closer to the sideline the returner would have
-caught out of bounds.
+caught out of bounds. (You can see that punt
+[here](https://www.youtube.com/embed/BSk70wHmo0M?start=377), if you’re
+curious).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BSk70wHmo0M?start=377" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+For more content like this, be sure to follow @ThePuntRunts on
+Twitter!  
 <a href="https://twitter.com/ThePuntRunts?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow
 @ThePuntRunts</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
