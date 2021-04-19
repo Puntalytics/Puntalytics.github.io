@@ -8,7 +8,7 @@ output:
     preserve_yaml: TRUE
 always_allow_html: TRUE
 knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "_posts") })
 ---
 
 ***The Punt Runts: How many different punt plays does the team have? To
@@ -52,7 +52,7 @@ Those different types of punts would be:
 
 Those are the punts types that I have, and you could do
 
-1.  the little banana punt. I hit that in the Dolphins game at the end
+5.  the little banana punt. I hit that in the Dolphins game at the end
     of the season. I got a spoon right here. So pretend it’s a football.
     If this is how you normally drop it \[demonstrating a drop with the
     football parallel to the swinging foot\]. If you want to spiral it
@@ -65,7 +65,7 @@ Those are the punts types that I have, and you could do
 
 And then obviously you do the
 
-1.  inside the five, end over end, and have Matt Slater go catch it
+6.  inside the five, end over end, and have Matt Slater go catch it
     there. That’s about it. I’ve experimented with the laser punt with
     no hang time, spiral punt, just on the sideline, but that’s pretty
     hard to perfect and especially with different wind patterns in
@@ -90,7 +90,7 @@ bit more conservative and then anything like in front of the 50 yard
 line you’re just trying to get it inside the 10 and not hit a touchback.
 So the 40 yard line is a pretty good indicator that I would say.
 
-![](../assets/img/Rmarkdown/losplot-1.png)<!-- -->
+![](assets/img/Rmarkdown/losplot-1.png)<!-- -->
 
 *This plot of Gross Yards vs. LOS (a favorite of us at Puntalytics)
 shows that, as Jake says, the average Gross Yards / punt starts to
@@ -209,12 +209,13 @@ played the Texans, at one point we were trying to adjust the direction
 of the punt. And I ended up hitting it right, and it was probably one of
 my best hang times of the season. It went right on the sideline and if
 it had been two inches closer to the sideline the returner would have
-caught out of bounds. (You can see that punt
+caught out of bounds. *(You can see that punt
 [here](https://www.youtube.com/embed/BSk70wHmo0M?start=377), if you’re
-curious).
+curious).*
 
 For more content like this, be sure to follow @ThePuntRunts on
-Twitter!  
+Twitter\!  
 <a href="https://twitter.com/ThePuntRunts?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow
 @ThePuntRunts</a>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
