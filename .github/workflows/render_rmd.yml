@@ -23,12 +23,13 @@ jobs:
         Rscript -e 'install.packages("renv")'  
         Rscript -e 'renv::restore()'
 
-    - name: Render Rmarkdown files
+    - name: Render Rmarkdown file
       run: >
-        RMD_PATH=($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '[.]Rmd$'))
-                
-        Rscript -e 'for (f in commandArgs(TRUE)) if (file.exists(f)) 
-        rmarkdown::render(f, output_format = "md_document", output_dir = /_posts/)' ${RMD_PATH[*]} 
+        RMD_PATH=($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} 
+        | grep '[.]Rmd$' | head -n 1))
+        
+        Rscript -e "for (f in commandArgs(TRUE)) if (file.exists(f)) 
+        rmarkdown::render(f, output_format = 'md_document', output_dir = '/_posts/')" ${RMD_PATH[*]}
 
     - name: Commit results
       run: |
