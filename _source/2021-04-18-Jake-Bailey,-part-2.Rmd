@@ -11,7 +11,7 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "/_posts") })
 ---
 
-[//]: # (THIS DOCUMENT WILL NO LONGER RENDER LOCALLY)
+[//]: # (THIS DOCUMENT WILL NO LONGER KNIT LOCALLY)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -110,7 +110,7 @@ I had my worst punt of the season, we were on the [opposing] 43 yard and I hit a
 
 **Jake Bailey:** We all had the same reaction on the sideline.
 
-Best part, though: I don't remember which punt it was, but when we played the Texans, at one point we were trying to adjust the direction of the punt. And I ended up hitting it right, and it was probably one of my best hang times of the season. It went right on the sideline and if it had been two inches closer to the sideline the returner would have caught out of bounds. (You can see that punt [here](https://www.youtube.com/embed/BSk70wHmo0M?start=377), if you're curious).
+Best part, though: I don't remember which punt it was, but when we played the Texans, at one point we were trying to adjust the direction of the punt. And I ended up hitting it right, and it was probably one of my best hang times of the season. It went right on the sideline and if it had been two inches closer to the sideline the returner would have caught out of bounds. *(You can see that punt [here](https://www.youtube.com/embed/BSk70wHmo0M?start=377), if you're curious).*
   
 For more content like this, be sure to follow @ThePuntRunts on Twitter!  
 <a href="https://twitter.com/ThePuntRunts?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ThePuntRunts</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
