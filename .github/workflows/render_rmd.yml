@@ -24,14 +24,17 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
 
       - name: Install packages
-        run: |
+        run: >
           Rscript -e 'install.packages("renv")'
+          
           Rscript -e 'renv::restore()'
 
       - name: Render Rmarkdown files
-        run: |
+        run: >
           RMD_PATH=($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '[.]Rmd$'))
-          Rscript -e 'for (f in commandArgs(TRUE)) if (file.exists(f)) rmarkdown::render(f, output_format = "md_document", output_dir = /_posts/)' ${RMD_PATH[*]} 
+          
+          Rscript -e 'for (f in commandArgs(TRUE)) if (file.exists(f)) 
+          rmarkdown::render(f, output_format = "md_document", output_dir = /_posts/)' ${RMD_PATH[*]} 
 
       - name: Commit results
         run: |
