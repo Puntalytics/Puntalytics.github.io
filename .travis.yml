@@ -6,7 +6,7 @@ branches:
   only: source
 
 script:
-  - Rscript -e 'servr::knit_maybe(c("_source", "_topsource"), c("_posts", "."), "build.R", "jekyll")'
+  - Rscript -e 'servr:::knit_maybe(c("_source", "_topsource"), c("_posts", "."), "build.R", "jekyll")'
   
 deploy:
   provider: pages
