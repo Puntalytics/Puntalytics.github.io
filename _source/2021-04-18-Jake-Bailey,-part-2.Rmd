@@ -11,7 +11,7 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "/_posts") })
 ---
 
-[//]: # (THIS DOCUMENT WILL NO LONGER RENDER LOCALLY)
+[//]: # (THIS DOCUMENT WILL NO LONGER WORK LOCALLY)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
