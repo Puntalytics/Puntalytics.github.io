@@ -7,8 +7,6 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 always_allow_html: TRUE
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "_posts") })
 ---
 
 ***The Punt Runts: How many different punt plays does the team have? To
