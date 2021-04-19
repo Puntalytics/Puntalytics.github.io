@@ -3,7 +3,7 @@ name: Render .Rmd post
 on:
   push:
    paths:
-     - _source/*.Rmd
+     - _source/[0-9]*.Rmd
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,8 +32,10 @@ jobs:
 
     - name: Render Rmarkdown file
       run: >
-        RMD_PATH=($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} 
-        | grep '[.]Rmd$' | head -n 1))
+        #RMD_PATH=($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} 
+        #| grep '[.]Rmd$' | head -n 1))
+        
+        RMD_PATH=(find _source/[0-9]*.Rmd)
         
         Rscript -e "for (f in commandArgs(TRUE)) if (file.exists(f)) 
         rmarkdown::render(f, output_format = 'md_document', output_dir = '/_posts/')" ${RMD_PATH[*]}
