@@ -129,10 +129,10 @@ mess up, they can make sure the damage is not too bad.
 return percentage is super low, we can go check. (brief pause) Yep, you
 had the lowest return percentage in the league last year.***
 
-| Top Punters in 2020 with lowest % of punts returned |
+| Punters in 2020 with lowest % of punts returned |||
 | Punters              | returnpct | Gross |   Net | Punter\_EPA |
 |:---------------------|----------:|------:|------:|------------:|
-| J.Bailey             |      0.22 | 46.87 | 45.58 |        0.34 |
+| ***J.Bailey***             |     **0.22** | 46.87 | 45.58 |        0.34 |
 | T.Townsend           |      0.29 | 42.63 | 40.29 |       -0.01 |
 | A.Cole               |      0.32 | 43.16 | 40.14 |        0.04 |
 | T.Morstead           |      0.32 | 42.48 | 41.74 |       -0.09 |
