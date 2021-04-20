@@ -39,7 +39,7 @@ jobs:
         RMD_PATH=(find _source/[0-9]*.Rmd)
         
         Rscript -e "for (f in commandArgs(TRUE)) if (file.exists(f)) 
-        rmarkdown::render(f, output_format = 'md_document', output_dir = '_posts/', knit_root_dir='../')" ${RMD_PATH[*]}
+        rmarkdown::render(f, output_format = 'md_document', output_dir = '_posts/')" ${RMD_PATH[*]}
 
     - name: Commit results
       run: |
