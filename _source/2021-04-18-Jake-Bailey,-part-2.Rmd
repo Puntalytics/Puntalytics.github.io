@@ -9,7 +9,7 @@ output:
 always_allow_html: TRUE
 ---
 
-[//]: # (THIS DOCUMENT WILL NO LONGER KNIT LOCALLY, pls run tho)
+[//]: # (THIS DOCUMENT WILL NO LONGER KNIT LOCALLY, pls tho)
 [//]: # (knit: (function(inputFile, encoding { rmarkdown::render(inputFile, encoding = encoding, output_dir = "_posts") }))
 
 ```{r setup, include=FALSE}
