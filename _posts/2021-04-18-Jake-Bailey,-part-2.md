@@ -53,7 +53,7 @@ Those different types of punts would be:
     bounds or on the sideline. Justin Bethel and Matt Slater are going
     to be there.
 
-    Those are the punts types that I have, and you could do
+    Those are the punt types that I have, and you could do
 
 1.  the little banana punt. I hit that in the Dolphins game at the end
     of the season. I got a spoon right here. So pretend it’s a football.
@@ -69,10 +69,9 @@ Those different types of punts would be:
     And then obviously you do the
 
 1.  inside the five, end over end, and have Matt Slater go catch it
-    there. That’s about it. I’ve experimented with the laser punt with
-    no hang time, spiral punt, just on the sideline, but that’s pretty
-    hard to perfect and especially with different wind patterns in
-    Gillette, it’s hard to do that one.
+    there.
+    
+That’s about it. I’ve experimented with the laser punt with no hang time, spiral punt, just on the sideline, but that’s pretty hard to perfect and especially with different wind patterns in Gillette, it’s hard to do that one.
 
 ***The Punt Runts: In our processing of plays we pick the own 40 as the
 boundary between open-field and pin-deep. How well does that yard line
@@ -142,7 +141,7 @@ had the lowest return percentage in the league last year.***
 | M.Haack              |      0.35 | 44.12 | 39.75 |        0.02 |
 | J.Fox                |      0.36 | 46.73 | 44.76 |        0.20 |
 
-*A Interestingly, return percentage doesn’t correlate super well with
+*Interestingly, return percentage doesn’t correlate super well with
 other metrics like Net and EPA/punt; that said, Jake Bailey led the
 league in all three last season.*
 
