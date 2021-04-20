@@ -11,7 +11,7 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 ---
 
-In part 2 of our interview with Jake Bailey, we ask the all-pro to
+In part 2 of our interview with Jake Bailey, we ask the All-Pro to
 elaborate on his approach and how he evaluates his performance.
 
 ***The Punt Runts: How many different punt plays does the team have? To
@@ -53,7 +53,7 @@ Those different types of punts would be:
     bounds or on the sideline. Justin Bethel and Matt Slater are going
     to be there.
 
-Those are the punts types that I have, and you could do
+    Those are the punts types that I have, and you could do
 
 1.  the little banana punt. I hit that in the Dolphins game at the end
     of the season. I got a spoon right here. So pretend it’s a football.
@@ -66,7 +66,7 @@ Those are the punts types that I have, and you could do
     it. That’s a pin-it
     inside-the-10-and-maybe-try-and-manufacturer-a-muffed-punt.
 
-And then obviously you do the
+    And then obviously you do the
 
 1.  inside the five, end over end, and have Matt Slater go catch it
     there. That’s about it. I’ve experimented with the laser punt with
