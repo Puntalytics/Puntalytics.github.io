@@ -7,7 +7,12 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 always_allow_html: TRUE
+knit: (function(inputFile, encoding) { 
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 ---
+
+In part 2 of our interview with Jake Bailey, we ask the all-pro to
+elaborate on his approach and how he evaluates his performance.
 
 ***The Punt Runts: How many different punt plays does the team have? To
 what extent are you being directed on the sidelines what to do in a
@@ -50,7 +55,7 @@ Those different types of punts would be:
 
 Those are the punts types that I have, and you could do
 
-5.  the little banana punt. I hit that in the Dolphins game at the end
+1.  the little banana punt. I hit that in the Dolphins game at the end
     of the season. I got a spoon right here. So pretend it’s a football.
     If this is how you normally drop it \[demonstrating a drop with the
     football parallel to the swinging foot\]. If you want to spiral it
@@ -63,7 +68,7 @@ Those are the punts types that I have, and you could do
 
 And then obviously you do the
 
-6.  inside the five, end over end, and have Matt Slater go catch it
+1.  inside the five, end over end, and have Matt Slater go catch it
     there. That’s about it. I’ve experimented with the laser punt with
     no hang time, spiral punt, just on the sideline, but that’s pretty
     hard to perfect and especially with different wind patterns in
@@ -88,7 +93,7 @@ bit more conservative and then anything like in front of the 50 yard
 line you’re just trying to get it inside the 10 and not hit a touchback.
 So the 40 yard line is a pretty good indicator that I would say.
 
-![](/Users/runner/work/Puntalytics.github.io/Puntalytics.github.io/_posts/2021-04-18-Jake-Bailey,-part-2_files/figure-gfm/losplot-1.png)<!-- -->
+![](../assets/img/Rmarkdown/losplot-1.png)<!-- -->
 
 *This plot of Gross Yards vs. LOS (a favorite of us at Puntalytics)
 shows that, as Jake says, the average Gross Yards / punt starts to
@@ -141,7 +146,7 @@ that fast and just making sure, like the returners are scared to pick up
 the ball, scared to return it. As well as \[Long Snapper Joe Cardona\]
 having such a fast snap allowing me to take time. So teams don’t want to
 rush us all that much, and I can still take my time, sit back there and
-know that i’m not totally going to be rushed but go a little bit fast.
+know that I’m not totally going to be rushed but go a little bit fast.
 The whole punt team works together in such unison, where if Joe does his
 job, that allows me to do my job, and that allows Matt and Justin to do
 their jobs and it works out really well.
@@ -212,8 +217,7 @@ caught out of bounds. *(You can see that punt
 curious).*
 
 For more content like this, be sure to follow @ThePuntRunts on
-Twitter\!  
+Twitter!  
 <a href="https://twitter.com/ThePuntRunts?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow
 @ThePuntRunts</a>
-
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
