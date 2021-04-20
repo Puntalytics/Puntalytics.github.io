@@ -3,7 +3,7 @@ title: Jake Bailey, Part 2
 layout: post
 subtitle: More Puntalytics with Jake Bailey
 output:
-  html_document:
+  md_document:
     variant: gfm
     preserve_yaml: TRUE
 always_allow_html: TRUE
@@ -87,7 +87,7 @@ miniY <- punts %>% create_miniY() %>%
   select(punter_player_name, returnpct, Gross, Net, Punter_EPA) %>%
   mutate(across(where(is.numeric), round, 2))
 #rmarkdown::paged_table(miniY)
-DT::datatable(miniY)
+knitr::kable(miniY)
 ```
   
 *Interestingly, return percentage doesn't correlate super well with other metrics like Net and EPA/punt; that said, Jake Bailey led the league in all three last season.*
