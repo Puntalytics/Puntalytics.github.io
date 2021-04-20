@@ -45,8 +45,8 @@ Those different types of punts would be:
     punt,
 4.  a little opposite punt, where you aim right to show the returner
     you’re going to hit it to the right and drop the ball inside nose
-    down and yank it around to your left. I hit that twice against
-    Tyreek Hill and Mecole Hardman against the Chiefs and that worked
+    down and yank it around to your left. I hit that twice [against
+    Tyreek Hill and Mecole Hardman against the Chiefs](https://youtu.be/BSk70wHmo0M?t=121) and that worked
     really well because the wind pattern going that way carried the ball
     to the sideline. I remember those punts were nice, they didn’t have
     the best hang time but it doesn’t matter if you’re hitting it out of
