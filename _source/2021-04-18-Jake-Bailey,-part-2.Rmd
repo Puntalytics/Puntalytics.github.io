@@ -14,8 +14,10 @@ always_allow_html: TRUE
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+#knitr::opts_set$(base.url='/', 
+
 #knitr::opts_knit$set(root.dir = '../')
-knitr::opts_chunk$set(fig.path = 'assets/img/Rmarkdown/')
+#knitr::opts_chunk$set(fig.path = 'assets/img/Rmarkdown/')
 #knitr::opts_knit$set(base.dir = 'assets/img/Rmarkdown/')
 install.packages(c("devtools", "tidyverse"), repos = "http://cran.us.r-project.org")
 library(tidyverse)
