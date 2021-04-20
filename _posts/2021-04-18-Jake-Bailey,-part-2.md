@@ -129,8 +129,8 @@ mess up, they can make sure the damage is not too bad.
 return percentage is super low, we can go check. (brief pause) Yep, you
 had the lowest return percentage in the league last year.***
 
-| Punters              | returnpct | Gross |   Net | Punter\_EPA |
-|:----------------|----------:|------:|------:|------------:|
+| Punters              | returnpct | Gross |   Net | EPA/p |
+|:-----------|-------:|------:|------:|------:|
 | ***J.Bailey***       |  **0.22** | 46.87 | 45.58 |        0.34 |
 | T.Townsend           |      0.29 | 42.63 | 40.29 |       -0.01 |
 | A.Cole               |      0.32 | 43.16 | 40.14 |        0.04 |
