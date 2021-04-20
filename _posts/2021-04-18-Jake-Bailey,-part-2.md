@@ -64,7 +64,7 @@ Those different types of punts would be:
     hit the end of the ball over here and it kind of does like a
     boomerang little thing. It’s really hard for the returners to catch
     it. That’s a pin-it
-    inside-the-10-and-maybe-try-and-manufacturer-a-muffed-punt. *The New York times did a neat look at the banana punt a few years back, [check it out](https://www.nytimes.com/interactive/2017/11/02/sports/football/punter-hekker.html).*
+    inside-the-10-and-maybe-try-and-manufacturer-a-muffed-punt. [*The New York times did a neat look at the banana punt a few years back, [check it out] (https://www.nytimes.com/interactive/2017/11/02/sports/football/punter-hekker.html).*]
 
     And then obviously you do the
 
@@ -217,9 +217,7 @@ played the Texans, at one point we were trying to adjust the direction
 of the punt. And I ended up hitting it right, and it was probably one of
 my best hang times of the season. It went right on the sideline and if
 it had been two inches closer to the sideline the returner would have
-caught out of bounds. *(You can see that punt
-[here](https://www.youtube.com/embed/BSk70wHmo0M?start=377), if you’re
-curious).*
+caught out of bounds. [*[Here's that punt](https://www.youtube.com/embed/BSk70wHmo0M?start=377)*]
 
 For more content like this, be sure to follow @ThePuntRunts on
 Twitter!  
