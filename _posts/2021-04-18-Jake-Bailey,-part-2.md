@@ -141,27 +141,6 @@ had the lowest return percentage in the league last year.***
 | B.Anger              |      0.35 | 44.17 | 41.80 |        0.00 |
 | M.Haack              |      0.35 | 44.12 | 39.75 |        0.02 |
 | J.Fox                |      0.36 | 46.73 | 44.76 |        0.20 |
-| M.Wishnowsky         |      0.36 | 44.37 | 41.64 |        0.05 |
-| J.Berry              |      0.37 | 44.72 | 40.47 |        0.02 |
-| J.Scott              |      0.37 | 44.17 | 37.85 |       -0.01 |
-| A.Lee                |      0.38 | 43.10 | 39.64 |        0.00 |
-| L.Cooke              |      0.38 | 45.98 | 43.29 |        0.10 |
-| C.Bojorquez          |      0.39 | 47.37 | 44.00 |        0.18 |
-| P.O’Donnell          |      0.39 | 44.12 | 39.53 |        0.03 |
-| J.Charlton           |      0.40 | 44.51 | 40.42 |        0.06 |
-| R.Dixon              |      0.40 | 42.34 | 38.77 |       -0.05 |
-| K.Huber              |      0.41 | 45.21 | 42.82 |       -0.01 |
-| B.Pinion             |      0.42 | 44.47 | 40.18 |       -0.02 |
-| S.Martin             |      0.44 | 44.85 | 41.42 |       -0.01 |
-| M.Dickson            |      0.46 | 47.67 | 44.41 |        0.20 |
-| S.Hofrichter         |      0.46 | 41.80 | 39.27 |       -0.20 |
-| R.Sanchez            |      0.47 | 43.26 | 39.98 |       -0.04 |
-| B.Mann               |      0.48 | 43.09 | 37.51 |       -0.18 |
-| J.Gillan             |      0.49 | 42.82 | 38.33 |       -0.11 |
-| T.Way                |      0.49 | 47.18 | 44.32 |        0.12 |
-| C.Johnston           |      0.58 | 44.42 | 40.61 |       -0.09 |
-| B.Colquitt           |      0.62 | 43.18 | 37.35 |       -0.23 |
-| T.Long               |      0.67 | 43.48 | 34.08 |       -0.24 |
 
 *Interestingly, return percentage doesn’t correlate super well with
 other metrics like Net and EPA/punt; that said, Jake Bailey led the
