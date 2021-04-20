@@ -3,28 +3,26 @@ title: Jake Bailey, Part 2
 layout: post
 subtitle: More Puntalytics with Jake Bailey
 output:
-  md_document:
+  html_document:
     variant: gfm
     preserve_yaml: TRUE
 always_allow_html: TRUE
+knit: (function(inputFile, encoding) { 
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 ---
-
-[//]: # (THIS DOCUMENT WILL NO LONGER KNIT LOCALLY, plspls)
-[//]: # (knit: (function(inputFile, encoding { rmarkdown::render(inputFile, encoding = encoding, output_dir = "_posts") }))
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-#knitr::opts_set$(base.url='/', 
 
-#knitr::opts_knit$set(root.dir = '../')
-#knitr::opts_chunk$set(fig.path = 'assets/img/Rmarkdown/')
-#knitr::opts_knit$set(base.dir = 'assets/img/Rmarkdown/')
-install.packages(c("devtools", "tidyverse"), repos = "http://cran.us.r-project.org")
+knitr::opts_chunk$set(fig.path = '../assets/img/Rmarkdown/')
+install.packages(c("devtools", "tidyverse", "DT"), repos = "http://cran.us.r-project.org")
 library(tidyverse)
 
 devtools::install_github("Puntalytics/puntr")
 library(puntr)
 ```
+
+In part 2 of our interview with Jake Bailey, we ask the all-pro to elaborate on his approach and how he evaluates his performance.
 
 ***The Punt Runts: How many different punt plays does the team have? To what extent are you being directed on the sidelines what to do in a particular situation?***
 
@@ -88,12 +86,13 @@ miniY <- punts %>% create_miniY() %>%
   rename(Punter_EPA = Punt_eaepaae_avg) %>%
   select(punter_player_name, returnpct, Gross, Net, Punter_EPA) %>%
   mutate(across(where(is.numeric), round, 2))
-rmarkdown::paged_table(miniY)
+#rmarkdown::paged_table(miniY)
+DT::datatable(miniY)
 ```
   
 *Interestingly, return percentage doesn't correlate super well with other metrics like Net and EPA/punt; that said, Jake Bailey led the league in all three last season.*
 
-**Jake Bailey:** That's 100% due to Matt Slater and Justin Bethel being that fast and just making sure, like the returners are scared to pick up the ball, scared to return it. As well as [Long Snapper Joe Cardona] having such a fast snap allowing me to take time. So teams don't want to rush us all that much, and I can still take my time, sit back there and know that i'm not totally going to be rushed but go a little bit fast. The whole punt team works together in such unison, where if Joe does his job, that allows me to do my job, and that allows Matt and Justin to do their jobs and it works out really well.
+**Jake Bailey:** That's 100% due to Matt Slater and Justin Bethel being that fast and just making sure, like the returners are scared to pick up the ball, scared to return it. As well as [Long Snapper Joe Cardona] having such a fast snap allowing me to take time. So teams don't want to rush us all that much, and I can still take my time, sit back there and know that I'm not totally going to be rushed but go a little bit fast. The whole punt team works together in such unison, where if Joe does his job, that allows me to do my job, and that allows Matt and Justin to do their jobs and it works out really well.
 
 ***The Punt Runts: How many data points do you have about each play, that someone is either keeping track of for this time from a stopwatch or you have player tracking data available for?***
 
