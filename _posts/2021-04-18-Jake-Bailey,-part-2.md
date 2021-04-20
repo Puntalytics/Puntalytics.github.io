@@ -64,7 +64,7 @@ Those different types of punts would be:
     hit the end of the ball over here and it kind of does like a
     boomerang little thing. It’s really hard for the returners to catch
     it. That’s a pin-it
-    inside-the-10-and-maybe-try-and-manufacturer-a-muffed-punt. \[*The New York times did a neat look at the banana punt a few years back, [check it out] (https://www.nytimes.com/interactive/2017/11/02/sports/football/punter-hekker.html).*\]
+    inside-the-10-and-maybe-try-and-manufacturer-a-muffed-punt. \[*The New York times did a neat look at the banana punt a few years back, [check it out](https://www.nytimes.com/interactive/2017/11/02/sports/football/punter-hekker.html).*\]
 
     And then obviously you do the
 
