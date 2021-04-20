@@ -55,7 +55,7 @@ Those different types of punts would be:
 
     Those are the punts types that I have, and you could do
 
-1.  the little banana punt. I hit that in the Dolphins game at the end
+1.  the little banana punt. I hit that in the [Dolphins game](https://youtu.be/BSk70wHmo0M?t=637) at the end
     of the season. I got a spoon right here. So pretend it’s a football.
     If this is how you normally drop it \[demonstrating a drop with the
     football parallel to the swinging foot\]. If you want to spiral it
@@ -65,6 +65,7 @@ Those different types of punts would be:
     boomerang little thing. It’s really hard for the returners to catch
     it. That’s a pin-it
     inside-the-10-and-maybe-try-and-manufacturer-a-muffed-punt.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BSk70wHmo0M?start=647" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     And then obviously you do the
 
