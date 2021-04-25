@@ -5,3 +5,6 @@ google_analytics: UA-192928906-1
 
 plugins:
   - jekyll-seo-tag
+  
+gems:
+  - jekyll-font-awesome-sass
