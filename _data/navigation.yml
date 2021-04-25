@@ -8,6 +8,6 @@
 #  link: /gallery.html
 - name: puntr Documentation
   link: https://puntalytics.github.io/puntr/
-- icon: fa fa-twitter
+- icon: <i class="fa fa-twitter"></i>
   link: https://www.twitter.com/ThePuntRunts
   
