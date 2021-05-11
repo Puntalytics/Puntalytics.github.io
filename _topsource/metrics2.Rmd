@@ -5,13 +5,32 @@ output:
   md_document:
     variant: gfm
     preserve_yaml: TRUE
+knit: (function(inputFile, encoding) { 
+  rmarkdown::render(inputFile, output_dir = "..") })
 ---
 # Our Metrics
 Puntalytics was founded out of a frustration with the metrics typically used to evaluate punters.  As we'll explain below, Gross Yards per Punt and Net Yards per Punt leave a lot to be desired; other metrics (like Percent of Punts Inside the 20 and Touchback Percentage) can help fill in the gaps, but still don't give a complete picture. Applying traditional EPA to punting is a disaster. The metrics below are our humble attempt at carrying puntalytics into the data science age along with the rest of football.
+```{r setup, include=FALSE, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+install.packages("tidyverse", repos = "http://cran.us.r-project.org")
+```
+```{r test, fig.path=normalizePath('../assets/img/Rmarkdown/')}
+library(ggplot2)
+#knitr::opts_knit$get(
+#knitr::opts_chunk$get("fig.path")
+#setwd(knitr::opts_chunk$get("fig.path"))
+p <- ggplot(data=ggplot2::diamonds, mapping = aes(x=x, y=y))+
+  geom_point()
+p
+```
+
+
 ## EPA/punt
 Before we get to all the nitty gritty below, here are 2019 punters ranked by era-adjusted EPA above expected/punt! That's EAEPAAE/P, officially the world's worst acronym.   
 The go-to stat in the modern analytics community is EPA - expected points added. Read about EPA [here](https://www.advancedfootballanalytics.com/index.php/home/stats/stats-explained/expected-points-and-epa-explained), among other places.  
 There are a few big hurdles to using EPA for punting. First, the yards-to-go on fourth down when the punt is called is a huge, huge factor. It's essentially impossible for a punter to log positive EPA on a 4th&1 punt; otherwise put, don't punt on 4th&1! More generally, there are many factors influencing traditional EPA (score, time remaining, etc.) that are out of the punter's control. Our model sidesteps this issue by averaging EP values across the entire `nflfastR` dataset to get a game-script-independent EP value for having a 4th down on each yard line, and similarly, an EP value for having a 1st down on each yard line.  
+```{r}
+
+```
   
 This is enough information to start assigning EPA values to punts. For example, having a 4th down at your own 20 yard line is worth on average -2 expected points (the negative value means that your opponent is more likely to score next). Now, you punt 50 yards, giving your opponent the ball on their 30. Your opponent's first down from their own 30 is worth on average 1.3 expected points for them, or -1.3 expected points for you. This means that you've improved your team's fortunes by 0.7 points! Using this approach, a punt from yard line X to yard line Y will always be worth the same EPA in our model.
   
