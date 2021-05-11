@@ -32,13 +32,13 @@ jobs:
         R -e 'install.packages("rmarkdown")'
     - name: Render Rmarkdown file
       run: >
-        RMD_PATH=($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} 
-        | grep '[.]Rmd$' | head -n 1))
+        #RMD_PATH=($(git diff --name-only ${{ github.event.before }} ${{ github.sha }} 
+        #| grep '[.]Rmd$' | head -n 1))
         
-        #RMD_PATH=(find _topsource/[0-9]*.Rmd)
+        RMD_PATH=(find _topsource/*.Rmd)
         
         Rscript -e "for (f in commandArgs(TRUE)) if (file.exists(f)) 
-        rmarkdown::render(f, output_format = 'md_document', output_dir = '/', knit_root_dir='$HOME')" ${RMD_PATH[*]}
+        rmarkdown::render(f, output_format = 'md_document', output_dir = '../')" ${RMD_PATH[*]}
      # env:
       #  workspace: $GITHUB_WORKSPACE
 
