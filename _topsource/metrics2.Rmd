@@ -15,7 +15,6 @@ install.packages("tidyverse", repos = "http://cran.us.r-project.org")
 ```
 ```{r test, fig.path=normalizePath('../assets/img/Rmarkdown/')}
 library(ggplot2)
-#knitr::opts_chunk$get("fig.path")
 #setwd(knitr::opts_chunk$get("fig.path"))
 p <- ggplot(data=ggplot2::diamonds, mapping = aes(x=x, y=y))+
   geom_point()
