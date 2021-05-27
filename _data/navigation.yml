@@ -4,8 +4,8 @@
   link: /metrics.html
 - name: Punterviews
   link: /punterviews.html
-#- name: Gallery
-#  link: /gallery.html
+- name: Plot Gallery
+  link: /gallery.html
 - name: puntr Documentation
   link: https://puntalytics.github.io/puntr/
 #- icon: <i class="fa fa-twitter"></i>
