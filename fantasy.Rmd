@@ -171,7 +171,7 @@ Most punts will then be worth between 0 and 3 points, and the best possible punt
 ```{r makeDT, include=FALSE, echo=TRUE, message=FALSE, warning=FALSE}
 punts_2020 <- import_punts(2020) %>% trust_the_process() %>% calculate_all()
 
-miniff <- fantasize(punts_20) %>% select(punter_player_name, total_points, games, ppg)
+miniff <- fantasize(punts_2020) %>% select(punter_player_name, total_points, games, ppg)
 
 DT::datatable(miniff)
 ```
