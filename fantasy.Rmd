@@ -8,6 +8,8 @@ output:
 always_allow_html: yes
 ---
 
+# Punt Runts Fantasy Guide
+
 ```{r setup, include=FALSE, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 install.packages(c("tidyverse", "ggrepel", "DT", "devtools", "knitr"), repos = "http://cran.us.r-project.org")
 devtools::install_github("Puntalytics/puntr")
