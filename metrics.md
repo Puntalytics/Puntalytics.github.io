@@ -7,7 +7,7 @@ title: Our Metrics
 Puntalytics was founded out of a frustration with the metrics typically used to evaluate punters.  As we'll explain below, Gross Yards per Punt and Net Yards per Punt leave a lot to be desired; other metrics (like Percent of Punts Inside the 20 and Touchback Percentage) can help fill in the gaps, but still don't give a complete picture. Applying traditional EPA to punting is a disaster. The metrics below are our humble attempt at carrying puntalytics into the data science age along with the rest of football.
 ## EPA/punt
 Before we get to all the nitty gritty below, here are 2020 punters ranked by era-adjusted EPA above expected/punt! That's EAEPAAE/P, officially the world's worst acronym.   
-![EPA/punt above expected for all punters in 2020](/assets/img/epa2020.png)
+![EPA/punt above expected for all punters in 2020](/assets/img/gallery/epa2020.png)
 The go-to stat in the modern analytics community is EPA - expected points added. Read about EPA [here](https://www.advancedfootballanalytics.com/index.php/home/stats/stats-explained/expected-points-and-epa-explained), among other places.  
 There are a few big hurdles to using EPA for punting. First, the yards-to-go on fourth down when the punt is called is a huge, huge factor. It's essentially impossible for a punter to log positive EPA on a 4th&1 punt; otherwise put, don't punt on 4th&1! More generally, there are many factors influencing traditional EPA (score, time remaining, etc.) that are out of the punter's control. Our model sidesteps this issue by averaging EP values across the entire `nflfastR` dataset to get a game-script-independent EP value for having a 4th down on each yard line, and similarly, an EP value for having a 1st down on each yard line.  
   
