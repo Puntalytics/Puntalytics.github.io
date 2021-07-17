@@ -9,7 +9,7 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, output_dir = "..") })
 ---
 # Fantasy
-Some text to start!!
+Some text to start!!!
 ```{r setup, include=FALSE, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 install.packages("tidyverse", repos = "http://cran.us.r-project.org")
 ```
