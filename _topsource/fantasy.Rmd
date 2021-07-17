@@ -1,0 +1,24 @@
+---
+title: "Punt Runts Fantasy Guide"
+layout: default
+output:
+  md_document:
+    variant: gfm
+    preserve_yaml: TRUE
+knit: (function(inputFile, encoding) { 
+  rmarkdown::render(inputFile, output_dir = "..") })
+---
+# Fantasy
+Some text to start!
+```{r setup, include=FALSE, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+install.packages("tidyverse", repos = "http://cran.us.r-project.org")
+```
+```{r test, fig.path=normalizePath('../assets/img/Rmarkdown/')}
+library(ggplot2)
+#setwd(knitr::opts_chunk$get("fig.path"))
+p <- ggplot(data=ggplot2::diamonds, mapping = aes(x=x, y=y))+
+  geom_point()
+p
+```
+
+Some text after too.
