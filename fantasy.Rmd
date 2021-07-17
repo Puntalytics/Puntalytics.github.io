@@ -12,6 +12,7 @@ install.packages(c("tidyverse", "ggrepel", "DT", "devtools"), repos = "http://cr
 devtools::install_github("Puntalytics/puntr")
 library(tidyverse)
 library(ggrepel)
+library(puntr)
 fantasize <- function(punts,
                       Netunder = 0,
                       Net40 = 1,
