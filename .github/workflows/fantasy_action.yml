@@ -1,7 +1,7 @@
 on:
   push:
     paths:
-       - _topsource/fantasy.Rmd
+       - fantasy.Rmd
        
 name: Render fantasy page
 
@@ -16,10 +16,9 @@ jobs:
       - name: Install rmarkdown
         run: Rscript -e 'install.packages("rmarkdown")'
       - name: Render document
-        run: Rscript -e 'rmarkdown::render("_topsource/fantasy.Rmd", output_format = "md_document", output_dir = "../")'
+        run: Rscript -e 'rmarkdown::render("fantasy.Rmd", output_format = "md_document")'
       - name: Commit results
         run: |
-          git add ../fantasy.md
+          git add fantasy.md
           git commit -m "Push new fantasy page" || echo "No changes to commit"
           git push origin || echo "No changes to commit"
-
