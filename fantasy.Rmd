@@ -5,7 +5,7 @@ output:
   md_document:
     variant: gfm
     preserve_yaml: TRUE
-    always_allow_html: TRUE
+  always_allow_html: TRUE
 ---
 
 ```{r setup, include=FALSE, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
