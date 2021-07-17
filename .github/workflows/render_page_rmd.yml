@@ -3,7 +3,7 @@ name: Render .Rmd page
 on:
   push:
    paths:
-     - _topsource/*.Rmd
+     - _topsource/test.Rmd
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
