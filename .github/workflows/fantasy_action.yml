@@ -16,7 +16,7 @@ jobs:
       - name: Install rmarkdown
         run: Rscript -e 'install.packages("rmarkdown")'
       - name: Render document
-        run: Rscript -e 'rmarkdown::render("_topsource/fantasy.Rmd", output_format = "md", output_dir = "../")'
+        run: Rscript -e 'rmarkdown::render("_topsource/fantasy.Rmd", output_format = "md_document", output_dir = "../")'
       - name: Commit results
         run: |
           git add fantasy.md
