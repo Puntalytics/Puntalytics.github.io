@@ -9,7 +9,7 @@ always_allow_html: yes
 ---
 
 ```{r setup, include=FALSE, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-install.packages(c("tidyverse", "ggrepel", "DT", "devtools", "knitr"), repos = "http://cran.us.r-project.org")
+install.packages(c("tidyverse", "ggrepel", "devtools", "knitr"), repos = "http://cran.us.r-project.org")
 devtools::install_github("Puntalytics/puntr")
 library(tidyverse)
 library(ggrepel)
