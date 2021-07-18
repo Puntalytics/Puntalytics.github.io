@@ -123,24 +123,25 @@ Houston. Tommy Townsend has little upside based on his tiny volume.*
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
-|P15  |Pat O'Donnell         |    4.50 |P15|
-|P16  |Rigoberto Sanchez         |    3.53 |P15|
-|P17  |Cam Johnston        |    4.69 |P15| 
-|P18  |Riley Dixon         |    4.18 |P15|
-|P19  |A.J. Cole III        |    4.31 |P15|
-|P20  |Sam Martin      |    4.25 |P15|
+|P15  |Pat O'Donnell         |    4.50 |P17|
+|P16  |Rigoberto Sanchez         |    3.53 |P26|
+|P17  |Cam Johnston        |    4.69 |P14| 
+|P18  |Riley Dixon         |    4.18 |P20|
+|P19  |A.J. Cole III        |    4.31 |P19|
+|P20  |Sam Martin      |    4.25 |P21|
 |P21  |Michael Palardy        |    n/a |n/a|
-|P22  |Tommy Townsend      |    4.44 |P15|
-|P23  |Bradley Pinion     |    4.07 |P15|
+|P22  |Tommy Townsend      |    4.44 |P18|
+|P23  |Bradley Pinion     |    4.07 |P22|
 
 ### Tier R: Rookies
 
-\*Given how we’ve consistently found that college stats aren’t
-particularly predictive of pro performance, ¯\_(ツ)\_/¯ But stay tuned -
-we’ll add rookie punters as we hear about training camp battles.\*
+*Given how we’ve consistently found that college stats aren’t
+particularly predictive of pro performance, ¯\\_(ツ)\_/¯ But stay tuned -
+we’ll add rookie punters as we hear about training camp battles.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Pressley Harvin (P24 2020-NA)  
-&nbsp;&nbsp;&nbsp;&nbsp;Other starting rookies TBA
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|R  |Pressley Harvin III       |    n/a |n/a|
 
 ### Deep Sleepers
 
@@ -151,66 +152,70 @@ plays for your team and you’re into that, do your worst\! Arryn Siposs
 and Blake Gilikin have a shot to rise fast but we can’t project anything
 given how little we know of them.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Braden Mann (P25 - 2020 1.93 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Jamie Gillan (P26 - 2020 2.19 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Bryan Anger (P27 - 2020 3.88 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Hunter Niswander (P28 - 2020: 3.87 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;JK Scott (P29 - 2020: 2.87 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Sterling Hofrichter (P30 - 2020: 1.81 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Britton Colquitt (P31 - 2020: 0.75PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Arryn Siposs (P32 - 2020: NA)  
-&nbsp;&nbsp;&nbsp;&nbsp;Blake Gillikin (P33 - 2020: NA)
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|P24  |Braden Mann        |    1.93 |P29|
+|P25  |Jamie Gillan        |    2.19 |P28|
+|P26  |Bryan Anger        |    3.88 |P23|
+|P27  |Hunter Niswander        |    3.87 |P24|
+|P28  |J.K. Scott        |    2.87 |P27|
+|P29  |Sterling Hofrichter        |    1.81 |P30|
+|P30  |Britton Colquitt       |    0.75 |P33|
+|P31  |Arryn Siposs        |    n/a |n/a|
+|P32  |Blake Gillikin        |    n/a |n/a|
 
 ### Not currently on a team
 
-&nbsp;&nbsp;&nbsp;&nbsp;Thomas Morstead (P34 - 2020: 5.35 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Chris Jones (P35 - 2020:1.75PPG)
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|NR  |Thomas Morstead       |    5.35 |P12|
+|NR  |Chris Jones       |    1.75 |P31|
 
 ### Only if you’re in a 20 team league with two punter slots
 
 *Ty Long scored a total of -8 points last season. 4 kickers scored more
 punting fantasy points. That’s about all you need to know.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ty Long (P36 - 2020: -0.5PPG)
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|NR  |Ty Long       |    5.35 |P34|
 
 ## Full 2020 Rankings
-Here's how punters would have performed last year, had you been using our scoring system.
+Here's how punters performed last year, had you been using our scoring system.
 
-||punter_player_name |    ppg| total_points| games|
-|-|:------------------|------:|------------:|-----:|
-|1|J.Bailey           |  8.750|          140|    16|
-|2|M.Dickson          |  8.250|          132|    16|
-|3|L.Cooke            |  7.071|           99|    14|
-|4|J.Fox              |  6.938|          111|    16|
-|5|M.Haack            |  6.625|          106|    16|
-|6|T.Way              |  6.625|          106|    16|
-|7|J.Berry            |  6.364|           70|    11|
-|8|J.Hekker           |  5.667|           85|    15|
-|9|M.Wishnowsky       |  5.533|           83|    15|
-|10|B.Kern             |  5.462|           71|    13|
-|11|C.Bojorquez        |  5.400|           81|    15|
-|12|T.Morstead         |  5.357|           75|    14|
-|13|K.Huber            |  5.067|           76|    15|
-|14|C.Johnston         |  4.688|           75|    16|
-|15|S.Koch             |  4.643|           65|    14|
-|16|J.Charlton         |  4.500|           72|    16|
-|17|P.O'Donnell        |  4.500|           72|    16|
-|18|T.Townsend         |  4.438|           71|    16|
-|19|A.Cole             |  4.312|           69|    16|
-|20|R.Dixon            |  4.250|           68|    16|
-|21|S.Martin           |  4.250|           68|    16|
-|22|B.Pinion           |  4.071|           57|    14|
-|23|B.Anger            |  3.875|           62|    16|
-|24|H.Niswander        |  3.875|           31|     8|
-|25|A.Lee              |  3.688|           59|    16|
-|26|R.Sanchez          |  3.538|           46|    13|
-|27|J.Scott            |  3.000|           45|    15|
-|28|J.Gillan           |  2.188|           35|    16|
-|29|B.Mann             |  1.938|           31|    16|
-|30|S.Hofrichter       |  1.812|           29|    16|
-|31|C.Jones            |  1.750|           14|     8|
-|32|D.Colquitt         |  1.500|            9|     6|
-|33|B.Colquitt         |  0.875|           14|    16|
-|34|T.Long             | -0.500|           -8|    16|
-
-
+|punter_player_name |  2020  ppg| 2020total_points|2020 games played|
+|:------------------|------:|------------:|-----:|
+|J.Bailey           |  8.750|          140|    16|
+|M.Dickson          |  8.250|          132|    16|
+|L.Cooke            |  7.071|           99|    14|
+|J.Fox              |  6.938|          111|    16|
+|M.Haack            |  6.625|          106|    16|
+|T.Way              |  6.625|          106|    16|
+|J.Berry            |  6.364|           70|    11|
+|J.Hekker           |  5.667|           85|    15|
+|M.Wishnowsky       |  5.533|           83|    15|
+|B.Kern             |  5.462|           71|    13|
+|C.Bojorquez        |  5.400|           81|    15|
+|T.Morstead         |  5.357|           75|    14|
+|K.Huber            |  5.067|           76|    15|
+|C.Johnston         |  4.688|           75|    16|
+|S.Koch             |  4.643|           65|    14|
+|J.Charlton         |  4.500|           72|    16|
+|P.O'Donnell        |  4.500|           72|    16|
+|T.Townsend         |  4.438|           71|    16|
+|A.Cole             |  4.312|           69|    16|
+|R.Dixon            |  4.250|           68|    16|
+|S.Martin           |  4.250|           68|    16|
+|B.Pinion           |  4.071|           57|    14|
+|B.Anger            |  3.875|           62|    16|
+|H.Niswander        |  3.875|           31|     8|
+|A.Lee              |  3.688|           59|    16|
+|R.Sanchez          |  3.538|           46|    13|
+|J.Scott            |  3.000|           45|    15|
+|J.Gillan           |  2.188|           35|    16|
+|B.Mann             |  1.938|           31|    16|
+|S.Hofrichter       |  1.812|           29|    16|
+|C.Jones            |  1.750|           14|     8|
+|D.Colquitt         |  1.500|            9|     6|
+|B.Colquitt         |  0.875|           14|    16|
+|T.Long             | -0.500|           -8|    16|
