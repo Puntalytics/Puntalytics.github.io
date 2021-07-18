@@ -39,7 +39,7 @@ leagues.
 
 ## Section 2: Punter Fantasy Tiers But Only If You Use Our Scoring Don’t @ Us
 
-### Tier 1a: Blue chip talent
+### Tier 1a: Blue-chip talent
 
 *Our scoring system rewards punters who hit on three of the following:
 volume (aka defensive coaches or subpar offense), big leg, and pin-deep
@@ -48,8 +48,10 @@ following players are the Travis Kelces of punters. In 2020 they
 averaged a full point more per game than any other punter, and there’s
 no reason to think that trend should stop in 2021.*
 
-**P1**: Jake Bailey (2020: P1, 8.75PPG)  
-**P2**: Michael Dickson (2020: P2, 8.25PPG)
+|Rank |Punter             | 2020  ppg|
+|:-    |:-----------------|------:|
+|P1  |J.Bailey           |  8.75|
+|P2  |M.Dickson          |  8.25|
 
 ### Tier 1b: Ol’ Reliables
 
@@ -58,7 +60,7 @@ performance, week in week out. Logan Cooke and Tress Way sit on the
 border between the top two tiers; Brett Kern exemplifies the Ol’
 Reliable moniker; Johnny Hekker has extreme boom potential, but lacked
 consistency down the stretch (not to mention he might get you a few
-points here and there off of fakes); and Matt Haack squeeks in due to
+points here and there off of fakes); and Matt Haack squeaks in due to
 his pin-deep prowess.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;Logan Cooke (P3 - 2020: 7.07PPG)  
