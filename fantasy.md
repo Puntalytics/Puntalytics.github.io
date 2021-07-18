@@ -5,9 +5,6 @@ output:
   md_document:
     variant: gfm
     preserve_yaml: TRUE
-always_allow_html: yes
-knit: (function(inputFile, encoding) { 
-  rmarkdown::render(inputFile) })
 ---
 
 **So you want to add punters to your fantasy league but have no idea
@@ -61,8 +58,8 @@ following players are the Travis Kelces of punters. In 2020 they
 averaged a full point more per game than any other punter, and there’s
 no reason to think that trend should stop in 2021.*
 
-Jake Bailey (P1 - 2020: 8.75PPG)  
-Michael Dickson (P2 - 2020: 8.25PPG)
+&nbsp;&nbsp;&nbsp;&nbsp;Jake Bailey (P1 - 2020: 8.75PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Michael Dickson (P2 - 2020: 8.25PPG)
 
 ### Tier 1b: Ol’ Reliables
 
@@ -74,11 +71,11 @@ consistency down the stretch (not to mention he might get you a few
 points here and there off of fakes); and Matt Haack squeeks in due to
 his pin-deep prowess.*
 
-Logan Cooke (P3 - 2020: 7.07PPG)  
-Tress Way (P4 - 2020: 6.63PPG)  
-Brett Kern (P5 - 2020: 5.46 PPG)  
-Johnny Hekker (P6 - 2020: 5.67 PPG)  
-Matt Haack (P7 - 2020: 6.63PPG)
+&nbsp;&nbsp;&nbsp;&nbsp;Logan Cooke (P3 - 2020: 7.07PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Tress Way (P4 - 2020: 6.63PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Brett Kern (P5 - 2020: 5.46 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Johnny Hekker (P6 - 2020: 5.67 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Matt Haack (P7 - 2020: 6.63PPG)
 
 ### Tier 2a: Younguns who we’re pretty sure we’ll be good again next season
 
@@ -91,9 +88,9 @@ the level of the vets above him, and Charlton had a solid rookie
 campaign and gets a bump from playing on a team with major questions at
 QB (sorry Sammy).*
 
-Jack Fox (P8 - 2020: 6.94 PPG)  
-Mitch Wishnowsky (P9 - 2020: 5.53 PPG)  
-Joseph Charlton (P10 - 2020: 4.5 PPG)
+&nbsp;&nbsp;&nbsp;&nbsp;Jack Fox (P8 - 2020: 6.94 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Mitch Wishnowsky (P9 - 2020: 5.53 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Joseph Charlton (P10 - 2020: 4.5 PPG)
 
 ### Tier 2b: Low Risk, Moderate Reward
 
@@ -101,9 +98,9 @@ Joseph Charlton (P10 - 2020: 4.5 PPG)
 be bad. Watch out for the potential camp battle between Huber and Ohio
 State UDFA Drue Chrisman.*
 
-Sam Koch (P11 - 2020: 4.64 PPG)  
-Andy Lee (P12 - 2020: 3.68 PPG)  
-Kevin Huber (P13 - 5.07 PPG)
+&nbsp;&nbsp;&nbsp;&nbsp;Sam Koch (P11 - 2020: 4.64 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Andy Lee (P12 - 2020: 3.68 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Kevin Huber (P13 - 5.07 PPG)
 
 ### Tier Of His Own: Bojo
 
@@ -113,7 +110,7 @@ probably the team on which he has the least chance of ever being the
 starter. All that said, if Bojo signs elsewhere, or somehow becomes the
 starter for the Rams, snatch him up\!*
 
-Corey Bojorquez (P14 - 2020: 5.4PPG)
+&nbsp;&nbsp;&nbsp;&nbsp;Corey Bojorquez (P14 - 2020: 5.4PPG)
 
 ### Tier 3: Low Risk, Low Reward
 
@@ -124,15 +121,15 @@ is a name to watch here and a potential bounce-back candidate. Cam
 Johnston may end up leading the league in punts pending what happens in
 Houston. Tommy Townsend has little upside based on his tiny volume.*
 
-Pat O’Donnell (P15 - 2020: 4.50 PPG)  
-Rigoberto Sanchez (P16 - 2020: 3.53 PPG)  
-Cam Johnston (P17 - 2020: 4.69 PPG)  
-Riley Dixon (P18 2020 - 4.18 PPG)  
-AJ Cole (P19 2020 - 4.31 PPG)  
-Sam Martin (P20 - 2020: 4.25 PPG)  
-Michael Palardy (P21, Injured last season)  
-Tommy Townsend (P22 - 2020: 4.44 PPG)  
-Bradley Pinion (P23 - 2020: 4.07 PPG)
+&nbsp;&nbsp;&nbsp;&nbsp;Pat O’Donnell (P15 - 2020: 4.50 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Rigoberto Sanchez (P16 - 2020: 3.53 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Cam Johnston (P17 - 2020: 4.69 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Riley Dixon (P18 2020 - 4.18 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;AJ Cole (P19 2020 - 4.31 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Sam Martin (P20 - 2020: 4.25 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Michael Palardy (P21, Injured last season)  
+&nbsp;&nbsp;&nbsp;&nbsp;Tommy Townsend (P22 - 2020: 4.44 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Bradley Pinion (P23 - 2020: 4.07 PPG)
 
 ### Tier R: Rookies
 
@@ -140,8 +137,8 @@ Bradley Pinion (P23 - 2020: 4.07 PPG)
 particularly predictive of pro performance, ¯\_(ツ)\_/¯ But stay tuned -
 we’ll add rookie punters as we hear about training camp battles.\*
 
-Pressley Harvin (P24 2020-NA)  
-Other starting rookies TBA
+&nbsp;&nbsp;&nbsp;&nbsp;Pressley Harvin (P24 2020-NA)  
+&nbsp;&nbsp;&nbsp;&nbsp;Other starting rookies TBA
 
 ### Deep Sleepers
 
@@ -152,24 +149,66 @@ plays for your team and you’re into that, do your worst\! Arryn Siposs
 and Blake Gilikin have a shot to rise fast but we can’t project anything
 given how little we know of them.*
 
-Braden Mann (P25 - 2020 1.93 PPG)  
-Jamie Gillan (P26 - 2020 2.19 PPG)  
-Bryan Anger (P27 - 2020 3.88 PPG)  
-Hunter Niswander (P28 - 2020: 3.87 PPG)  
-JK Scott (P29 - 2020: 2.87 PPG)  
-Sterling Hofrichter (P30 - 2020: 1.81 PPG)  
-Britton Colquitt (P31 - 2020: 0.75PPG)  
-Arryn Siposs (P32 - 2020: NA)  
-Blake Gillikin (P33 - 2020: NA)
+&nbsp;&nbsp;&nbsp;&nbsp;Braden Mann (P25 - 2020 1.93 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Jamie Gillan (P26 - 2020 2.19 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Bryan Anger (P27 - 2020 3.88 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Hunter Niswander (P28 - 2020: 3.87 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;JK Scott (P29 - 2020: 2.87 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Sterling Hofrichter (P30 - 2020: 1.81 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Britton Colquitt (P31 - 2020: 0.75PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Arryn Siposs (P32 - 2020: NA)  
+&nbsp;&nbsp;&nbsp;&nbsp;Blake Gillikin (P33 - 2020: NA)
 
 ### Not currently on a team
 
-Thomas Morstead (P34 - 2020: 5.35 PPG)  
-Chris Jones (P35 - 2020:1.75PPG)
+&nbsp;&nbsp;&nbsp;&nbsp;Thomas Morstead (P34 - 2020: 5.35 PPG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Chris Jones (P35 - 2020:1.75PPG)
 
 ### Only if you’re in a 20 team league with two punter slots
 
 *Ty Long scored a total of -8 points last season. 4 kickers scored more
 punting fantasy points. That’s about all you need to know.*
 
-Ty Long (P36 - 2020: -0.5PPG)
+&nbsp;&nbsp;&nbsp;&nbsp;Ty Long (P36 - 2020: -0.5PPG)
+
+## Full 2020 Rankings
+Here's how punters would have performed last year, had you been using our scoring system.
+
+|punter_player_name |    ppg| total_points| games|
+|:------------------|------:|------------:|-----:|
+|J.Bailey           |  8.750|          140|    16|
+|M.Dickson          |  8.250|          132|    16|
+|L.Cooke            |  7.071|           99|    14|
+|J.Fox              |  6.938|          111|    16|
+|M.Haack            |  6.625|          106|    16|
+|T.Way              |  6.625|          106|    16|
+|J.Berry            |  6.364|           70|    11|
+|J.Hekker           |  5.667|           85|    15|
+|M.Wishnowsky       |  5.533|           83|    15|
+|B.Kern             |  5.462|           71|    13|
+|C.Bojorquez        |  5.400|           81|    15|
+|T.Morstead         |  5.357|           75|    14|
+|K.Huber            |  5.067|           76|    15|
+|C.Johnston         |  4.688|           75|    16|
+|S.Koch             |  4.643|           65|    14|
+|J.Charlton         |  4.500|           72|    16|
+|P.O'Donnell        |  4.500|           72|    16|
+|T.Townsend         |  4.438|           71|    16|
+|A.Cole             |  4.312|           69|    16|
+|R.Dixon            |  4.250|           68|    16|
+|S.Martin           |  4.250|           68|    16|
+|B.Pinion           |  4.071|           57|    14|
+|B.Anger            |  3.875|           62|    16|
+|H.Niswander        |  3.875|           31|     8|
+|A.Lee              |  3.688|           59|    16|
+|R.Sanchez          |  3.538|           46|    13|
+|J.Scott            |  3.000|           45|    15|
+|J.Gillan           |  2.188|           35|    16|
+|B.Mann             |  1.938|           31|    16|
+|S.Hofrichter       |  1.812|           29|    16|
+|C.Jones            |  1.750|           14|     8|
+|D.Colquitt         |  1.500|            9|     6|
+|B.Colquitt         |  0.875|           14|    16|
+|T.Long             | -0.500|           -8|    16|
+
+
