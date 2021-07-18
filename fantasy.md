@@ -48,10 +48,10 @@ following players are the Travis Kelces of punters. In 2020 they
 averaged a full point more per game than any other punter, and there’s
 no reason to think that trend should stop in 2021.*
 
-|Rank |Punter             | 2020  ppg|
-|:-    |:-----------------|------:|
-|P1  |J.Bailey           |  8.75|
-|P2  |M.Dickson          |  8.25|
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:-----|:--|
+|P1  |J.Bailey           |  8.75|P1|
+|P2  |M.Dickson          |  8.25|P2|
 
 ### Tier 1b: Ol’ Reliables
 
