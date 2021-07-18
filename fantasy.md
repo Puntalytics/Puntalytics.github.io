@@ -82,9 +82,11 @@ the level of the vets above him, and Charlton had a solid rookie
 campaign and gets a bump from playing on a team with major questions at
 QB (sorry Sammy).*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Jack Fox (P8 - 2020: 6.94 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Mitch Wishnowsky (P9 - 2020: 5.53 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Joseph Charlton (P10 - 2020: 4.5 PPG)
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|P8  |Jack Fox            |    6.94 |P4|
+|P9  |Mitch Wishnowsky            |   5.53|P9|
+|P10  |Joseph Charlton            |    4.50|P16|
 
 ### Tier 2b: Low Risk, Moderate Reward
 
@@ -92,38 +94,44 @@ QB (sorry Sammy).*
 be bad. Watch out for the potential camp battle between Huber and Ohio
 State UDFA Drue Chrisman.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Sam Koch (P11 - 2020: 4.64 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Andy Lee (P12 - 2020: 3.68 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Kevin Huber (P13 - 5.07 PPG)
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|P11  |Sam Koch            |    4.64 |P15|
+|P12  |Andy Lee          |   3.68|P25|
+|P13  |Kevin Huber            |    5.07|P13|
 
 ### Tier Of His Own: Bojo
 
-*Coming off an excellent 2020 season, Corey Bojórquez was cut by the
+*Coming off an excellent 2020 season, Bojórquez was cut by the
 Bills in lieu of getting a raise. Bojo promptly signed with the Rams,
 probably the team on which he has the least chance of ever being the
 starter. All that said, if Bojo signs elsewhere, or somehow becomes the
 starter for the Rams, snatch him up\!*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Corey Bojorquez (P14 - 2020: 5.4PPG)
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|P14  |Corey Bojorquez            |    5.40 |P11|
 
 ### Tier 3: Low Risk, Low Reward
 
 *3 consists of punters who have been in the league long enough to know
-how to avoid a <sub>bad</sub> season, but have less upside than the 2b
+how to avoid a bad season, but have less upside than the 2b
 guys. You should be able to pick these guys off the waiver wire. Dixon
 is a name to watch here and a potential bounce-back candidate. Cam
 Johnston may end up leading the league in punts pending what happens in
 Houston. Tommy Townsend has little upside based on his tiny volume.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Pat O’Donnell (P15 - 2020: 4.50 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Rigoberto Sanchez (P16 - 2020: 3.53 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Cam Johnston (P17 - 2020: 4.69 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Riley Dixon (P18 2020 - 4.18 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;AJ Cole (P19 2020 - 4.31 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Sam Martin (P20 - 2020: 4.25 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Michael Palardy (P21, Injured last season)  
-&nbsp;&nbsp;&nbsp;&nbsp;Tommy Townsend (P22 - 2020: 4.44 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Bradley Pinion (P23 - 2020: 4.07 PPG)
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|P15  |Pat O'Donnell         |    4.50 |P15|
+|P16  |Rigoberto Sanchez         |    3.53 |P15|
+|P17  |Cam Johnston        |    4.69 |P15| 
+|P18  |Riley Dixon         |    4.18 |P15|
+|P19  |A.J. Cole III        |    4.31 |P15|
+|P20  |Sam Martin      |    4.25 |P15|
+|P21  |Michael Palardy        |    n/a |n/a|
+|P22  |Tommy Townsend      |    4.44 |P15|
+|P23  |Bradley Pinion     |    4.07 |P15|
 
 ### Tier R: Rookies
 
@@ -168,41 +176,41 @@ punting fantasy points. That’s about all you need to know.*
 ## Full 2020 Rankings
 Here's how punters would have performed last year, had you been using our scoring system.
 
-|punter_player_name |    ppg| total_points| games|
-|:------------------|------:|------------:|-----:|
-|J.Bailey           |  8.750|          140|    16|
-|M.Dickson          |  8.250|          132|    16|
-|L.Cooke            |  7.071|           99|    14|
-|J.Fox              |  6.938|          111|    16|
-|M.Haack            |  6.625|          106|    16|
-|T.Way              |  6.625|          106|    16|
-|J.Berry            |  6.364|           70|    11|
-|J.Hekker           |  5.667|           85|    15|
-|M.Wishnowsky       |  5.533|           83|    15|
-|B.Kern             |  5.462|           71|    13|
-|C.Bojorquez        |  5.400|           81|    15|
-|T.Morstead         |  5.357|           75|    14|
-|K.Huber            |  5.067|           76|    15|
-|C.Johnston         |  4.688|           75|    16|
-|S.Koch             |  4.643|           65|    14|
-|J.Charlton         |  4.500|           72|    16|
-|P.O'Donnell        |  4.500|           72|    16|
-|T.Townsend         |  4.438|           71|    16|
-|A.Cole             |  4.312|           69|    16|
-|R.Dixon            |  4.250|           68|    16|
-|S.Martin           |  4.250|           68|    16|
-|B.Pinion           |  4.071|           57|    14|
-|B.Anger            |  3.875|           62|    16|
-|H.Niswander        |  3.875|           31|     8|
-|A.Lee              |  3.688|           59|    16|
-|R.Sanchez          |  3.538|           46|    13|
-|J.Scott            |  3.000|           45|    15|
-|J.Gillan           |  2.188|           35|    16|
-|B.Mann             |  1.938|           31|    16|
-|S.Hofrichter       |  1.812|           29|    16|
-|C.Jones            |  1.750|           14|     8|
-|D.Colquitt         |  1.500|            9|     6|
-|B.Colquitt         |  0.875|           14|    16|
-|T.Long             | -0.500|           -8|    16|
+||punter_player_name |    ppg| total_points| games|
+|-|:------------------|------:|------------:|-----:|
+|1|J.Bailey           |  8.750|          140|    16|
+|2|M.Dickson          |  8.250|          132|    16|
+|3|L.Cooke            |  7.071|           99|    14|
+|4|J.Fox              |  6.938|          111|    16|
+|5|M.Haack            |  6.625|          106|    16|
+|6|T.Way              |  6.625|          106|    16|
+|7|J.Berry            |  6.364|           70|    11|
+|8|J.Hekker           |  5.667|           85|    15|
+|9|M.Wishnowsky       |  5.533|           83|    15|
+|10|B.Kern             |  5.462|           71|    13|
+|11|C.Bojorquez        |  5.400|           81|    15|
+|12|T.Morstead         |  5.357|           75|    14|
+|13|K.Huber            |  5.067|           76|    15|
+|14|C.Johnston         |  4.688|           75|    16|
+|15|S.Koch             |  4.643|           65|    14|
+|16|J.Charlton         |  4.500|           72|    16|
+|17|P.O'Donnell        |  4.500|           72|    16|
+|18|T.Townsend         |  4.438|           71|    16|
+|19|A.Cole             |  4.312|           69|    16|
+|20|R.Dixon            |  4.250|           68|    16|
+|21|S.Martin           |  4.250|           68|    16|
+|22|B.Pinion           |  4.071|           57|    14|
+|23|B.Anger            |  3.875|           62|    16|
+|24|H.Niswander        |  3.875|           31|     8|
+|25|A.Lee              |  3.688|           59|    16|
+|26|R.Sanchez          |  3.538|           46|    13|
+|27|J.Scott            |  3.000|           45|    15|
+|28|J.Gillan           |  2.188|           35|    16|
+|29|B.Mann             |  1.938|           31|    16|
+|30|S.Hofrichter       |  1.812|           29|    16|
+|31|C.Jones            |  1.750|           14|     8|
+|32|D.Colquitt         |  1.500|            9|     6|
+|33|B.Colquitt         |  0.875|           14|    16|
+|34|T.Long             | -0.500|           -8|    16|
 
 
