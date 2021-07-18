@@ -16,34 +16,24 @@ Don’t you worry, because you’ve arrived at the
 
 ## Section 1: The Official Unofficial Punt Runts Approved Fantasy Punting Scoring System
 
-Our scoring method boils down into 3 components:
-
-1.  Punting distance
-2.  Pinning deep
-3.  Return based bonuses
-
-For punting distance, we score as follows:
-
+Our scoring system rewards punting distance and pinning deep, while penalizing touchbacks, blocks and returns. Specifically, we recommend:
+  
   - 1 point per punt with Net between 40 and 50 yards
   - 3 points per punt with Net between 50 and 60 yards
   - 6 points per punt with Net above 60 yards
-
-Pinning deep points are similar:
-
+  
   - 1 point per punt downed between the 20 and 10
   - 3 points per punt downed between the 10 and 5
   - 6 points per punt downed inside the 5.
-
-For return based bonuses, we give:
-
+  
   - \-1 point per touchback,
   - \-1 per blocked punt, and
   - \-1 per returned punt
-
+  
 And voilà\!
 
-Most punts will then be worth between 0 and 3 points, and the best
-possible punt, is a 60+ yard net, downed inside the 5, for a total of 13
+Most punts will be worth between 0 and 3 points, and the best
+possible punt, with a 60+ yard net, downed inside the 5, gives a total of 13
 points – the equivalent of a 60 yard receiving touchdown in most PPR
 leagues.
 
@@ -58,8 +48,8 @@ following players are the Travis Kelces of punters. In 2020 they
 averaged a full point more per game than any other punter, and there’s
 no reason to think that trend should stop in 2021.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Jake Bailey (P1 - 2020: 8.75PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Michael Dickson (P2 - 2020: 8.25PPG)
+**P1**: Jake Bailey (2020: P1, 8.75PPG)  
+**P2**: Michael Dickson (2020: P2, 8.25PPG)
 
 ### Tier 1b: Ol’ Reliables
 
