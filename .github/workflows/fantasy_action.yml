@@ -16,8 +16,9 @@ jobs:
       - name: Install packages
         run: |
           R -e 'install.packages("renv")'
-          R -e 'install.packages("rmarkdown")'
           R -e 'renv::restore()'
+          R -e 'install.packages("rmarkdown")'
+
       
       - name: Cache Renv packages
         uses: actions/cache@v2
