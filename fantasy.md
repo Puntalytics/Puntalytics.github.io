@@ -8,13 +8,12 @@ output:
 always_allow_html: yes
 ---
 
-# Punt Runts Fantasy Guide
-
 **So you want to add punters to your fantasy league but have no idea
 where to start?**
 
-Don’t you worry, because you’ve arrived at the Punt Runts Official
-Unoffical Fantasy Punting Football Guide
+Don’t you worry, because you’ve arrived at the
+
+# Punt Runts Fantasy Punting Football Guide
 
 ## Section 1: The Official Unofficial Punt Runts Approved Fantasy Punting Scoring System
 
