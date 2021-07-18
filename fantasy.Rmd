@@ -8,8 +8,6 @@ output:
 always_allow_html: yes
 ---
 
-# Punt Runts Fantasy Guide
-
 ```{r setup, include=FALSE, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 install.packages(c("tidyverse", "ggrepel", "DT", "devtools", "knitr"), repos = "http://cran.us.r-project.org")
 devtools::install_github("Puntalytics/puntr")
@@ -64,7 +62,9 @@ fantasize <- function(punts,
 ```
 **So you want to add punters to your fantasy league but have no idea where to start?**
 
-Don’t you worry, because you've arrived at the Punt Runts Official Unoffical Fantasy Punting Football Guide
+Don’t you worry, because you've arrived at the 
+
+# Punt Runts Fantasy Punting Football Guide
 
 ## Section 1: The Official Unofficial Punt Runts Approved Fantasy Punting Scoring System
 
