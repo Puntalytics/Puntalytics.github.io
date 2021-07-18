@@ -50,8 +50,8 @@ no reason to think that trend should stop in 2021.*
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:-----|:--|
-|P1  |J.Bailey           |  8.75|P1|
-|P2  |M.Dickson          |  8.25|P2|
+|P1  |Jake Bailey           |  8.75|P1|
+|P2  |Michael Dickson          |  8.25|P2|
 
 ### Tier 1b: Ol’ Reliables
 
@@ -63,11 +63,13 @@ consistency down the stretch (not to mention he might get you a few
 points here and there off of fakes); and Matt Haack squeaks in due to
 his pin-deep prowess.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Logan Cooke (P3 - 2020: 7.07PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Tress Way (P4 - 2020: 6.63PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Brett Kern (P5 - 2020: 5.46 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Johnny Hekker (P6 - 2020: 5.67 PPG)  
-&nbsp;&nbsp;&nbsp;&nbsp;Matt Haack (P7 - 2020: 6.63PPG)
+|Rank |Punter             | 2020  ppg| 2020 Rank |
+|:-    |:-----------------|:---------|:------------|
+|P3  |Logan Cooke          |    7.07 |P3|
+|P4  |Tress Way            |   6.63|P6|
+|P5  |Brett Kern            |    5.46|P10|
+|P6  |Johnny Hekker            |    5.67|P8|
+|P7  |Matt Haack           |   6.63|P5|
 
 ### Tier 2a: Younguns who we’re pretty sure we’ll be good again next season
 
