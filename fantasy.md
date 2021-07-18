@@ -6,6 +6,8 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 always_allow_html: yes
+knit: (function(inputFile, encoding) { 
+  rmarkdown::render(inputFile) })
 ---
 
 **So you want to add punters to your fantasy league but have no idea
