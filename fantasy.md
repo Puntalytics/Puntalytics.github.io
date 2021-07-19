@@ -79,8 +79,8 @@ his pin-deep prowess.*
 punters; however, they’re just a little too young and unproven for us to
 group them all together. **Fox** is definitely ranked too low, but with
 just a 1-year sample, and a downward trending second half of 2020, we
-have to wait before bumping him up. If he's  **Wishnowsky** has been good, but not at
-the level of the vets above him, and **Charlton** had a solid rookie
+have to wait before bumping him up. If he has a September anything like he did last year, you'll want him on your roster.   **Wishnowsky** has been good, but not at
+the level of the guys above him, and **Charlton** had a solid rookie
 campaign and gets a bump from playing on a team with major questions at
 QB (sorry Sammy).*
 
