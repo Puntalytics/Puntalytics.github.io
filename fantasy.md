@@ -95,8 +95,8 @@ QB (sorry Sammy).*
 ### Tier 2b: Low Risk, Moderate Reward
 
 *These guys are a little past their primes, but have the stuff to never
-be bad. Watch out for the potential camp battle between **Huber** and Ohio
-State UDFA Drue Chrisman.*
+be bad. Watch out for potential camp battles between **Huber** and Ohio
+State UDFA Drue Chrisman, as well as **Berry** and Georgia Tech draftee Pressley Harvin III.*
 
 #### Grade: claim if undrafted
 
@@ -104,7 +104,8 @@ State UDFA Drue Chrisman.*
 |:-    |:-----------------|:---------|:------------|
 |P11  |Sam Koch            |    4.64 |P15|
 |P12  |Andy Lee          |   3.68|P25|
-|P13  |Kevin Huber            |    5.07|P13|
+|P13  |Jordan Berry            |    6.36|P7|
+|P14  |Kevin Huber            |    5.07|P13|
 
 ### Tier Of His Own: Bojo
 
@@ -118,7 +119,7 @@ starter for the Rams, **snatch him up\!***
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
-|P14  |Corey Bojorquez            |    5.40 |P11|
+|NR  |Corey Bojorquez            |    5.40 |P11|
 
 ### Tier 3: Low Risk, Low Reward
 
