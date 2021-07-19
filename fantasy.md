@@ -40,9 +40,12 @@ leagues.
 ## Section 2: Punter Fantasy Tiers But Only If You Use Our Scoring Don’t @ Us
 
 ### Tier 1a: Blue-chip talent
+#### Grade: absolutely draft
 
 *In 2020, **Bailey** and **Dickson** averaged a full PPG better than any other punter, and there’s
-no reason to think that trend should stop in 2021. These two are the Travis Kelces of punters.*
+no reason to think that trend should stop in 2021. They're starting caliber, and if they're still on the board when you've got all or most of a lineup picked, snatch them up. You won't regret it[^1].  These two are the Travis Kelces of punters.*
+
+[^1]: The Punt Runts take no responsibility if you do, in fact, regret it.
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:-----|:--|
@@ -50,9 +53,10 @@ no reason to think that trend should stop in 2021. These two are the Travis Kelc
 |P2  |Michael Dickson          |  8.25|P2|
 
 ### Tier 1b: Ol’ Reliables
+#### Grade: should draft
 
 *You can pretty much count on these guys to turn in a solid punting
-performance, week in week out. **Cooke** and **Way** sit on the
+performance, week in week out. All five are absolutely worth drafting and starting every week. **Cooke** and **Way** sit on the
 border between the top two tiers; **Kern** exemplifies the Ol’
 Reliable moniker; **Hekker** has extreme boom potential, but lacked
 consistency down the stretch (not to mention he might get you a few
@@ -68,12 +72,13 @@ his pin-deep prowess.*
 |P7  |Matt Haack           |   6.63|P5|
 
 ### Tier 2a: Younguns who we’re pretty sure we’ll be good again next season
+#### Grade: could draft; claim ASAP if undrafted
 
 *Any of these three may well perform better than some or all of the 1b
 punters; however, they’re just a little too young and unproven for us to
 group them all together. **Fox** is definitely ranked too low, but with
 just a 1-year sample, and a downward trending second half of 2020, we
-have to wait before bumping him up. **Wishnowsky** has been good, but not at
+have to wait before bumping him up. If he's  **Wishnowsky** has been good, but not at
 the level of the vets above him, and **Charlton** had a solid rookie
 campaign and gets a bump from playing on a team with major questions at
 QB (sorry Sammy).*
@@ -85,6 +90,7 @@ QB (sorry Sammy).*
 |P10  |Joseph Charlton            |    4.50|P16|
 
 ### Tier 2b: Low Risk, Moderate Reward
+#### Grade: claim if undrafted
 
 *These guys are a little past their primes, but have the stuff to never
 be bad. Watch out for the potential camp battle between **Huber** and Ohio
@@ -102,7 +108,7 @@ State UDFA Drue Chrisman.*
 Bills in lieu of getting a raise. Bojo promptly signed with the Rams,
 probably the team on which he has the least chance of ever being the
 starter. All that said, if Bojo signs elsewhere, or somehow becomes the
-starter for the Rams, snatch him up\!*
+starter for the Rams, **snatch him up\!***
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
