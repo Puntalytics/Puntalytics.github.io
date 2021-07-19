@@ -18,16 +18,16 @@ Don’t you worry, because you’ve arrived at the
 
 Our scoring system rewards punting distance and pinning deep, while penalizing touchbacks, blocks and returns. Specifically, we recommend:
   
-  - 1 point per punt with Net between 40 and 50 yards
-  - 3 points per punt with Net between 50 and 60 yards
-  - 6 points per punt with Net above 60 yards
+  - 1 point per punt with Net of 40-49 yards
+  - 3 points per punt with Net of 50-59 yards
+  - 6 points per punt with Net of 60+ yards
   
   - 1 point per punt downed between the 20 and 10
   - 3 points per punt downed between the 10 and 5
   - 6 points per punt downed inside the 5.
   
-  - \-1 point per touchback,
-  - \-1 per blocked punt, and
+  - \-1 point per touchback
+  - \-1 per blocked punt
   - \-1 per returned punt
   
 And voilà\!
@@ -41,12 +41,8 @@ leagues.
 
 ### Tier 1a: Blue-chip talent
 
-*Our scoring system rewards punters who hit on three of the following:
-volume (aka defensive coaches or subpar offense), big leg, and pin-deep
-ability (either on their own or with an elite coverage team). The two
-following players are the Travis Kelces of punters. In 2020 they
-averaged a full point more per game than any other punter, and there’s
-no reason to think that trend should stop in 2021.*
+*In 2020, **Bailey** and **Dickson** averaged a full PPG better than any other punter, and there’s
+no reason to think that trend should stop in 2021. These two are the Travis Kelces of punters.*
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:-----|:--|
@@ -56,7 +52,7 @@ no reason to think that trend should stop in 2021.*
 ### Tier 1b: Ol’ Reliables
 
 *You can pretty much count on these guys to turn in a solid punting
-performance, week in week out. Logan Cooke and Tress Way sit on the
+performance, week in week out. **Logan Cooke** and **Tress Way** sit on the
 border between the top two tiers; Brett Kern exemplifies the Ol’
 Reliable moniker; Johnny Hekker has extreme boom potential, but lacked
 consistency down the stretch (not to mention he might get you a few
