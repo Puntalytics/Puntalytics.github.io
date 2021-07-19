@@ -40,10 +40,11 @@ leagues.
 ## Section 2: Punter Fantasy Tiers But Only If You Use Our Scoring Don’t @ Us
 
 ### Tier 1a: Blue-chip talent
-#### Grade: absolutely draft
 
 *In 2020, **Bailey** and **Dickson** averaged a full PPG better than any other punter, and there’s
 no reason to think that trend should stop in 2021. They're starting caliber, and if they're still on the board when you've got all or most of a lineup picked, snatch them up. You won't regret it[^1].  These two are the Travis Kelces of punters.*
+
+#### Grade: absolutely draft
 
 [^1]: The Punt Runts take no responsibility if you do, in fact, regret it.
 
@@ -53,15 +54,16 @@ no reason to think that trend should stop in 2021. They're starting caliber, and
 |P2  |Michael Dickson          |  8.25|P2|
 
 ### Tier 1b: Ol’ Reliables
-#### Grade: should draft
 
 *You can pretty much count on these guys to turn in a solid punting
-performance, week in week out. All five are absolutely worth drafting and starting every week. **Cooke** and **Way** sit on the
+performance, week in week out. All five are worth drafting and starting every week. **Cooke** and **Way** sit on the
 border between the top two tiers; **Kern** exemplifies the Ol’
 Reliable moniker; **Hekker** has extreme boom potential, but lacked
 consistency down the stretch (not to mention he might get you a few
 points here and there off of fakes); and **Haack** squeaks in due to
 his pin-deep prowess.*
+
+#### Grade: should draft
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
@@ -72,7 +74,6 @@ his pin-deep prowess.*
 |P7  |Matt Haack           |   6.63|P5|
 
 ### Tier 2a: Younguns who we’re pretty sure we’ll be good again next season
-#### Grade: could draft; claim ASAP if undrafted
 
 *Any of these three may well perform better than some or all of the 1b
 punters; however, they’re just a little too young and unproven for us to
@@ -83,6 +84,8 @@ the level of the vets above him, and **Charlton** had a solid rookie
 campaign and gets a bump from playing on a team with major questions at
 QB (sorry Sammy).*
 
+#### Grade: could draft; claim ASAP if undrafted
+
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
 |P8  |Jack Fox            |    6.94 |P4|
@@ -90,11 +93,12 @@ QB (sorry Sammy).*
 |P10  |Joseph Charlton            |    4.50|P16|
 
 ### Tier 2b: Low Risk, Moderate Reward
-#### Grade: claim if undrafted
 
 *These guys are a little past their primes, but have the stuff to never
 be bad. Watch out for the potential camp battle between **Huber** and Ohio
 State UDFA Drue Chrisman.*
+
+#### Grade: claim if undrafted
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
@@ -110,6 +114,8 @@ probably the team on which he has the least chance of ever being the
 starter. All that said, if Bojo signs elsewhere, or somehow becomes the
 starter for the Rams, **snatch him up\!***
 
+#### Grade: claim ASAFP if playing
+
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
 |P14  |Corey Bojorquez            |    5.40 |P11|
@@ -122,6 +128,8 @@ guys. You should be able to pick these guys off the waiver wire. **Dixon** (not 
 is a name to watch here and a potential bounce-back candidate. 
 **Johnston** may end up leading the league in punts pending what happens in
 Houston. **Tommy Townsend** has little upside based on his tiny volume.*
+
+#### Grade: good options off the wire
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
@@ -141,6 +149,8 @@ Houston. **Tommy Townsend** has little upside based on his tiny volume.*
 particularly predictive of pro performance, ¯\\_(ツ)\_/¯ But stay tuned -
 we’ll add rookie punters as we hear about training camp battles.*
 
+#### Grade: hold off for now, but check back for updates
+
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
 |R  |Pressley Harvin III       |    n/a |n/a|
@@ -153,6 +163,8 @@ one. If you’re into that kind of team building, or one of these guys
 plays for your team and you’re into that, do your worst\!  **Siposs**
 and **Gillikin** have a shot to rise fast but we can’t project anything
 given how little we know of them.*
+
+#### Grade: hold off for now, but check back for updates
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
