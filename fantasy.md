@@ -52,11 +52,11 @@ no reason to think that trend should stop in 2021. These two are the Travis Kelc
 ### Tier 1b: Ol’ Reliables
 
 *You can pretty much count on these guys to turn in a solid punting
-performance, week in week out. **Logan Cooke** and **Tress Way** sit on the
-border between the top two tiers; Brett Kern exemplifies the Ol’
-Reliable moniker; Johnny Hekker has extreme boom potential, but lacked
+performance, week in week out. **Cooke** and **Way** sit on the
+border between the top two tiers; **Kern** exemplifies the Ol’
+Reliable moniker; **Hekker** has extreme boom potential, but lacked
 consistency down the stretch (not to mention he might get you a few
-points here and there off of fakes); and Matt Haack squeaks in due to
+points here and there off of fakes); and **Haack** squeaks in due to
 his pin-deep prowess.*
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
@@ -71,10 +71,10 @@ his pin-deep prowess.*
 
 *Any of these three may well perform better than some or all of the 1b
 punters; however, they’re just a little too young and unproven for us to
-group them all together. Jack Fox is definitely ranked too low, but with
+group them all together. **Fox** is definitely ranked too low, but with
 just a 1-year sample, and a downward trending second half of 2020, we
-have to wait before bumping him up. Wishnowsky has been good, but not at
-the level of the vets above him, and Charlton had a solid rookie
+have to wait before bumping him up. **Wishnowsky** has been good, but not at
+the level of the vets above him, and **Charlton** had a solid rookie
 campaign and gets a bump from playing on a team with major questions at
 QB (sorry Sammy).*
 
@@ -87,7 +87,7 @@ QB (sorry Sammy).*
 ### Tier 2b: Low Risk, Moderate Reward
 
 *These guys are a little past their primes, but have the stuff to never
-be bad. Watch out for the potential camp battle between Huber and Ohio
+be bad. Watch out for the potential camp battle between **Huber** and Ohio
 State UDFA Drue Chrisman.*
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
@@ -98,7 +98,7 @@ State UDFA Drue Chrisman.*
 
 ### Tier Of His Own: Bojo
 
-*Coming off an excellent 2020 season, Bojórquez was cut by the
+*Coming off an excellent 2020 season, **Bojorquez** was cut by the
 Bills in lieu of getting a raise. Bojo promptly signed with the Rams,
 probably the team on which he has the least chance of ever being the
 starter. All that said, if Bojo signs elsewhere, or somehow becomes the
@@ -110,12 +110,12 @@ starter for the Rams, snatch him up\!*
 
 ### Tier 3: Low Risk, Low Reward
 
-*3 consists of punters who have been in the league long enough to know
+*Tier 3 consists of punters who have been in the league long enough to know
 how to avoid a bad season, but have less upside than the 2b
-guys. You should be able to pick these guys off the waiver wire. Dixon
-is a name to watch here and a potential bounce-back candidate. Cam
-Johnston may end up leading the league in punts pending what happens in
-Houston. Tommy Townsend has little upside based on his tiny volume.*
+guys. You should be able to pick these guys off the waiver wire. **Dixon** (not to be confused with Dickson!!)
+is a name to watch here and a potential bounce-back candidate. 
+**Johnston** may end up leading the league in punts pending what happens in
+Houston. **Tommy Townsend** has little upside based on his tiny volume.*
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
 |:-    |:-----------------|:---------|:------------|
@@ -144,8 +144,8 @@ we’ll add rookie punters as we hear about training camp battles.*
 *Chances are, one of these guys (let’s set the O/U at 1.5) will put up
 some really nice numbers this season, but we won’t try to predict which
 one. If you’re into that kind of team building, or one of these guys
-plays for your team and you’re into that, do your worst\! Arryn Siposs
-and Blake Gilikin have a shot to rise fast but we can’t project anything
+plays for your team and you’re into that, do your worst\!  **Siposs**
+and **Gillikin** have a shot to rise fast but we can’t project anything
 given how little we know of them.*
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
@@ -169,7 +169,7 @@ given how little we know of them.*
 
 ### Only if you’re in a 20 team league with two punter slots
 
-*Ty Long scored a total of -8 points last season. 4 kickers scored more
+***Long** scored a total of -8 points last season. 4 kickers scored more
 punting fantasy points. That’s about all you need to know.*
 
 |Rank |Punter             | 2020  ppg| 2020 Rank |
@@ -179,7 +179,7 @@ punting fantasy points. That’s about all you need to know.*
 ## Full 2020 Rankings
 Here's how punters performed last year, had you been using our scoring system.
 
-|punter_player_name |  2020  ppg| 2020total_points|2020 games played|
+|Punter |  2020  ppg| 2020 total points|2020 games played|
 |:------------------|------:|------------:|-----:|
 |J.Bailey           |  8.750|          140|    16|
 |M.Dickson          |  8.250|          132|    16|
