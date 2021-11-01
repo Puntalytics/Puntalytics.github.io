@@ -13,6 +13,12 @@ jobs:
     - uses: r-lib/actions/setup-r@v1
     - uses: r-lib/actions/setup-pandoc@v1
     
+    - name: Install and activate renv
+      run: |
+        install.packages("renv")
+        renv::activate()
+      shell: Rscript {0}
+    
     - uses: actions/cache@v2
       with:
          path: ~/.local/share/renv
