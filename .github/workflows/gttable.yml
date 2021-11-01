@@ -37,8 +37,7 @@ jobs:
         R -e 'remotes::install_github("jthomasmock/gtExtras")'
        
     - name: Run script
-      run: source("/tables/tableworkflow.R")
-      shell: Rscript {0}
+      run: R -e 'source("tables/tableworkflow.R")'
 
     - name: Commit results
       run: |
