@@ -19,6 +19,7 @@ library(puntr)
 library(nflfastR)
 library(gt)
 library(gtExtras)
+library(htmltools)
 
 update_db()
 connection <- dbConnect(SQLite(), "./pbp_db")
@@ -56,5 +57,7 @@ tab <- mini %>%
     source_note = glue("Updated {now()}")
   ) %>%
   gt_hulk_col_numeric(c(pEPA, Gross, Net, RERUN, OF, PD), trim = TRUE) %>%
-  gt_img_rows(Team)
-gtsave(tab, 'tables/latest.html')
+  gt_img_rows(Team) %>%
+  as_raw_html()
+
+save_html(tab, file = 'tables/latest.html')
