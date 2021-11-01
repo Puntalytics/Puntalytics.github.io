@@ -7,6 +7,10 @@ library(gsisdecoder)
 library(puntr)
 library(gt)
 library(gtExtras)
+library(devtools)
+
+install_github("Puntalytics/puntr")
+install_github("jthomasmock/gtExtras")
 
 update_db()
 connection <- dbConnect(SQLite(), "./pbp_db")
