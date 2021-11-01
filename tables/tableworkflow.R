@@ -1,14 +1,3 @@
-install.packages("tidyverse")
-install.packages("glue")
-install.packages("lubridate")
-install.packages("DBI")
-install.packages("RSQLite")
-install.packages("gsisdecoder")
-install.packages("devtools")
-devtools::install_github("Puntalytics/puntr")
-install.packages("gt")
-remotes::install_github("jthomasmock/gtExtras")
-
 library(tidyverse)
 library(glue)
 library(lubridate)
@@ -56,4 +45,4 @@ tab <- mini %>%
   ) %>%
   gt_hulk_col_numeric(c(pEPA, Gross, Net, RERUN, OF, PD), trim = TRUE) %>%
   gt_img_rows(Team)
-gtsave(tab, 'tables/latest.html')
+gtsave(tab, '/tables/latest.html')
