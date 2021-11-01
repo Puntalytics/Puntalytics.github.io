@@ -18,24 +18,9 @@ jobs:
          path: ~/.local/share/renv
          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
          restore-keys: ${{ runner.os }}-renv-
-    
-    - name: Install packages
-      run: |
-        R -e 'install.packages("renv")'
-        R -e 'renv::restore()'
-        R -e 'install.packages("rmarkdown")'
-        R -e 'install.packages("tidyverse")'
-        R -e 'install.packages("glue")'
-        R -e 'install.packages("lubridate")'
-        R -e 'install.packages("DBI")'
-        R -e 'install.packages("RSQLite")'
-        R -e 'install.packages("gsisdecoder")'
-        R -e 'install.packages("devtools")'
-        R -e 'install.packages("nflfastR")'
-        R -e 'install.packages("gt")'
         
     - name: Run script
-      run: R -e 'source("tables/tableworkflow.R")'
+      run: Rscript -e 'source("tables/tableworkflow.R")'
 
     - name: Commit results
       run: |
