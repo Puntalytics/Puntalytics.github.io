@@ -8,7 +8,7 @@ Someday, this page might be interactive, in the style of [RBSDM](https://rbsdm.c
 
 #### test
 
-{% include tables/gtexample.html %}
+{% include_relative tables/gtexample.html %}
   
 ### Punt Runts Custom EPA
 How has your favorite punter stacked up in EPA over the years?
