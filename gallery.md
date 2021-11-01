@@ -5,6 +5,10 @@ title: Gallery
 
 # Gallery
 Someday, this page might be interactive, in the style of [RBSDM](https://rbsdm.com/). In the mean time, enjoy a whole bunch of plots to scroll through! For more details about our metrics, head [here](/metrics.md).  
+
+#### test
+
+{{ include tables/gtexample.html }}
   
 ### Punt Runts Custom EPA
 How has your favorite punter stacked up in EPA over the years?
