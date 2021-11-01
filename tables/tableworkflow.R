@@ -57,4 +57,4 @@ tab <- mini %>%
   ) %>%
   gt_hulk_col_numeric(c(pEPA, Gross, Net, RERUN, OF, PD), trim = TRUE) %>%
   gt_img_rows(Team)
-gtsave(tab, '/tables/latest.html')
+gtsave(tab, 'tables/latest.html')
