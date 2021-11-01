@@ -9,29 +9,34 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-    - uses: actions/checkout@v2
-    - uses: r-lib/actions/setup-r@v1
-    - uses: r-lib/actions/setup-pandoc@v1
-    
-    - name: Install and activate renv
-      run: |
-        install.packages("renv")
-        renv::activate()
-      shell: Rscript {0}
-    
-    - uses: actions/cache@v2
-      with:
-         path: ~/.local/share/renv
-         key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-         restore-keys: ${{ runner.os }}-renv-
+      - name: Checkout repo
+        uses: actions/checkout@v2
         
-    - name: Run script
-      run: Rscript -e 'source("tables/tableworkflow.R")'
+      - uses: r-lib/actions/setup-pandoc@v1
+  
+      - uses: r-lib/actions/setup-r@v1
 
-    - name: Commit results
-      run: |
-        git config --local user.name "$GITHUB_ACTOR"
-        git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
-        git add .
-        git commit -m 'Update latest table' || echo "No changes to commit"
-        git push origin || echo "No changes to commit"
+      - uses: r-lib/actions/setup-renv@v1
+    
+      - name: Cache
+        uses: actions/cache@v2
+        with:
+           path: ~/.local/share/renv
+           key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+           restore-keys: ${{ runner.os }}-renv-
+     
+      - name: Set up dependencies
+        uses: r-lib/actions/setup-r-dependencies@v1
+        with:
+           extra-packages: tidyverse, glue, DBI, RSQLite, gsisdecoder, remotes, nflfastR, gt
+          
+      - name: Run script
+        run: Rscript -e 'source("tables/tableworkflow.R")'
+
+      - name: Commit results
+        run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git add .
+          git commit -m 'Update latest table' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
