@@ -32,10 +32,8 @@ jobs:
         R -e 'install.packages("gsisdecoder")'
         R -e 'install.packages("devtools")'
         R -e 'install.packages("nflfastR")'
-        R -e 'devtools::install_github("Puntalytics/puntr")'
         R -e 'install.packages("gt")'
-        R -e 'remotes::install_github("jthomasmock/gtExtras")'
-       
+        
     - name: Run script
       run: R -e 'source("tables/tableworkflow.R")'
 
