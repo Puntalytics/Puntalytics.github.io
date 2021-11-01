@@ -6,11 +6,12 @@ title: Gallery
 # Gallery
 Someday, this page might be interactive, in the style of [RBSDM](https://rbsdm.com/). In the mean time, enjoy a whole bunch of stuff to scroll through! For more details about our metrics, head [here](/metrics.md).  
 
-### Current stats
-Here's how things stand this season. Last updated 8/31/2021 prior to SNF.
-{% include_relative tables/gtexample.html %}
+### Stats this season (2021)
+Here's how things stand this season:
+{% include_relative tables/latest.html %}
   
-### Punt Runts Custom EPA
+### Stats from previous seasons
+#### Punt Runts Custom EPA
 How has your favorite punter stacked up in EPA over the years?
 
 ![EPA in 2020](/assets/img/gallery/epa2020.png)
@@ -36,7 +37,7 @@ How has your favorite punter stacked up in EPA over the years?
 ![EPA in 2000](/assets/img/gallery/epa2000.png)
 ![EPA in 1999](/assets/img/gallery/epa1999.png)
 
-### Open-Field vs. Pin-Deep performance
+#### Open-Field vs. Pin-Deep performance
 Is your punter a "big boot", "precision specialist", both, or neither?
 
 ![OF vs PD in 2020](/assets/img/gallery/ofpd2020.png)
