@@ -18,7 +18,6 @@ library(gsisdecoder)
 library(puntr)
 library(gt)
 library(gtExtras)
-library(devtools)
 
 update_db()
 connection <- dbConnect(SQLite(), "./pbp_db")
