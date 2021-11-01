@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -13,12 +13,11 @@ jobs:
     - uses: r-lib/actions/setup-r@v1
     - uses: r-lib/actions/setup-pandoc@v1
     
-    - name: Cache Renv packages
-      uses: actions/cache@v2
+    - uses: actions/cache@v2
       with:
-        path: $HOME/.local/share/renv
-        key: r-${{ hashFiles('renv.lock') }}
-        restore-keys: r-
+         path: ~/.local/share/renv
+         key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+         restore-keys: ${{ runner.os }}-renv-
     
     - name: Install packages
       run: |
@@ -32,6 +31,7 @@ jobs:
         R -e 'install.packages("RSQLite")'
         R -e 'install.packages("gsisdecoder")'
         R -e 'install.packages("devtools")'
+        R -e 'install.packages("nflfastR")'
         R -e 'devtools::install_github("Puntalytics/puntr")'
         R -e 'install.packages("gt")'
         R -e 'remotes::install_github("jthomasmock/gtExtras")'
