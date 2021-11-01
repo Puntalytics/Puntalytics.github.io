@@ -4,10 +4,10 @@ title: Gallery
 ---
 
 # Gallery
-Someday, this page might be interactive, in the style of [RBSDM](https://rbsdm.com/). In the mean time, enjoy a whole bunch of plots to scroll through! For more details about our metrics, head [here](/metrics.md).  
+Someday, this page might be interactive, in the style of [RBSDM](https://rbsdm.com/). In the mean time, enjoy a whole bunch of stuff to scroll through! For more details about our metrics, head [here](/metrics.md).  
 
-#### test
-
+### Current stats
+Here's how things stand this season. Last updated 8/31/2021 prior to SNF.
 {% include_relative tables/gtexample.html %}
   
 ### Punt Runts Custom EPA
