@@ -24,14 +24,18 @@ jobs:
            path: ~/Library/Application\ Support/renv
            key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
            restore-keys: ${{ runner.os }}-renv-
+      - name: Activate Renv
+        run:  |
+           install.packages("renv")
+           renv::activate()
+        shell: Rscript {0}
      
-      - name: Set up dependencies
-        uses: r-lib/actions/setup-r-dependencies@v1
-        with:
-           extra-packages: tidyverse, glue, DBI, RSQLite, gsisdecoder, remotes, nflfastR, gt
-          
+      - name: Install packages
+        run: install.packages(c("tidyverse", "glue", "DBI", "RSQLite", "gsisdecoder", "remotes", "nflfastR"))
+        shell: Rscript {0}
+   
       - name: Run script
-        run: Rscript -e 'source("tables/tableworkflow.R")'
+        run: Rscript tables/tableworkflow.R
 
       - name: Commit results
         run: |
