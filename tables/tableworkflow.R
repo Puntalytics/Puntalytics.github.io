@@ -16,6 +16,7 @@ library(DBI)
 library(RSQLite)
 library(gsisdecoder)
 library(puntr)
+library(nflfastR)
 library(gt)
 library(gtExtras)
 
