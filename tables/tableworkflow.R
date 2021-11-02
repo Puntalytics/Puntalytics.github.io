@@ -68,7 +68,7 @@ ggplot(data=mini, aes(x = reorder(punter_player_name, Punt_eaepaae_avg), y = Pun
   theme_bw() +
   labs(title = "Punter EPA in 2021", subtitle = glue("Minimum {current_threshold} punts"),
        y="Punter EPA/p above expected", x="Punters in 2021", 
-       caption=glue("figure @ThePuntRunts | data @nflfastR | updated {now('America/New_York')})) +
+       caption=glue("figure @ThePuntRunts | data @nflfastR | updated {now('America/New_York')})") +
   theme(plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm"))+
   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = 0.5))
 ggsave('tables/latestbars.png', width = 8, height = 5)
