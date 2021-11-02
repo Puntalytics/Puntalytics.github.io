@@ -59,3 +59,17 @@ tab <- mini %>%
   gt_img_rows(Team)
 
 gtsave(tab, 'tables/latest.html')
+
+ggplot(data=mini, aes(x = reorder(punter_player_name, Punt_eaepaae_avg), y = Punt_eaepaae_avg)) +
+  geom_col(aes(fill = team_color)) +
+  geom_image(aes(image = team_logo_espn), asp = 8/5, size=0.03) +
+  coord_flip() +
+  scale_fill_identity() +
+  theme_bw() +
+  labs(title = "Punter EPA in 2021", subtitle = glue("Minimum {current_threshold} punts"),
+       y="Punter EPA/p above expected", x="Punters in 2021", 
+       caption=glue("figure @ThePuntRunts | data @nflfastR | updated {now('America/New_York')})) +
+  theme(plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm"))+
+  theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = 0.5))
+ggsave('tables/latestbars.png', width = 8, height = 5)
+
