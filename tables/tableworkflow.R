@@ -19,6 +19,7 @@ library(puntr)
 library(nflfastR)
 library(gt)
 library(gtExtras)
+library(ggimage)
 
 update_db()
 connection <- dbConnect(SQLite(), "./pbp_db")
