@@ -9,7 +9,10 @@ Someday, this page might be interactive, in the style of [RBSDM](https://rbsdm.c
 ### Stats this season (2021)
 Here's how things stand this season:
 {% include_relative tables/latest.html %}
-  
+
+And here's just pEPA, in the familiar horizontal bar plot we're always tweeting:
+![EPA so far in 2021](tables/latestbars.png)
+
 ### Stats from previous seasons
 #### Punt Runts Custom EPA
 How has your favorite punter stacked up in EPA over the years?
