@@ -33,7 +33,7 @@ jobs:
         shell: Rscript {0}
      
       - name: Install packages
-        run: install.packages(c("tidyverse", "glue", "DBI", "RSQLite", "gsisdecoder", "remotes", "nflfastR", "htmltools"))
+        run: install.packages(c("tidyverse", "glue", "ggimage", "DBI", "RSQLite", "gsisdecoder", "remotes", "nflfastR", "htmltools"))
         shell: Rscript {0}
    
       - name: Run script
