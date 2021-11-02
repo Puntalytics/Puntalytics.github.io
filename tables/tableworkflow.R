@@ -53,7 +53,7 @@ tab <- mini %>%
     source_note = "'OF and 'PD' are SHARP_RERUN scores for Open-field and pin-deep, respectively"
   ) %>%
   tab_source_note(
-    source_note = glue("Updated {now()}")
+    source_note = glue("Updated {now('America/New_York')}")
   ) %>%
   gt_hulk_col_numeric(c(pEPA, Gross, Net, RERUN, OF, PD), trim = TRUE) %>%
   gt_img_rows(Team)
