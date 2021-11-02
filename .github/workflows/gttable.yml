@@ -37,6 +37,13 @@ jobs:
       - name: Run script
         run: Rscript tables/tableworkflow.R
 
+      - name: Clean up table for embedding
+        run: |
+          grep -v '<style>body{background-color:white;}</style>' tables/latest.html > tables/latest2.html
+          grep -v DOCTYPE tables/latest2.html > tables/latest3.html
+          rm tables/latest.html tables/latest2.html
+          mv tables/latest3.html tables/latest.html
+
       - name: Commit results
         run: |
           git config --local user.name "$GITHUB_ACTOR"
