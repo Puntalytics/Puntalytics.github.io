@@ -12,11 +12,11 @@
     
     <!-- OpenGraph things to make link thumbnails display nicely -->
     <meta property="og:title" content="Puntalytics" />
-    <meta property="og:description" content="{{page.subtitle | A web home for all your favorite Puntalytics content}}" />
+    <meta property="og:description" content="{{page.subtitle | default: A web home for all your favorite Puntalytics content}}" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{page.url | https://puntalytics.github.io/}}" />
+    <meta property="og:url" content="{{page.url | default: https://puntalytics.github.io/}}" />
     <meta property="og:image" content="{{page.thumbnailimage | 
-                                          https://raw.githubusercontent.com/Puntalytics/Puntalytics.github.io/master/assets/img/ray-guy-award.jpg}}" />
+                                          default: https://raw.githubusercontent.com/Puntalytics/Puntalytics.github.io/master/assets/img/ray-guy-award.jpg}}" />
 
 {% seo %}
 
