@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Gallery
+title: Plots & Tables
 ---
 
-# Gallery
+# Plots & Tables
 Someday, this page might be interactive, in the style of [RBSDM](https://rbsdm.com/). In the mean time, enjoy a whole bunch of stuff to scroll through! For more details about our metrics, head [here](/metrics.md).  
 
 ### Stats this season (2021)
-Here's how things stand this season:
+Here's how things stand this season; this table and the graph below will automatically update at 1 AM eastern after TNF, SNF, and MNF.
 {% include_relative tables/latest.html %}
 
 And here's just pEPA, in the familiar horizontal bar plot we're always tweeting:
