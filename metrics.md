@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Our Metrics
+subtitle: Putting the "alytics" in puntalytics
+
 ---
 
 # Our Metrics
