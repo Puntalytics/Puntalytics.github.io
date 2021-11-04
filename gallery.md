@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plots & Tables
-description: Punting stats for current and previous seasons
+subtitle: Punting stats for current and previous seasons
 
 ---
 
