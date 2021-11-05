@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Our Metrics
-subtitle: Putting the "alytics" in puntalytics
+subtitle: Putting the alytics in puntalytics
 
 ---
 
