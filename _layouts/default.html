@@ -10,14 +10,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script src="https://use.fontawesome.com/f73183289d.js"></script>
     
-    <!-- OpenGraph things to make link thumbnails display nicely -->
-    <meta property="og:title" content="Puntalytics" />
-    <meta property="og:description" content="page.subtitle" />
+    <!-- "title" tag determines what is shown in the menu bar of the browser -->
+    {% if page.title == 'puntalytics' %}
+    <title>Puntalytics | A web home for all your favorite Puntalytics content</title>
+    {% else %}
+    <title>{{page.title}} | {{page.subtitle}}</title>
+    {% endif %}
+    
+    <!-- OpenGraph things to make link thumbnails display nicely. Some of this is adapted from the default jekyll seo. -->
+    <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{page.url | default: https://puntalytics.github.io/}}" />
-    <meta property="og:image" content="https://raw.githubusercontent.com/Puntalytics/Puntalytics.github.io/master/assets/img/thumbnail.png" />
+    <meta name="twitter:card" content="summary" />
 
-{% seo %}
+    <meta property="og:title" content="{{page.title}}" />
+    <meta property="og:description" content="{{page.subtitle}}" />
+    <meta property="og:image" content="https://raw.githubusercontent.com/Puntalytics/Puntalytics.github.io/master/assets/img/thumbnail.png" />
+    <meta property="og:url" content="https://puntalytics.github.io/" />
+
+    <meta name="description" content="{{page.subtitle}}" />
+<link rel="canonical" href="https://puntalytics.github.io/" />
+<meta property="og:site_name" content="Puntalytics" />
+
+    <script type="application/ld+json">
+{"description":"A web home for all your favorite Puntalytics content","url":"https://puntalytics.github.io/","@type":"WebSite","headline":"Puntalytics","name":"Puntalytics","@context":"https://schema.org"}</script>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
    <!-- <link rel="icon" href="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🏈</text></svg>"> -->
