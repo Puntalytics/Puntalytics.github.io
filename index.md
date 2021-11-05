@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Puntalytics
+subtitle: All your favorite puntalytics content, on the web
+
 ---
 # Home
 
