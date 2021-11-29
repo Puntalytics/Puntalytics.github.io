@@ -38,7 +38,9 @@ dbDisconnect(connection)
 
 current_threshold <- ceiling(1.5 * max(punts$week))
 
-mini <- punts %>% create_mini(threshold = current_threshold-1)
+mini <- punts %>% 
+  filter(!is.na(posteam)) %>%
+  create_mini(threshold = current_threshold-1)
 
 tab <- mini %>%
   ungroup() %>%
