@@ -120,39 +120,39 @@ Rather than give a single comparison we give our best guess the possible range o
 
 ### Matt Araiza
 
-Ceiling: Shane Lechler
-80: Todd Sauerbrun
-60: Bryan Anger       
-40: Corey Bojorquez   
-20: Bradley Pinion
-Floor: Johnny Townsend
+- Ceiling: Shane Lechler
+- 80: Todd Sauerbrun
+- 60: Bryan Anger       
+- 40: Corey Bojorquez   
+- 20: Bradley Pinion
+- Floor: Johnny Townsend
 
 ### Jordan Stout
 
-Ceiling: Johnny Hekker
-80: Brett Kern
-60: Mitch Wishnowsky
-40: Riley Dixon
-20: JK Scott
-Floor: Coby Wadman
+- Ceiling: Johnny Hekker
+- 80: Brett Kern
+- 60: Mitch Wishnowsky
+- 40: Jordan Berry
+- 20: Riley Dixon
+- Floor: JK Scott
 
 ### Race Porter
 
-Ceiling: Brett Kern
-80: Brian Moorman
-60: Michael Palardy
-40: Joseph Charlton
-20: Sterling Hofrichter
-Floor: Chas Henry
+- Ceiling: Brett Kern
+- 80: Brian Moorman
+- 60: Michael Palardy
+- 40: Joseph Charlton
+- 20: Sterling Hofrichter
+- Floor: Chas Henry
 
 ### Jake Camarda
 
-Ceiling: Tress Way
-80: Kevin Huber
-60: Pat O’Donnell
-40: Chris Jones
-20: Nick Harris
-Floor: Jamie Gillan
+- Ceiling: Tress Way
+- 80: Kevin Huber
+- 60: Pat O’Donnell
+- 40: Chris Jones
+- 20: Nick Harris
+- Floor: Jamie Gillan
 
 [^1]: Measurements from Dane Brugler's "The Beast" Draft Guide
 [^2]: Inspired by the Ringer NFL Draft Show
