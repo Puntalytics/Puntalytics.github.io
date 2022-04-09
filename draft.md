@@ -7,8 +7,8 @@ output:
     preserve_yaml: TRUE
 ---
 # **THE PUNT RUNTS OFFICIAL 2022 DRAFT GUIDE**
-
-## 1. Matt Araiza (San Diego State) Jr
+## Punter Big Board
+### 1. Matt Araiza (San Diego State) Jr
 HT: 6011  WT: 200   Arm: 30 ½   Hand: 9 ½  Wing: 73 ⅛ [^1]  Age: 21
 #### 2021: Punts: 73, net: 47.9,  pEPA: 0.39, OF: 0.68, PD: -0.07
 
@@ -18,7 +18,7 @@ On film, his punts make returners look silly. They are never in the right positi
 
 **Bottom line:** Araiza fits perfectly with an analytically sound team that punts as little as possible beyond their own 40. The issue is that no team this analytically sound would draft a punter high enough to land Araiza. His ceiling is not only perennial pro-bowls, but also revolutionizing the way NFL coaches approach punting. His floor (if the revolution doesn’t come) is quite a bit lower than the next guy. **NFL Comp: Corey Bojorquez**
 
-## 2. Jordan Stout (Penn State) RS
+### 2. Jordan Stout (Penn State) RS
 HT: 6032  WT: 209  arm: 31 ⅜  hand: 9 ⅜  wing: 75 ½  age: 23
 
 #### 2021: Punts: 66, net: 45.4,  pEPA: 0.34, OF: 0.35, PD: 0.33
@@ -28,7 +28,7 @@ Stout comes in as the most polished punter of the class. After a pedestrian covi
 
 **Bottom line:** Stout doesn’t have Araiza’s tantalizing traits, but he will come in with a pro-ready finesse and mindset that should appeal to most NFL special teams coaches. He has the high-floor, high-ceiling, and consistency combo to be one of the next 8+ year vets, even if he will not revolutionize the punting position. **NFL Comp: Mitch Wishnowsky**
 
-## 3. Race Porter (Washington) Sr
+### 3. Race Porter (Washington) Sr
 HT: 6021  WT: 178  arm: 30 ½ hand: 8 ½  wing: 74 ¼  
 
 #### 2021: Punts: 49, net: 44.2,  pEPA: 0.34, OF: 0.38, PD: 0.25
@@ -40,7 +40,7 @@ You won’t see Race Porter’s name floating around many 2022 draft lists, but 
 **Bottom line:** if teams believe that his 2021 season is a measure of his progress, rather than lightning in a bottle, he could be one of the best bets at punter in this year’s class. His name will be one to watch for at the end of day 3 and into UDFA signings. 
 **NFL comp: Joseph Charlton**
 
-## 4. Jake Camarda (Georgia) Sr
+### 4. Jake Camarda (Georgia) Sr
 HT: 6011  WT: 193  arm: 30 ½  hand: 9 ½  wing: 74 ⅞  age: 23
 
 #### 2021: Punts: 47, net: 44.2,  pEPA: 0.21, OF: 0.18, PD: 0.30
@@ -52,7 +52,7 @@ A four year starter for the Bulldogs, Camarda has been a picture of consistency 
 
 **Bottom line:** A consistent 4 year starter, who lacks the flash of other punting prospects, Camarda should be brought up to compete during training camp this fall. **NFL Comp: Pat O’Donnell**
 
-## 5. Ryan Stonehouse (Colorado State) RS 
+### 5. Ryan Stonehouse (Colorado State) RS 
 HT: 5094  WT: 193  arm: 30  hand: 9 ½  wing: 72 ¾ 
 
 #### 2021: Punts: 56, net: 45.7, pEPA: 0.30, OF: 0.57, PD: -0.04
@@ -66,7 +66,7 @@ Ryan Stonehouse profiles similarly to Camarda with a more explosive leg but lack
 **Bottom line:** A high floor 5 year starter showing real open-field punting promise and impressive hang-time, but has not yet shown that he can consistently get it done in pin-deep territory. **NFL Comp: Johnny Townsend**
 
 
-## 6. John Haggerty (Western Kentucky) RS  
+### 6. John Haggerty (Western Kentucky) RS  
 HT: 6044  WT: 220  arm: 32 ½ hand: 8 ⅝  wing: 75 ⅜
 
 #### 2021: Punts: 31, net: 46.9,  pEPA: 0.28, OF: 0.54, PD: -0.13
@@ -75,7 +75,7 @@ HT: 6044  WT: 220  arm: 32 ½ hand: 8 ⅝  wing: 75 ⅜
 
 **NFL Comp: Rodney Williams**
 
-## 7. Blake Hayes (Illinois) Sr
+### 7. Blake Hayes (Illinois) Sr
 HT: 6043 WT: 226 arm: 33 hand: 9 ¾ wing: 77 ⅞
 
 #### 2021: Punts: 67, net: 44.3,  pEPA: 0.18, OF: 0.16, PD: 0.21
@@ -86,7 +86,7 @@ HT: 6043 WT: 226 arm: 33 hand: 9 ¾ wing: 77 ⅞
 
 **NFL Comp: Tommy Townsend**
 
-## 8. Ryan Wright (Tulane) Sr
+### 8. Ryan Wright (Tulane) Sr
 HT: 6022 WT: 245 
 
 #### 2021: Punts: 49, net: 45.4,  pEPA: 0.30, OF: 0.36, PD: 0.09
@@ -96,8 +96,8 @@ HT: 6022 WT: 245
 
 **NFL Comp: Ty Long**
 
-## 9. Trenton Gill (NC State) RJ
-HT: 6043 WT: 2022 arm: 31 ¼ hand: 9 ¼ wing: 76 ¼
+### 9. Trenton Gill (NC State) RJ
+HT: 6043 WT: 202 arm: 31 ¼ hand: 9 ¼ wing: 76 ¼
 
 #### 2021: Punts: 67, net: 43.5,  pEPA: 0.17, OF: 0.32, PD: 0.00
 #### 2020: Punts: 52, net: 43.6,  pEPA: 0.08, OF: 0.15, PD: -0.09
@@ -106,7 +106,7 @@ HT: 6043 WT: 2022 arm: 31 ¼ hand: 9 ¼ wing: 76 ¼
 **NFL Comp: Jeremy Kapinos**
 
 
-## 10. Ben Griffiths (USC) jr
+### 10. Ben Griffiths (USC) jr
 HT: 6064 WT: 240 arm: 32 ⅝ hand: 9 ⅞ wing: 78 ⅝ age: 30
 
 #### 2021: Punts: 38, net: 42.4,  pEPA: 0.12, OF: 0.19, PD: 0.01
@@ -115,5 +115,44 @@ HT: 6064 WT: 240 arm: 32 ⅝ hand: 9 ⅞ wing: 78 ⅝ age: 30
 
 **NFL Comp: Jake Schum**
 
+## Punter "Shades of" comps [^2]
+Rather than give a single comparison we give our best guess the possible range of similar career outcomes of the top draftable punters
+
+### Matt Araiza
+
+Ceiling: Shane Lechler
+80: Todd Sauerbrun
+60: Bryan Anger       
+40: Corey Bojorquez   
+20: Bradley Pinion
+Floor: Johnny Townsend
+
+### Jordan Stout
+
+Ceiling: Johnny Hekker
+80: Brett Kern
+60: Mitch Wishnowsky
+40: Riley Dixon
+20: JK Scott
+Floor: Coby Wadman
+
+### Race Porter
+
+Ceiling: Brett Kern
+80: Brian Moorman
+60: Michael Palardy
+40: Joseph Charlton
+20: Sterling Hofrichter
+Floor: Chas Henry
+
+### Jake Camarda
+
+Ceiling: Tress Way
+80: Kevin Huber
+60: Pat O’Donnell
+40: Chris Jones
+20: Nick Harris
+Floor: Jamie Gillan
 
 [^1]: Measurements from Dane Brugler's "The Beast" Draft Guide
+[^2]: Inspired by the Ringer NFL Draft Show
