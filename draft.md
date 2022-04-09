@@ -52,5 +52,58 @@ A four year starter for the Bulldogs, Camarda has been a picture of consistency 
 
 **Bottom line:** A consistent 4 year starter, who lacks the flash of other punting prospects, Camarda should be brought up to compete during training camp this fall. **NFL Comp: Pat O’Donnell**
 
+## 5. Ryan Stonehouse (Colorado State) RS: 5094  193  30  9 ½  72 ¾ 
+
+#### 2021: Punts: 56, net: 45.7,  pEPA: 0.30, OF: 0.57, PD: -0.04
+#### 2020: Punts: 26, net: 37.0,  pEPA: 0.03, OF: 0.04, PD: -0.03
+#### 2019: Punts: 49, net: 44.5, pEPA: 0.16, OF: 0.24, PD: -0.07
+#### 2018: Punts: 64, net: 41.4, pEPA: 0.24, OF: 0.29, PD: 0.08
+#### 2017: Punts: 46, net: 42.8, pEPA: 0.23, OF: 0.40, PD: 0.04
+
+
+## 6. John Haggerty
+
+#### 2021: Punts: 31, net: 46.9,  pEPA: 0.28, OF: 0.54, PD: -0.13
+#### 2020: Punts: 55, net: 45.1,  pEPA: 0.22, OF: 0.24, PD: 0.16
+#### 2019: Punts: 45, net: 45.0,  pEPA: 0.26, OF: 0.39, PD: 0.07
+
+**NFL Comp: Rodney Williams**
+
+## 7. Blake Hayes 
+
+#### 2021: Punts: 67, net: 44.3,  pEPA: 0.18, OF: 0.16, PD: 0.21
+#### 2020: Punts: 42, net: 41.1,  pEPA: 0.22, OF: 0.14, PD: 0.32
+#### 2019: Punts: 76, net: 44.3,  pEPA: 0.19, OF: 0.20, PD: 0.19
+#### 2018: Punts: 62, net: 42.0,  pEPA: 0.03, OF: 0.15, PD: -0.14
+#### 2017: Punts: 77, net: 41.4,  pEPA: 0.07, OF: 0.09, PD: 0.06
+
+**NFL Comp: Tommy Townsend**
+
+## 8. Ryan Wright
+
+#### 2021: Punts: 49, net: 45.4,  pEPA: 0.30, OF: 0.36, PD: 0.09
+#### 2020: Punts: 50, net: 43.1,  pEPA: 0.01, OF: 0.12, PD: -0.28
+#### 2019: Punts: 52, net: 38.7,  pEPA: -0.07, OF: 0.19, PD: -0.37
+#### 2018: Punts: 40, net: 42.1,  pEPA: 0.05, OF: 0.08, PD: -0.03
+
+**NFL Comp: Ty Long**
+
+## 9. Trenton Gill
+
+#### 2021: Punts: 67, net: 43.5,  pEPA: 0.17, OF: 0.32, PD: 0.00
+#### 2020: Punts: 52, net: 43.6,  pEPA: 0.08, OF: 0.15, PD: -0.09
+#### 2019: Punts: 56, net: 45.1,  pEPA: 0.19, OF: 0.30, PD: -0.09
+
+**NFL Comp: Jeremy Kapinos**
+
+
+## 10. Ben Griffiths
+
+#### 2021: Punts: 38, net: 42.4,  pEPA: 0.12, OF: 0.19, PD: 0.01
+#### 2020: Punts: 18, net: 44.2,  pEPA: 0.20, OF: 0.34, PD: -0.09
+#### 2019: Punts: 52, net: 40.1,  pEPA: 0.05, OF: -0.04, PD: 0.18
+
+**NFL Comp: Jake Schum**
+
 
 
