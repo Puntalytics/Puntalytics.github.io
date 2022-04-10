@@ -7,8 +7,9 @@ output:
     preserve_yaml: TRUE
 ---
 # Official 2022 Punt Runts Punter Big Board
-|Rank|Punter|
-|-|-|
+
+| Rank | Punter |
+|--|--|
 | 1 | [Matt Araiza](#matt-araiza)|
 | 2 | [Jordan Stout](#jordan-stout)|
 | 3 | [Race Porter](#race-porter)|
