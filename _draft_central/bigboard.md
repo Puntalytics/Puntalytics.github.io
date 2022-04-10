@@ -131,4 +131,6 @@ HT: 6064 WT: 240 arm: 32 ⅝ hand: 9 ⅞ wing: 78 ⅝ age: 30
   
 **NFL Comp: Jake Schum**  
 
+[Back to Draft Central](/draft-central.html)
+
 [^1]: Measurements from Dane Brugler's "The Beast" Draft Guide
