@@ -6,7 +6,7 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 ---
-# **THE PUNT RUNTS OFFICIAL 2022 DRAFT GUIDE**
+# THE PUNT RUNTS OFFICIAL 2022 DRAFT GUIDE
 ## Punter Big Board
 ### 1. Matt Araiza (San Diego State) Jr
 HT: 6011  WT: 200   Arm: 30 ½   Hand: 9 ½  Wing: 73 ⅛ [^1]  Age: 21
