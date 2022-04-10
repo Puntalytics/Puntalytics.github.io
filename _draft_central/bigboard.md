@@ -21,7 +21,7 @@ output:
 | 9 | [Trenton Gill](#trenton-gill)| NC State | RJ |
 | 10| [Ben Griffiths](#ben-griffiths)| USC | Jr |
   
-Read on for our takes and custom metrics on all your favorite punting prospects. 
+Read on for our takes and custom metrics on all your favorite punting prospects. Be sure to keep checking back at [Draft Central](/draft_central.html) or [our twitter feed](https://twitter.com/ThePuntRunts) for the latest draft content! Curious about our custom EPA metric, pEPA? Read about it and our other metrics [here](/metrics.html).
   
 ## 1. Matt Araiza (San Diego State) Jr {#matt-araiza}
 HT: 6011  WT: 200  Arm: 30 ½  Hand: 9 ½  Wing: 73 ⅛ [^1]  Age: 21  
