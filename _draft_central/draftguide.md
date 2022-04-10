@@ -1,5 +1,5 @@
 ---
-title: "Punt Runts 2022 Draft Guide"
+title: "Draft Guide"
 layout: default
 output:
   md_document:
