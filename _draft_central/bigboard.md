@@ -8,19 +8,21 @@ output:
 ---
 # Official 2022 Punt Runts Punter Big Board
 
-| Rank | Punter |
-|--|--|
-| 1 | [Matt Araiza](#matt-araiza)|
-| 2 | [Jordan Stout](#jordan-stout)|
-| 3 | [Race Porter](#race-porter)|
-| 4 | [Jake Camarda](#jake-camarda)|
-| 5 | [Ryan Stonehouse](#ryan-stonehouse)|
-| 6 | [John Haggerty](#john-haggerty)|
-| 7 | [Blake Hayes](#blake-hayes)|
-| 8 | [Ryan Wright](#ryan-wright)|
-| 9 | [Trenton Gill](#trenton-gill)|
-| 10| [Ben Griffiths](#ben-griffiths)|
-
+| Rank | Punter | School | Class |
+|--|--|--|--|
+| 1 | [Matt Araiza](#matt-araiza)| San Diego State | Jr |
+| 2 | [Jordan Stout](#jordan-stout)| Penn State | RS |
+| 3 | [Race Porter](#race-porter)| Washington | Sr |
+| 4 | [Jake Camarda](#jake-camarda)| Georgia | Sr |
+| 5 | [Ryan Stonehouse](#ryan-stonehouse)| Colorado State |  RS |
+| 6 | [John Haggerty](#john-haggerty)| Western Kentucky | RS |
+| 7 | [Blake Hayes](#blake-hayes)| Illinois | Sr |
+| 8 | [Ryan Wright](#ryan-wright)| Tulane | Sr |
+| 9 | [Trenton Gill](#trenton-gill)| NC State | RJ |
+| 10| [Ben Griffiths](#ben-griffiths)| USC | Jr |
+  
+Read on for our takes and custom metrics on all your favorite punting prospects. 
+  
 ## 1. Matt Araiza (San Diego State) Jr {#matt-araiza}
 HT: 6011  WT: 200  Arm: 30 ½  Hand: 9 ½  Wing: 73 ⅛ [^1]  Age: 21  
 **2021: Punts: 73, net: 47.9,  pEPA: 0.39, OF: 0.68, PD: -0.07**  
