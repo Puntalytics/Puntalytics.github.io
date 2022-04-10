@@ -25,6 +25,7 @@ Read on for our takes and custom metrics on all your favorite punting prospects.
   
 ## 1. Matt Araiza (San Diego State) Jr {#matt-araiza}
 HT: 6011  WT: 200  arm: 30 ½  hand: 9 ½  wing: 73 ⅛ [^1]  age: 21  
+  
 **2021: Punts: 73, net: 47.9,  pEPA: 0.39, OF: 0.68, PD: -0.07**  
   
 What more can we say about Araiza? You’ve seen the raw numbers: 2 80-yarders, 15 punts over 60 yards, 47.8 net avg. He’s the most hyped up punting prospect we’ve seen in a while (maybe ever) and he certainly deserves most, if not all, of that praise. His open-field score is the highest we have on record (.68 pEPA), beating out Michael Dickson’s .67 in 2017, but he finished with the below average pin-deep score of -0.07 pEPA. The active punter with college OF-PD splits most like Araiza’s is Corey Bojorquez, but even Bojo couldn’t match Araiza’s open-field prowess.  
