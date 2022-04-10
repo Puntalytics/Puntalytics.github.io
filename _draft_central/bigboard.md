@@ -7,18 +7,18 @@ output:
     preserve_yaml: TRUE
 ---
 # Official 2022 Punt Runts Punter Big Board
-|Rank||Projection|
+|Rank|Punter|
 |-|-|-|
-| 1 | [Matt Araiza](#matt-araiza)|  4-7 |
-| 2 | [Jordan Stout](#jordan-stout)|  |
-| 3 | [Race Porter](#race-porter)|  |
-| 4 | [Jake Camarda](#jake-camarda)|  |
-| 5 | [Ryan Stonehouse](#ryan-stonehouse)|  |
-| 6 | [John Haggerty](#john-haggerty)|  |
-| 7 | [Blake Hayes](#blake-hayes)|  |
-| 8 | [Ryan Wright](#ryan-wright)|  |
-| 9 | [Trenton Gill](#trenton-gill)|  |
-| 10| [Ben Griffiths](#ben-griffiths)|  |
+| 1 | [Matt Araiza](#matt-araiza)|
+| 2 | [Jordan Stout](#jordan-stout)|
+| 3 | [Race Porter](#race-porter)|
+| 4 | [Jake Camarda](#jake-camarda)|
+| 5 | [Ryan Stonehouse](#ryan-stonehouse)|
+| 6 | [John Haggerty](#john-haggerty)|
+| 7 | [Blake Hayes](#blake-hayes)|
+| 8 | [Ryan Wright](#ryan-wright)|
+| 9 | [Trenton Gill](#trenton-gill)|
+| 10| [Ben Griffiths](#ben-griffiths)|
 
 ## 1. Matt Araiza (San Diego State) Jr {#matt-araiza}
 HT: 6011  WT: 200  Arm: 30 ½  Hand: 9 ½  Wing: 73 ⅛ [^1]  Age: 21  
