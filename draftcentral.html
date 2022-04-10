@@ -1,0 +1,17 @@
+---
+layout: default
+title: Punterviews
+subtitle: Like interviews, but with punters
+---
+
+<h1> 2022 Punt Runts Draft Central </h1>
+<ul>
+  {% for post in site.draftcentral %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.subtitle }}
+      <br>
+      <br>
+    </li>
+  {% endfor %}
+</ul>
