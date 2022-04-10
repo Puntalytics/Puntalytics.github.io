@@ -7,35 +7,36 @@ output:
     preserve_yaml: TRUE
 ---
 # Official 2022 Punt Runts Punter Big Board
-
-1. [Matt Araiza, San Diego State](#matt-araiza)
-2. [Jordan Stout, Penn State](#jordan-stout)
-3. [Race Porter, Washington](#race-porter)
-4. [Jake Camarda](#jake-camarda)
-5. [Ryan Stonehouse](#ryan-stonehouse)
-6. [John Haggerty](#john-haggerty)
-7. [Blake Hayes](#blake-hayes)
-8. [Ryan Wright](#ryan-wright)
-9. [Trenton Gill](#trenton-gill)
-10. [Ben Griffiths](#ben-griffiths)
+|Rank||Projection|
+|-|-|-|
+| 1 | [Matt Araiza](#matt-araiza)|  4-7 |
+| 2 | [Jordan Stout](#jordan-stout)|  |
+| 3 | [Race Porter](#race-porter)|  |
+| 4 | [Jake Camarda](#jake-camarda)|  |
+| 5 | [Ryan Stonehouse](#ryan-stonehouse)|  |
+| 6 | [John Haggerty](#john-haggerty)|  |
+| 7 | [Blake Hayes](#blake-hayes)|  |
+| 8 | [Ryan Wright](#ryan-wright)|  |
+| 9 | [Trenton Gill](#trenton-gill)|  |
+| 10| [Ben Griffiths](#ben-griffiths)|  |
 
 ## 1. Matt Araiza (San Diego State) Jr {#matt-araiza}
 HT: 6011  WT: 200  Arm: 30 ½  Hand: 9 ½  Wing: 73 ⅛ [^1]  Age: 21  
-**2021: Punts: 73, net: 47.9, pEPA: 0.39, OF: 0.68, PD: -0.07**  
+**2021: Punts: 73, net: 47.9,  pEPA: 0.39, OF: 0.68, PD: -0.07**  
   
 What more can we say about Araiza? You’ve seen the raw numbers: 2 80-yarders, 15 punts over 60 yards, 47.8 net avg. He’s the most hyped up punting prospect we’ve seen in a while (maybe ever) and he certainly deserves most, if not all, of that praise. His open-field score is the highest we have on record (.68 pEPA), beating out Michael Dickson’s .67 in 2017, but he finished with the below average pin-deep score of -0.07 pEPA. The active punter with college OF-PD splits most like Araiza’s is Corey Bojorquez, but even Bojo couldn’t match Araiza’s open-field prowess.  
   
-On film, his punts make returners look silly. They are never in the right position and end up continuously backpedaling until the ball drops and bounces behind them. This creates both insane field-flipping punts as well as more touchbacks than expected (less of an issue when the punts are over 65 yards). We, like Araiza, believe that gamble is worth taking. It remains to be seen whether he will be able to keep NFL returners guessing in the same way.  
+On film, his punts make returners look silly. They are never in the right position and end up continuously backpedaling until the ball drops and bounces behind them. This creates insane field-flipping punts as well as more touchbacks than expected (less of an issue when the punts are over 65 yards). We, like Araiza, believe that gamble is worth taking. It remains to be seen whether he will be able to keep NFL returners guessing in the same way.  
   
 **Bottom line:** Araiza fits perfectly with an analytically sound team that punts as little as possible beyond their own 40. The issue is that no team this analytically sound would draft a punter high enough to land Araiza. His ceiling is not only perennial pro-bowls, but also revolutionizing the way NFL coaches approach punting. His floor (if the revolution doesn’t come) is quite a bit lower than the next guy. **NFL Comp: Corey Bojorquez**  
   
 ## 2. Jordan Stout (Penn State) RS  {#jordan-stout}
 HT: 6032  WT: 209  arm: 31 ⅜  hand: 9 ⅜  wing: 75 ½  age: 23  
   
-**2021: Punts: 66, net: 45.4, pEPA: 0.34, OF: 0.35, PD: 0.33**  
-**2020: Punts: 33, net: 39.4, pEPA: -0.11, OF: -0.19, PD: 0.11**  
+**2021: Punts: 66, net: 45.4,  pEPA: 0.34, OF: 0.35, PD: 0.33**  
+**2020: Punts: 33, net: 39.4,  pEPA: -0.11, OF: -0.19, PD: 0.11**  
   
-Stout comes in as the most polished punter of the class. After a pedestrian covid-shortened 2020, he put it all together for the Nittany Lions in his second year as a full-time punter, displaying both excellent long ball ability (68% of Open Field punts with net above 45 yards) and coffin-corner precision (1 touchback on 22 pin-deep attempts). Since 2016, only one other punter has put together a season with OF and PD pEPA above 0.3 (min. 60 punts): Mitch Wishnowsky in 2016.  
+Stout comes in as the most polished punter of the class. After a pedestrian COVID-shortened 2020, he put it all together for the Nittany Lions in his second year as a full-time punter, displaying both excellent long ball ability (68% of Open Field punts with net above 45 yards) and coffin-corner precision (1 touchback on 22 pin-deep attempts). Since 2016, only one other punter has put together a season with OF and PD pEPA above 0.3 (min. 60 punts): Mitch Wishnowsky in 2016.  
   
 **Bottom line:** Stout doesn’t have Araiza’s tantalizing traits, but he will come in with a pro-ready finesse and mindset that should appeal to most NFL special teams coaches. He has the high-floor, high-ceiling, and consistency combo to be one of the next 8+ year vets, even if he will not revolutionize the punting position. **NFL Comp: Mitch Wishnowsky**  
   
@@ -44,7 +45,7 @@ HT: 6021  WT: 178  arm: 30 ½ hand: 8 ½  wing: 74 ¼
   
 **2021: Punts: 49, net: 44.2,  pEPA: 0.34, OF: 0.38, PD: 0.25**  
 **2020: Punts: 10, net: 42.0,  pEPA: -0.01, OF: -0.07, PD: 0.06**  
-**2018: Punts: 18, net: 36.9, pEPA: -0.14, OF: -0.12, PD: -0.18**  
+**2018: Punts: 18, net: 36.9,  pEPA: -0.14, OF: -0.12, PD: -0.18**  
   
 You won’t see Race Porter’s name floating around many 2022 draft lists, but we believe he has the potential upside to make it big in the NFL. He became a full-time punter in 2020, but only punted 10 times in the COVID-shortened season. In 2021 though, he put up numbers that measure closely to Jordan Stout’s on 49 attempts. Another fun fact: in 2021, 36 of his 49 punts (73.5%) graded out with a pEPA above 0 (above average)...that number for Jordan Stout? … 48/66 (72.7%).
 
@@ -56,8 +57,8 @@ HT: 6011  WT: 193  arm: 30 ½  hand: 9 ½  wing: 74 ⅞  age: 23
 
 **2021: Punts: 47, net: 44.2,  pEPA: 0.21, OF: 0.18, PD: 0.30**  
 **2020: Punts: 34, net: 46.2,  pEPA: 0.33, OF: 0.58, PD: 0.05**  
-**2019: Punts: 60, net: 45.3, pEPA: 0.29, OF: 0.41, PD: 0.07**  
-**2018: Punts: 42, net: 41.2, pEPA: 0.01, OF: 0.05, PD: -0.03**  
+**2019: Punts: 60, net: 45.3,  pEPA: 0.29, OF: 0.41, PD: 0.07**  
+**2018: Punts: 42, net: 41.2,  pEPA: 0.01, OF: 0.05, PD: -0.03**  
 
 A four year starter for the Bulldogs, Camarda has been a picture of consistency during his time at Georgia. His ceiling doesn’t seem as high as Araiza’s or Stout’s, but he has been performing at an elite collegiate level for far longer. He has posted a pEPA above .20 in each of the last three years and found his groove on coffin-corners last year, allowing only 1 return on 14 pin-deep attempts. He is said to have the fastest operating time of the draft eligible punters, a skill that translates well to the pros. He ran an eye-popping 4.56 40-yard dash at the combine, which is probably an irrelevant piece of data, but who’s counting.
 
@@ -66,11 +67,11 @@ A four year starter for the Bulldogs, Camarda has been a picture of consistency 
 ## 5. Ryan Stonehouse (Colorado State) RS {#ryan-stonehouse}
 HT: 5094  WT: 193  arm: 30  hand: 9 ½  wing: 72 ¾ 
 
-**2021: Punts: 56, net: 45.7, pEPA: 0.30, OF: 0.57, PD: -0.04**  
-**2020: Punts: 26, net: 37.0, pEPA: 0.03, OF: 0.04, PD: -0.03**  
-**2019: Punts: 49, net: 44.5, pEPA: 0.16, OF: 0.24, PD: -0.07**  
-**2018: Punts: 64, net: 41.4, pEPA: 0.24, OF: 0.29, PD: 0.08**  
-**2017: Punts: 46, net: 42.8, pEPA: 0.23, OF: 0.40, PD: 0.04**. 
+**2021: Punts: 56, net: 45.7,  pEPA: 0.30, OF: 0.57, PD: -0.04**  
+**2020: Punts: 26, net: 37.0,  pEPA: 0.03, OF: 0.04, PD: -0.03**  
+**2019: Punts: 49, net: 44.5,  pEPA: 0.16, OF: 0.24, PD: -0.07**  
+**2018: Punts: 64, net: 41.4,  pEPA: 0.24, OF: 0.29, PD: 0.08**  
+**2017: Punts: 46, net: 42.8,  pEPA: 0.23, OF: 0.40, PD: 0.04**. 
 
 
 Ryan Stonehouse profiles similarly to Camarda with a more explosive leg but lacking the precision that Camarda displayed in his final season. He could 
@@ -120,7 +121,7 @@ HT: 6043 WT: 202 arm: 31 ¼ hand: 9 ¼ wing: 76 ¼
   
 **NFL Comp: Jeremy Kapinos**  
 
-## 10. Ben Griffiths (USC) jr {#ben-griffiths}
+## 10. Ben Griffiths (USC) Jr {#ben-griffiths}
 
 HT: 6064 WT: 240 arm: 32 ⅝ hand: 9 ⅞ wing: 78 ⅝ age: 30  
   
