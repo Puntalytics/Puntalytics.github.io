@@ -1,6 +1,16 @@
+---
+title: "Ceiling to Floor Comparisons"
+subtitle: "What's the range of potential outcomes for each punter prospect?"
+layout: default
+output:
+  md_document:
+    variant: gfm
+    preserve_yaml: TRUE
+---
+
 # Ceiling to Floor Comparisons
 
-Instead of giving you standard NFL comparisons, we give you a range of outcomes for each of our top-5 punters. Then, each of the four of us give you our best guess for where (between 0 and 100) each prospects career will end up.
+Instead of giving you standard NFL comparisons, we give you a range of outcomes for each of our top-5 punters. Then, each of the four of us give you our best guess for where (between 0 and 100) each prospect's career will end up.
 
 ## Matt Araiza
 
