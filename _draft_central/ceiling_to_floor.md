@@ -89,3 +89,4 @@ Dennis: "I believe in pEPA, so I believe in Race Porter. I haven't watched the t
 - Dennis: 50
 - Raphael: 44
 
+Ian: "If Araiza weren’t in this class, we’d be talking about Stonehouse as the next 🅱️ig 🅱️oot guy"
