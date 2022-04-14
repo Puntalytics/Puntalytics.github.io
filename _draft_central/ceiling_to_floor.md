@@ -122,5 +122,6 @@ Stonehouse has the highest sample size of any punter in this years class. His hi
 
 ---
 [Back to Draft Central](https://puntalytics.github.io/draft_central.html)  
+  
 [^1]: inspired by the ringer’s nfl draft podcast “50 shades of” episodes
 
