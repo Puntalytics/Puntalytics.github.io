@@ -12,12 +12,10 @@ Instead of giving you standard NFL comparisons, we give you a range of outcomes 
 - Floor: Johnny Townsend
 
 **Punt Runts predictions:**
+- Jack: 85
+- Ian: 62 if Ravens or Chargers, 43 if a cowardly team
 - Raphael: 56
 - Dennis: 45
-- Ian: 62 if Ravens or Chargers, 43 if a cowardly team
-- Jack: 85
-
-
 
 ## Jordan Stout
 
@@ -29,25 +27,10 @@ Instead of giving you standard NFL comparisons, we give you a range of outcomes 
 - Floor: Coby Wadman
 
 **Punt Runts predictions:**
-- Raphael: 65
 - Dennis: 75
+- Raphael: 65
 - Ian: 61
 - Jack: 55
-
-## Jake Camarda
-
-- Ceiling: Tress Way
-- 80: Kevin Huber
-- 60: Pat O’Donnell
-- 40: Chris Jones
-- 20: Nick Harris
-- Floor: Jamie Gillan
-
-**Punt Runts predictions:**
-- Raphael: 48
-- Dennis: 61
-- Ian: 35
-- Jack: 40
 
 ## Race Porter: 
 
@@ -59,11 +42,25 @@ Instead of giving you standard NFL comparisons, we give you a range of outcomes 
 - Floor: Chas Henry
 
 **Punt Runts predictions:**
-- Raphael: 62
 - Dennis: 72
-- Ian: 22
 - Jack: 67
+- Raphael: 62
+- Ian: 22
 
+## Jake Camarda
+
+- Ceiling: Tress Way
+- 80: Kevin Huber
+- 60: Pat O’Donnell
+- 40: Chris Jones
+- 20: Nick Harris
+- Floor: Jamie Gillan
+
+**Punt Runts predictions:**
+- Dennis: 61
+- Raphael: 48
+- Jack: 40
+- Ian: 35
 
 ## Ryan Stonehouse
 
@@ -75,8 +72,8 @@ Instead of giving you standard NFL comparisons, we give you a range of outcomes 
 - Floor: Drew Riggleman
 
 **Punt Runts predictions:**
-- Raphael: 44
-- Dennis: 50
-- Ian: 62
 - Jack: 70
+- Ian: 62
+- Dennis: 50
+- Raphael: 44
 
