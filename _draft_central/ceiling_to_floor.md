@@ -29,7 +29,7 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Raphael: 56
 - Dennis: 45
 
-*Jack: "When you watch Ariza, you think some 12 year old kid thought it was funny to have a create-a-player in madden who was a punter. They maxed out all the stats, but at the end of the day, the kid is still 12. Gotta see if the skill gap transfers to playing with adults."* 
+*Jack: "When you watch Araiza, you think some 12 year old kid thought it was funny to have a create-a-player in madden who was a punter. They maxed out all the stats, but at the end of the day, the kid is still 12. Gotta see if the skill gap transfers to playing with adults."* 
 
 ---
 
