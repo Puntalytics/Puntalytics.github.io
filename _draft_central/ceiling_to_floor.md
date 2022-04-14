@@ -12,7 +12,9 @@ output:
 
 Instead of giving you standard one-to-one NFL comparisons, we give you a range of percentile outcomes for each of our top-5 punters. Then, each of the four of us give you our best guess for where (between 0 and 100) each prospect's career will end up. Whoever had the a-spiciest take on each punter will attempt to justify their prediction.
 
-## Matt Araiza
+## Matt Araiza 
+
+The San Diego State prospect is the biggest wild-card of our top punters, and so he has the widest range of potential outcomes. His range starts all the way up at the tippy top with the GOAT himself, Shane Lechler. [Read more](https://puntalytics.github.io/draft_central/bigboard.html#matt-araiza)
 
 - Ceiling: Shane Lechler
 - 80: Todd Sauerbrun
@@ -90,3 +92,5 @@ Instead of giving you standard one-to-one NFL comparisons, we give you a range o
 - Raphael: 44
 
 *Ian: "If Araiza weren’t in this class, we’d be talking about Stonehouse as the next 🅱️ig 🅱️oot guy"*
+
+[Back to Draft Central](https://puntalytics.github.io/draft_central.html)
