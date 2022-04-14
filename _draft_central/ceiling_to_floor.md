@@ -29,6 +29,8 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Raphael: 56
 - Dennis: 45
 
+---
+
 ## Jordan Stout
 
 - Ceiling: Johnny Hekker
@@ -43,6 +45,8 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Raphael: 65
 - Ian: 61
 - Jack: 55
+
+---
 
 ## Race Porter: 
 
@@ -61,6 +65,8 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
   
 *Dennis: "I believe in pEPA, so I believe in Race Porter. I haven't watched the tape, but that's ok, because he looks amazing on a spreadsheet and I made that spreadsheet."*
 
+---
+
 ## Jake Camarda
 
 - Ceiling: Tress Way
@@ -75,6 +81,8 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Raphael: 48
 - Jack: 40
 - Ian: 35
+
+---
 
 ## Ryan Stonehouse
 
@@ -92,5 +100,7 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Raphael: 44
 
 *Ian: "If Araiza weren’t in this class, we’d be talking about Stonehouse as the next 🅱️ig 🅱️oot guy"*
+
+---
 
 [Back to Draft Central](https://puntalytics.github.io/draft_central.html)
