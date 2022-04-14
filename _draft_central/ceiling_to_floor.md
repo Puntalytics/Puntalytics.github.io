@@ -29,7 +29,8 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Raphael: 56
 - Dennis: 45
 
-**Jack:** ***"When you watch Araiza, you think some 12 year old kid thought it was funny to have a create-a-player in madden who was a punter. They maxed out all the stats, but at the end of the day, the kid is still 12. Gotta see if the skill gap transfers to playing with adults."*** 
+*"When you watch Araiza, you think some 12 year old kid thought it was funny to have a create-a-player in madden who was a punter. They maxed out all the stats, but at the end of the day, the kid is still 12. Gotta see if the skill gap transfers to playing with adults."*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Jack
 
 ---
 
@@ -50,7 +51,8 @@ Most punting experts agree that Jordan Stout is the most pro-ready prospect. We 
 - Ian: 61
 - Jack: 55
 
-**Raphael:** ***"The year is 2026, Jordan Stout signs a 5 year extension making him the highest paid punter in NFL history. Somewhere on draft twitter, people still argue that the Chargers drafted him too high."***
+*"The year is 2026, Jordan Stout signs a 5 year extension making him the highest paid punter in NFL history. Somewhere on draft twitter, people still argue that the Chargers drafted him too high."*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Raphael
 
 ---
 
@@ -71,7 +73,8 @@ Race Porter is our dark horse candidate in this year's class. Some of us are hig
 - Raphael: 62
 - Ian: 22
   
-**Dennis:** ***"I believe in pEPA, so I believe in Race Porter. I haven't watched the tape, but that's ok, because he looks amazing on a spreadsheet and I made that spreadsheet."***
+*"I believe in pEPA, so I believe in Race Porter. I haven't watched the tape, but that's ok, because he looks amazing on a spreadsheet and I made that spreadsheet."*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Dennis
 
 ---
 
@@ -92,7 +95,8 @@ We called him the most consistent punter in this year's class, and it turns out 
 - Jack: 40
 - Ian: 35
 
-**Ian:** ***"Camarda is the Stetson Bennet of punting. Clearly he got the job done but when people ask “is this guy going to the NFL?” you just don’t get as hyped as you thought you would "***
+*"Camarda is the Stetson Bennet of punting. Clearly he got the job done but when people ask “is this guy going to the NFL?” you just don’t get as hyped as you thought you would "*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Ian
 
 ---
 
@@ -113,9 +117,10 @@ Stonehouse has the highest sample size of any punter in this years class. His hi
 - Dennis: 50
 - Raphael: 44
 
-**Ian:** ***"If Araiza weren’t in this class, we’d be talking about Stonehouse as the next 🅱️ig 🅱️oot guy"***
+*"If Araiza weren’t in this class, we’d be talking about Stonehouse as the next 🅱️ig 🅱️oot guy"*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Ian
 
 ---
-[Back to Draft Central](https://puntalytics.github.io/draft_central.html)
+[Back to Draft Central](https://puntalytics.github.io/draft_central.html)  
 [^1]: inspired by the ringer’s nfl draft podcast “50 shades of” episodes
 
