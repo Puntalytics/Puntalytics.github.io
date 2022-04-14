@@ -29,9 +29,13 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Raphael: 56
 - Dennis: 45
 
+*Jack: "When you watch Ariza, you think some 12 year old kid thought it was funny to have a create-a-player in madden who was a punter. They maxed out all the stats, but at the end of the day, the kid is still 12. Gotta see if the skill gap transfers to playing with adults." 
+
 ---
 
 ## Jordan Stout
+
+Most punting experts agree that Jordan Stout is the most pro-ready prospect. We certainly don't disagree, as we all gave him scores above 50. Plenty of elite college punters have faltered in the pros though, so nothing is a given. [Read more](https://puntalytics.github.io/draft_central/bigboard.html#jordan-stout)
 
 - Ceiling: Johnny Hekker
 - 80: Brett Kern
@@ -46,9 +50,13 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Ian: 61
 - Jack: 55
 
+*Raphael: "The year is 2026, Jordan Stout signs a 5 year extension making him the highest paid punter in NFL history. Somewhere on draft twitter, people still argue that the Chargers drafted him too high.* 
+
 ---
 
 ## Race Porter: 
+
+Race Porter is our dark horse candidate in this year's class. Some of us are high on him, and some of us are...not [Read more](https://puntalytics.github.io/draft_central/bigboard.html#race-porter)
 
 - Ceiling: Brett Kern
 - 80: Brian Moorman
@@ -69,6 +77,8 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 
 ## Jake Camarda
 
+We called him the most consistent punter in this year's class, and it turns out every other credible punt analyst (puntalyst?) did too. Maybe we're all on to something. Maybe people just actually watched Georgia and secretly everyone loves watching punters. [Read more](https://puntalytics.github.io/draft_central/bigboard.html#jake-camarda)
+
 - Ceiling: Tress Way
 - 80: Kevin Huber
 - 60: Pat O’Donnell
@@ -82,9 +92,13 @@ The San Diego State prospect is the biggest wild-card of our top punters, and so
 - Jack: 40
 - Ian: 35
 
+*Ian: "Camarda is the Stetson Bennet of punting. Clearly he got the job done but when people ask “is this guy going to the NFL?” you just don’t get as hyped as you thought you would "*
+
 ---
 
 ## Ryan Stonehouse
+
+Stonehouse has the highest sample size of any punter in this years class. His highs are impressive, yet he's always been overshadowed by someone just a little bit better than him. [Read more](https://puntalytics.github.io/draft_central/bigboard.html#ryan-stonehouse)
 
 - Ceiling: Cameron Johnston
 - 80: Ryan Allen
