@@ -56,6 +56,8 @@ Instead of giving you standard NFL comparisons, we give you a range of outcomes 
 - Jack: 67
 - Raphael: 62
 - Ian: 22
+  
+Dennis: "I believe in pEPA, so I believe in Race Porter. I haven't watched the tape, but that's ok, because he looks amazing on a spreadsheet and I made that spreadsheet."
 
 ## Jake Camarda
 
