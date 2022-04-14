@@ -10,7 +10,7 @@ output:
 
 # Ceiling to Floor Comparisons
 
-Instead of giving you standard one-to-one NFL comparisons, we give you a range of percentile outcomes for each of our top-5 punters. Then, each of the four of us give you our best guess for where (between 0 and 100) each prospect's career will end up. Whoever had the a-spiciest take on each punter will attempt to justify their prediction.
+Instead of giving you standard one-to-one NFL comparisons, we give you a range of percentile outcomes for each of our top-5 punters.[^1] Then, each of the four of us give you our best guess for where (between 0 and 100) each prospect's career will end up. Whoever had the a-spiciest take on each punter will attempt to justify their prediction.
 
 ## Matt Araiza 
 
@@ -116,5 +116,5 @@ Stonehouse has the highest sample size of any punter in this years class. His hi
 *Ian: "If Araiza weren’t in this class, we’d be talking about Stonehouse as the next 🅱️ig 🅱️oot guy"*
 
 ---
-
+[^1]: inspired by the ringer’s nfl draft podcast “50 shades of” episodes
 [Back to Draft Central](https://puntalytics.github.io/draft_central.html)
