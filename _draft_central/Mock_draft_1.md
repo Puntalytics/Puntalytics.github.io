@@ -38,7 +38,7 @@ Stonehouse, a big-boot specialist with less success in pin-deep situations is a 
 
 #### Rams (253): The reigning Super Bowl champs take a shot on Race Porter, Punter, Washington. 
 
-Ok, we’ll admit it, this won’t happen. No one is as high on Porter as us. Full disclosure, we haven’t talked to the Rams, so we don’t know that for sure, they might be riding high on Porter Airlines as well. Not sure either how well dark beers do in LA. Porter? hardly know her! Now I’m done. Good for you for getting through the end of this mock draft, you sicko. [More on Porter, you sicko](/draft_central/bigboard.html#race-porter)
+Ok, we’ll admit it, this won’t happen. No one is as high on Porter as us. Full disclosure, we haven’t talked to the Rams, so we don’t know that for sure, they might be riding high on Porter Airlines as well. Not sure either how well dark beers do in LA. Porter? hardly know her! Now I’m done. Good for you for getting through the end of this mock draft. [More on Porter, you sicko](/draft_central/bigboard.html#race-porter)
 
 ### UDFA predictions for the super sickos
 - [Blake Hayes](/draft_central/bigboard.html#blake-hayes): Bears
