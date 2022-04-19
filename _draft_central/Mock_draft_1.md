@@ -7,8 +7,8 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 ---
-# Punters only mock draft 1.0
-In this excercise we do our best to predict the draft position and teams of the punters in the 2022 NFL draft
+# Punters-only mock draft 1.0
+The date is April 30th, 2022. You've just awoken from a peaceful two-day slumber during which nothing of consequence happened. You settle in front of the television to excitedly watch teams make the most important, franchise-shaping roster decisions of the calendar year. Here is what you can expect to see:
 
 ## Round 4:
 
@@ -34,7 +34,7 @@ The Bengals were OK trading back in the sixth round and missing out on Jordan St
 
 #### **Eagles (237):** At #237 The Eagles select **Ryan Stonehouse**, punter, Colorado State. 
 
-Stonehouse, a big-boot specialist with less success in pin-deep situations is a polar opposite to Philadelphia’s current punter Arryn Siposs and the two duke it out in training camp. Ultimately, the Eagles decide on the first ever two-punter unit, Stonehouse flips the field, and Siposs pins them deep. Offensive line depth be damned, the Birds WILL optimize field-position.
+Stonehouse, a big-boot specialist with less success in pin-deep situations is a polar opposite to Philadelphia’s current punter Arryn Siposs and the two duke it out in training camp. Ultimately, the Eagles decide on the first ever two-punter unit: Stonehouse flips the field, and Siposs pins them deep. Offensive line depth be damned, the Birds WILL optimize field-position.
 
 #### **Rams (253):** The reigning Super Bowl champs take a shot on **Race Porter**, Punter, Washington. 
 
