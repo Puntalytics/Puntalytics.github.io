@@ -113,7 +113,7 @@ output:
 **Raphael**
 * Week 12: Jaguars @ Lions, December 4
 
-*Is Logan Cooke underrated? Does Jack Fox deserve a top of the market deal? Yes and yes. Congrats on making it this far in preview about punters only.*
+*Is Logan Cooke underrated? Does Jack Fox deserve a top of the market deal? Yes and yes. Congrats on making it this far in a preview about punters only.*
 
 **Dennis**
 * Week 5: Lions @ Pats, October 9
