@@ -27,12 +27,12 @@ pbp <- tbl(connection, "nflfastR_pbp")
 
 punts <- pbp %>%
   filter(punt_attempt==1) %>%
-  filter(season %in% 2019:2021) %>%
+  filter(season %in% 2020:2022) %>%
   collect() %>%
   trust_the_process() %>%
   filter(punt_blocked==0) %>%
   calculate_all() %>%
-  filter(season == 2021)
+  filter(season == 2022)
 
 dbDisconnect(connection)
 
@@ -40,16 +40,16 @@ current_threshold <- ceiling(1.5 * max(punts$week))
 
 mini <- punts %>% 
   filter(!is.na(posteam)) %>%
-  create_mini(threshold = current_threshold-1)
+  by_punters(threshold = current_threshold-1)
 
 tab <- mini %>%
   ungroup() %>%
-  select(Team=team_logo_espn, Punter = punter_player_name, NumPunts, pEPA=Punt_eaepaae_avg, Gross, Net, RERUN, OF=SHARP_RERUN_OF, PD=SHARP_RERUN_PD) %>%
+  select(Team=team_logo_espn, Punter = punter_player_name, NumPunts, pEPA, Gross, Net, RERUN, OF=SHARP_RERUN_OF, PD=SHARP_RERUN_PD) %>%
   arrange(desc(pEPA)) %>%
   mutate(across(where(is.numeric), round, 2)) %>%
   gt() %>%
   tab_header(
-    title = "Punters in 2021, ranked by pEPA",
+    title = "Punters in 2022, ranked by pEPA",
     subtitle = glue("Minimum {current_threshold} punts")
   ) %>%
   tab_source_note(
@@ -63,13 +63,13 @@ tab <- mini %>%
 
 gtsave(tab, 'tables/latest.html')
 
-ggplot(data=mini, aes(x = reorder(punter_player_name, Punt_eaepaae_avg), y = Punt_eaepaae_avg)) +
+ggplot(data=mini, aes(x = reorder(punter_player_name, pEPA), y = pEPA)) +
   geom_col(aes(fill = team_color)) +
   geom_image(aes(image = team_logo_espn), asp = 8/5, size=0.03) +
   coord_flip() +
   scale_fill_identity() +
   theme_bw() +
-  labs(title = "Punter EPA in 2021", subtitle = glue("Minimum {current_threshold} punts"),
+  labs(title = "Punter EPA in 2022", subtitle = glue("Minimum {current_threshold} punts"),
        y="Punter EPA/p above expected", x="Punters in 2021", 
        caption=glue("figure @ThePuntRunts | data @nflfastR | updated {now('America/New_York')}")) +
   theme(plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm")) +
