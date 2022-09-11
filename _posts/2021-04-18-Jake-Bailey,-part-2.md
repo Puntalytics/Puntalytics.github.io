@@ -1,14 +1,6 @@
 ---
-title: Jake Bailey, Part 2
 layout: post
 subtitle: More Puntalytics with Jake Bailey
-output:
-  md_document:
-    variant: gfm
-    preserve_yaml: TRUE
-always_allow_html: TRUE
-knit: (function(inputFile, encoding) { 
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 ---
 
 In part 2 of our interview with Jake Bailey, we ask the All-Pro to
@@ -92,7 +84,7 @@ bit more conservative and then anything like in front of the 50 yard
 line you’re just trying to get it inside the 10 and not hit a touchback.
 So the 40 yard line is a pretty good indicator that I would say.
 
-![](/assets/img/Rmarkdown/losplot-1.png)<!-- -->
+![Scatter plot of Field Position vs. Gross Yards](/assets/img/bailey-losplot.png)<!-- -->
 
 *This plot of Gross Yards vs. LOS (a favorite of us at Puntalytics)
 shows that, as Jake says, the average Gross Yards / punt starts to
