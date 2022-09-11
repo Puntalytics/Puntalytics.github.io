@@ -95,7 +95,7 @@ output:
 **Dennis**
 * Brett Kern is BACK
 
-*“Brett Kern is this year’s Thomas Morstead” is an easy take. All it takes is any punter to go on IR, and Kern’s phone will start ringing. He didn’t want to relocate his family to Buffalo - fair, I don’t want to do that either. But a four week vacation to show the league he’s still got it? I think there’s a good change that this happens, and that he’s very impressive. Maybe even impressive enough to find himself a starting gig somewhere next season.*
+*“Brett Kern is this year’s Thomas Morstead” is an easy take. All it takes is any punter to go on IR, and Kern’s phone will start ringing. He didn’t want to relocate his family to Buffalo - fair, I don’t want to do that either. But a four week vacation to show the league he’s still got it? I think there’s a good chance that this happens, and that he’s very impressive. Maybe even impressive enough to find himself a starting gig somewhere next season.*
 
 **Jack**
 * Punting is BACK
