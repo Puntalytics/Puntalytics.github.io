@@ -1,5 +1,5 @@
 ---
-title: "Punt Runts Fantasy Guide"
+title: "The Punt Runts Official 2022 season preview"
 layout: default
 output:
   md_document:
