@@ -84,7 +84,7 @@ bit more conservative and then anything like in front of the 50 yard
 line you’re just trying to get it inside the 10 and not hit a touchback.
 So the 40 yard line is a pretty good indicator that I would say.
 
-![Scatter plot of Field Position vs. Gross Yards](/assets/img/bailey-losplot.png)<!-- -->
+![Scatter plot of Field Position vs. Gross Yards](/assets/img/Rmarkdown/losplot-1.png)<!-- -->
 
 *This plot of Gross Yards vs. LOS (a favorite of us at Puntalytics)
 shows that, as Jake says, the average Gross Yards / punt starts to
