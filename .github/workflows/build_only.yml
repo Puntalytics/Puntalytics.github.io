@@ -1,7 +1,6 @@
 name: Test build of site
 
 on:
-  workflow_dispatch:
   # Runs on pull requests targeting the default branch
   pull_request:
     branches: ["master"]
