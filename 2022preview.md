@@ -103,7 +103,7 @@ output:
 *I mean have you seen the ~~Texans~~ ~~Seahawks~~ bears roster? ~~Cam Johnston~~ ~~Michael Dickson~~ Trent Gill might punt 150 times.*
 
 **Ian** 
-* The rookies are HERE 
+* The babies got BACK
 
 *This will be the best class of punters in NFL history, and it’ll be a tight race for best rookie punter between Ryan Stonehouse and Jordan Stout. Teams will be kicking themselves (so to speak) for not drafting one of these blue chip soon to be punting legends.* 
 
