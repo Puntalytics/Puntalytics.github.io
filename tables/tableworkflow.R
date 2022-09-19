@@ -9,6 +9,9 @@ remotes::install_github("Puntalytics/puntr")
 #install.packages("gt")
 remotes::install_github("jthomasmock/gtExtras")
 
+if (!require("pak")) install.packages("pak")
+pak::pak("nflverse/nflfastR")
+
 library(tidyverse)
 library(glue)
 library(lubridate)
@@ -36,7 +39,7 @@ punts <- pbp %>%
 
 dbDisconnect(connection)
 
-current_threshold <- ceiling(1.5 * max(punts$week))
+current_threshold <- floor(1.5 * max(punts$week))
 
 mini <- punts %>% 
   filter(!is.na(posteam)) %>%
