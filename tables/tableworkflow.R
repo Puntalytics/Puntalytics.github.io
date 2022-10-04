@@ -44,9 +44,15 @@ aj_play <- tibble(
   punt_downed = 1
 )
 
+butt <- tibble(
+  game_id = "2022_03_BUF_MIA",
+  play_id = 3846
+)
+
 punts <- punts %>%
   rows_update(aj_play,
               by = c("game_id", "play_id")) %>%
+  rows_delete(butt) %>%
   calculate_all() %>%
   filter(season == 2022)
 
