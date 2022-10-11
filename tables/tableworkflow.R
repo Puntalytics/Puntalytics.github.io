@@ -52,7 +52,8 @@ butt <- tibble(
 punts <- punts %>%
   rows_update(aj_play,
               by = c("game_id", "play_id")) %>%
-  rows_delete(butt) %>%
+  rows_delete(butt,
+              by = c("game_id", "play_id")) %>%
   calculate_all() %>%
   filter(season == 2022)
 
