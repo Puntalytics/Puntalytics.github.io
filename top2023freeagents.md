@@ -87,12 +87,12 @@ Huber was replaced mid-season by Drue Chrisman after a rough start to the year. 
 
 The month of January was not kind to Kern. He did not look like himself in relief of Arryn Siposs. Then he was a healthy scratch in the Super Bowl, where he watched Siposs hit a sad line drive that definitely had an impact on the final score. It’s unclear whether he’ll hang ‘em up this off-season. **He still makes a terrific holder and showed many positive signs in the 2022 preseason before a multi month hiatus.**
 
-## 14. Michael Palardy
+### 14. Michael Palardy
 
 *2022 pEPA rank: 34th/35*
 
 The Patriots signed Palardy as an injury replacement for the struggling Jake Bailey, and it did not go well. Palardy has the NFL clout and left-leggedness to stick around the roster bubble for a little while longer. He'll have to show a lot more before we feel good about him getting playing time over the newest crop of punter prospects.
 
-## Other names to watch out for:
+### Other names to watch out for:
 
 Joseph Charlton, Jake Julien, Hunter Niswander, Cameron Nizialek, Dom Maggio, Seth Vernon, Race Porter, Ty Long, Dan Whelan, Marquette King, Mac Brown, Michael Carrizosa, Brad Wing, Sterling Hofrichter, José Borregales
