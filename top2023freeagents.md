@@ -11,7 +11,7 @@ output:
 
 ### 1. Tommy Townsend  
 
-Townsend was, by any important metrics, the best NFL punter in 2022. His breakout season puts him in line for an eventual top of the market deal, even if his first two years in the league were near average. He is a restricted free agent though, so that contract may not come this year, but **his RFA status makes him a virtual lock to be re-signed by the Chiefs.**
+Townsend was, by any important metrics, the best NFL punter in 2022. His breakout season puts him in line for an eventual top of the market deal, even if his first two years in the league were near average. He is a restricted free agent, so that contract may not come this year, but **his RFA status makes him a virtual lock to be re-signed by the Chiefs.**
 
 ### 2. Blake Gillikin  
 
