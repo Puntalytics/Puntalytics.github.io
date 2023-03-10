@@ -91,7 +91,7 @@ The month of January was not kind to Kern. He did not look like himself in relie
 
 *2022 pEPA rank: 34th/35*
 
-The Patriots signed Palardy as an injury replacement for the struggling Jake Bailey, and it did not go well. Palardy has the NFL clout and left-leggedness to stick around the roster bubble for a little while longer. He'll have to show a lot more before we feel good about him getting playing time over the newest crop of punter prospects.
+The Patriots signed Palardy as an injury replacement for the struggling Jake Bailey, and it did not go well. Palardy has the NFL clout and left-leggedness to stick around the roster bubble for a little while longer. **He'll have to show a lot more** before we feel good about him getting playing time over the newest crop of punter prospects.
 
 ### Other names to watch out for:
 
