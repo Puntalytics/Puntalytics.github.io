@@ -7,7 +7,7 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 ---
-# Top 14 2022 Punter Free Agents
+# Top 14 2023 Punter Free Agents
 
 ### 1. Tommy Townsend
 
