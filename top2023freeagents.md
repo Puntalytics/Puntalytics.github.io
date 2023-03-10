@@ -43,7 +43,7 @@ Riley Dixon had a fine and unflashy 2022 with the Rams. Sometimes that’s all y
 
 *2022 pEPA rank: 23/35*
 
-Scottish Hammer, Jamie Gillan bounced back from a rough 2021, with a near-average 2022, and in the process gave us Michael Dickson’s double punt’s evil alter ego: [the oopsie whoopsie](https://www.youtube.com/watch?v=2GUJTfB5UI0). **This one could go either way,** pending on how the Giants feel about special team gaffes.
+Scottish Hammer, Jamie Gillan bounced back from a rough 2021 with a near-average 2022, and in the process gave us Michael Dickson’s double punt’s evil alter ego: [the oopsie whoopsie](https://www.youtube.com/watch?v=2GUJTfB5UI0). **This one could go either way,** pending on how the Giants feel about special team gaffes.
 
 ### 7. Bradley Pinion 
 
