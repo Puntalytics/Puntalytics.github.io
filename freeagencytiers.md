@@ -22,7 +22,7 @@ The following teams have no punter on their books yet, and for whatever reason (
 ## Tier 2: mild punting chaos
 
 - Atlanta Falcons
-- Buffalo Bills
+- Buffalo Bills (**The Bills reportedly agreed to a 3 year $7.5M with punter Sam Martin, chaos eliminated**)
 - LA Rams
 - NY Giants (**The Giants reportedly agreed to terms with punter Jamie Gillan, eliminating the potential chaos**)
 - Denver Broncos
