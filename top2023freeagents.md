@@ -63,6 +63,8 @@ Pinion signed a one year-prove it deal with the Falcons after a rough stint in T
 
 ### 9. Corliss Waitman 
 
+##### The Broncos tendered ERFA Corliss Waitman per Doug Kyed
+
 *2022 pEPA rank: 28th/35*
 
 Waitman was a terrific fantasy punter, due to unreal volume (he can thank Russell Wilson for that), but didn’t quite break out in his first year as a starter. **He showed enough that the Broncos will feel fine about keeping him around at his low price tag.**
