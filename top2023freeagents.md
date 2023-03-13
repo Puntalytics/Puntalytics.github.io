@@ -35,7 +35,7 @@ Bailey has had a WILD start to his career. He showed promise in his rookie seaso
 
 ### 5. Sam Martin 
 
-##### Martin reportedly agreed to a 3 year $7.5M extension with the Bills
+##### Martin reportedly agreed to a 3 year $7.5M extension with the Bills per Mike Garafolo
 
 *2022 pEPA rank: 9th/35*
 
@@ -49,7 +49,7 @@ Riley Dixon had a fine and unflashy 2022 with the Rams. Sometimes that’s all y
 
 ### 7. Jamie Gillan 
 
-##### Gillan reportedly agreed to a 2 year $4M deal worth up to $5M with the Giants
+##### Gillan reportedly agreed to a 2 year $4M deal worth up to $5M with the Giants per Tom Pelissero
 
 *2022 pEPA rank: 23/35*
 
