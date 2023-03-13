@@ -11,6 +11,8 @@ output:
 
 ### 1. Tommy Townsend
 
+##### The Chiefs tendered Townsend at the lowest tender, he could still sign elsewhere
+
 *2022 pEPA rank: 1st/35*
 
 Townsend was, by any important metrics, the best NFL punter in 2022. His breakout season puts him in line for an eventual top of the market deal, even if his first two years in the league were near average. He is a restricted free agent, so that contract may not come this year, but **his RFA status makes him a virtual lock to be re-signed by the Chiefs.**
@@ -49,13 +51,15 @@ Riley Dixon had a fine and unflashy 2022 with the Rams. Sometimes that’s all y
 
 ### 7. Jamie Gillan 
 
-##### Gillan reportedly agreed to a 2 year $4M deal worth up to $5M with the Giants per Tom Pelissero
+##### Gillan reportedly agreed to a 2 year $4M deal worth up to $5M with the Giants, per Tom Pelissero
 
 *2022 pEPA rank: 23/35*
 
 Scottish Hammer, Jamie Gillan bounced back from a rough 2021 with a near-average 2022, and in the process gave us Michael Dickson’s double punt’s evil alter ego: [the oopsie whoopsie](https://www.youtube.com/watch?v=2GUJTfB5UI0). **This one could go either way,** pending on how the Giants feel about special team gaffes.
 
-### 8. Bradley Pinion 
+### 8. Bradley Pinion
+
+##### Pinion reportedly agreed to a 3 year $8.65M deal with $4.325M guaranteed with the Falcons, per tom Pelissero
 
 *2022 pEPA rank: 19th/35*
 
