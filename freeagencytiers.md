@@ -24,7 +24,7 @@ The following teams have no punter on their books yet, and for whatever reason (
 - Atlanta Falcons
 - Buffalo Bills
 - LA Rams
-- NY Giants (**The Giants reportedly agreed to terms with punter Jamie Gillan, eliminating the potential chaos)
+- NY Giants (**The Giants reportedly agreed to terms with punter Jamie Gillan, eliminating the potential chaos**)
 - Denver Broncos
 - Miami Dolphins
 
