@@ -35,6 +35,8 @@ Bailey has had a WILD start to his career. He showed promise in his rookie seaso
 
 ### 5. Sam Martin 
 
+##### Martin reportedly agreed to a 3 year $7.5M extension with the Bills
+
 *2022 pEPA rank: 9th/35*
 
 Martin was the hero Buffalo both needed and deserved. After a solid start to his career in Detroit, followed by a successful stint in Denver, Martin put together one of the best years of his career in one of the most difficult punter stadiums. The Bills have been on quite the punter rollercoaster since Corey Bojorquez’s breakout 2020, the failed Matt Haack signing, and the disastrous Araiza pick. **We expect both sides to reach a deal to keep Martin in Buffalo.**
@@ -46,6 +48,8 @@ Martin was the hero Buffalo both needed and deserved. After a solid start to his
 Riley Dixon had a fine and unflashy 2022 with the Rams. Sometimes that’s all you need. But if that’s all you’re going to get, why not try your luck in the UDFA pool? **This one's a tossup.**
 
 ### 7. Jamie Gillan 
+
+##### Gillan reportedly agreed to a 2 year $4M deal worth up to $5M with the Giants
 
 *2022 pEPA rank: 23/35*
 
