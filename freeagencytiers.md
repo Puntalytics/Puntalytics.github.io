@@ -33,8 +33,8 @@ The following teams have no punter on their books, but it should only be a matte
 
 ## Tier 3: about to resign their star
 
-- Kansas City Chiefs
-- New Orleans Saints
+- Kansas City Chiefs (**The Chiefs tendered Tommy Townsend, but he could still accept an external offer sheet**)
+- New Orleans Saints (**The Saints extended their punter Blake Gillikin, locking him in as their post-Morstead era guy**)
 
 Both teams here have gotten solid to elite performances out of their rookie punters. The Chiefs’ Tommy Townsend is an RFA and the Saints’ Blake Gillikin is an ERFA. It’s hard to see any other outcome than they eventually get paid top dollar by their current teams
 
