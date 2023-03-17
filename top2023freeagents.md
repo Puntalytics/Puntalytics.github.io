@@ -21,7 +21,7 @@ Townsend was, by any important metrics, the best NFL punter in 2022. His breakou
 
 *2022 pEPA rank: 8th/35*
 
-###### Gillikin signed an extension with the Saints and will change his jersey number, per Blake himself
+##### Gillikin signed an extension with the Saints and will change his jersey number, per Blake himself
 
 Gillikin redshirted behind Thomas Morstead in 2020, then broke out in 2021 with a season long .08 pEPA score, which he followed up with a .06 pEPA score in 2022. He hasn’t put together a season like Townsend’s 2022 yet, but he’s shown in individual games that he has the leg to put together elite performances. **As an ERFA, expect him to re-sign with the Saints.**
 
