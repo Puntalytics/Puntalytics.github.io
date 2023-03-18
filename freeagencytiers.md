@@ -13,7 +13,7 @@ output:
 
 - Arizona Cardinals
 - New England Patriots
-- LA Chargers
+- LA Chargers (**The Chargers re-signed punter JK Scott on a 2 year, $4M deal. It's not what we might have done; let the chaos reign forever, amen**)
 
 The following teams have no punter on their books yet, and for whatever reason (he retired @ the cardinals, weird stuff @ the patriots, or it’s the Chargers @ the chargers), it doesn’t seem like their 2022 punter will be back. Post Jake Bailey release, the Patriots now become the likeliest team to draft a punter in April, so far it doesn’t look like an outstanding class, but we’ll get to that later.
 
@@ -21,12 +21,12 @@ The following teams have no punter on their books yet, and for whatever reason (
 
 ## Tier 2: mild punting chaos
 
-- Atlanta Falcons
+- Atlanta Falcons (**The Falcons reportedly agreed to terms with punter Bradley Pinion, chaos defered another year**)
 - Buffalo Bills (**The Bills reportedly agreed to a 3 year $7.5M with punter Sam Martin, chaos eliminated**)
 - LA Rams
 - NY Giants (**The Giants reportedly agreed to terms with punter Jamie Gillan, eliminating the potential chaos**)
-- Denver Broncos
-- Miami Dolphins
+- Denver Broncos (**The Broncos re-signed punter Corliss Waitmain, bye bye chaos**)
+- Miami Dolphins (**The Dolphins agreed to terms with former Patriots' punter, Jake Bailey**)
 
 The following teams have no punter on their books, but it should only be a matter of time before they re-sign their guy. None of these are a lock though, so it wouldn’t be shocking to see these teams shop around for better or cheaper options.
 
@@ -48,7 +48,7 @@ Drue Chrisman might be good! But it’s too early to tell. He should be their pr
 
 - Philadelphia Eagles
 - Pittsburgh Steelers
-- New York Jets
+- New York Jets (**The Jets pulled the trigger and signed former Saints, Dolphins, Falcons, and Jets legend Thomas Morstead**)
 
 These teams have young and underachieving punters entering the last year of their deals. We cautioned them all to look for competition last year, but they did not heed our advice. They definitely should take a good look at the UDFA pool this year.
 
