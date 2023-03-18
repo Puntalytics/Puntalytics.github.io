@@ -25,13 +25,17 @@ Townsend was, by any important metrics, the best NFL punter in 2022. His breakou
 
 Gillikin redshirted behind Thomas Morstead in 2020, then broke out in 2021 with a season long .08 pEPA score, which he followed up with a .06 pEPA score in 2022. He hasn’t put together a season like Townsend’s 2022 yet, but he’s shown in individual games that he has the leg to put together elite performances. **As an ERFA, expect him to re-sign with the Saints.**
 
-### 3. Thomas Morstead 
+### 3. Thomas Morstead
+
+##### Morstead agreed to terms with the New York Jets, per Morstead himself
 
 *2022 pEPA rank: 10th/35*
 
 Gillikin’s former mentor has gone through quite the career renaissance after a down 2020, including a top 4 finish in 2021 despite punting for two teams, and the infamous butt punt in 2022. On name alone, Morstead deserves to be first on this list, but he is 37, which may give some teams pause. It would be surprising to see him leave Miami, and **the Dolphins have little reason to move on from him this season.**
 
 ### 4. Jake Bailey
+
+##### Bailey agreed to terms with the Miami Dolphins, per Adam Schefter
 
 *2022 pEPA rank: 33rd/35*
 
