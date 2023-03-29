@@ -51,6 +51,8 @@ Martin was the hero Buffalo both needed and deserved. After a solid start to his
 
 ### 6. Riley Dixon 
 
+##### Dixon agreed to a 2 year deal with the Broncos
+
 *2022 pEPA rank: 18th/35*
 
 Riley Dixon had a fine and unflashy 2022 with the Rams. Sometimes that’s all you need. But if that’s all you’re going to get, why not try your luck in the UDFA pool? **This one's a tossup.**
@@ -74,6 +76,7 @@ Pinion signed a one year-prove it deal with the Falcons after a rough stint in T
 ### 9. Corliss Waitman 
 
 ##### The Broncos tendered ERFA Corliss Waitman per Doug Kyed
+##### UPDATE: the Patriots reportedly agreed to a one year deal with Waitman
 
 *2022 pEPA rank: 28th/35*
 
@@ -86,6 +89,8 @@ Waitman was a terrific fantasy punter, due to unreal volume (he can thank Russel
 Jordan Berry has posted above average numbers in each of his seasons except 2021. Minnesota definitely made the right choice to keep UDFA Ryan Wright over him in 2022, but **he’s shown enough that he should still get a shot to start somewhere.**
 
 ### 11. JK Scott 
+
+##### THe Chargers re-signed JK Scott
 
 *2022 pEPA rank: 27th/35*
 
