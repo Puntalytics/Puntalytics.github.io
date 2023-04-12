@@ -13,7 +13,7 @@ Before we get into our rankings, let's get one thing straight: it's hard to tell
 
 Here at Puntalytics we subscribe to a "kick ball far good" ideology. We value punters who above anything else can punt the ball far, really really far. We're sort of renegades among the puntalygensia for that. Now let's get to those rankings!
 
-| Rank | Punter | School
+| Rank | Punter | School |
 |--|--|--|--|
 | 1 | [Bryce Baringer](#bryce-baringer)| Michigan State
 | 2 | [Michael Turk](#michael-turk)| Oklahoma
