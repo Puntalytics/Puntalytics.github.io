@@ -45,6 +45,7 @@ HT: 6002  WT: 227  age: 25
 **2019: Punts: 67, net: 43.9, pEPA: 0.31, OF: 0.49, PD: 0.17**
 
 Turk showed elite potential in limited action in 2021, before coming back down to earth in his final year at OU. He boasts a powerful leg with more control than Baringer. He declared for the 2022 draft but was not selected or signed. This may be a red flag for teams, but we believe he has what it takes to make a solid pro.
+
 **Bottom line:** More refined punter than Baringer with a lower ceiling. May have played his draft cards wrong. **NFL Comp: JK Scott**  
 
 ## 3. Adam Korsak (Rutgers) {#adam-korsak}
@@ -57,6 +58,7 @@ HT: 6005  WT: 191  age: 25
 **2018: Punts: 78, net: 41.9, pEPA: 0.03, OF: 0.04, PD: 0.02**
 
 2022 Ray Guy Award winner Adam Korsak put together an impressive body of work in his 5 years at Rutgers. He boasts impressive pin-deep numbers and solid but unflashy open-field numbers. In a changing NFL punting landscape, Korsak may be a dying breed, but plenty of college punters have figured out how to boom punts only after they leave college (see Jack Fox).
+
 **Bottom line:** Remarkably consistent punter who may not have the elite leg to impress at the NFL level **NFL Comp: Arryn Siposs** 
 
 ## 4. Ty Zentner (Kansas State) {#ty-zentner}
