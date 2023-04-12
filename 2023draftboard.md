@@ -7,7 +7,7 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 ---
-# Official 2022 Punt Runts Punter Big Board
+# Official 2023 Punt Runts Punter Big Board
 
 Before we get into our rankings, let's get one thing straight: it's hard to tell which college punters will make good pros. This is true of every position, of course, but we often forget that guys like Johnny Townsend and JK Scott were drafted whereas prospects like Jack Fox and Ryan Stonehouse were not. 
 
