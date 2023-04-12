@@ -33,6 +33,7 @@ HT: 6017  WT: 220  age: 23
 **2018: Punts: 15, net: 45.9, pEPA: -0.49, OF: -0.77, PD: -0.17**
 
 3-year starter at MSU, Baringer headlines the 2023 class. After spending his first years of eligibility figuring out how to be a consistent punter, he put it all together in his last two seasons at Michigan State. His Open-field vs Pin-deep differential is the largest we have on record, but the alarming -0.25 PD score might be more a product of sample size and touchback luck. With good coaching he should quickly become a plus starter.
+
 **Bottom line:** Baringer perfectly fits the model of a modern NFL punter. Massive leg and the rest can be figured out **NFL Comp: Ryan Stonehouse**
 
 ## 2. Michael Turk (Oklahoma) {#michael-turk}
