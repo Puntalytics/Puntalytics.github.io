@@ -28,7 +28,7 @@ Read on for our takes and custom metrics on all your favorite punting prospects.
 HT: 6017  WT: 220  age: 23 
   
 **2022: Punts: 51, net: 47.1,  pEPA: 0.38, OF: 0.58, PD: -0.25**   
-**2021: Punts: 61, net: 45.9, pEPA: 0.30, OF: 0.43, PD: -0.01** 
+**2021: Punts: 61, net: 45.9, pEPA: 0.30, OF: 0.43, PD: -0.01**  
 **2020: Punts: 36, net: 41.9, pEPA: -0.02, OF: 0.11, PD: -0.33**  
 **2018: Punts: 15, net: 45.9, pEPA: -0.49, OF: -0.77, PD: -0.17** 
 
