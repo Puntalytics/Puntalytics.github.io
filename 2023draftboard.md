@@ -16,9 +16,9 @@ Here at Puntalytics we subscribe to a "kick ball far good" ideology. We value pu
 | Rank | Punter | School |
 |--|--|--|
 | 1 | [Bryce Baringer](#bryce-baringer)| Michigan State
-| 2 | [Michael Turk](#michael-turk)| Oklahoma
-| 3 | [Brad Robbins](#brad-robbins)| Michigan
-| 4 | [Adam Korsak](#adam-korsak)| Rutgers
+| 2 | [Michael Turk](#michael-turk)| Oklahoma  
+| 3 | [Adam Korsak](#adam-korsak)| Rutgers
+| 4 | [Brad Robbins](#brad-robbins)| Michigan
 | 5 | [Ty Zentner](#ty-zentner)| Kansas State
 | 6 | [Joe Doyle](#joe-doyle)| Memphis
 | 7 | [Paxton Brooks](#paxton-brooks)| Tennessee
@@ -46,23 +46,11 @@ HT: 6002  WT: 227  age: 25
 **2020: Punts: 14, net: 44.4, pEPA: 0.02, OF: -0.03, PD: 0.05**  
 **2019: Punts: 67, net: 43.9, pEPA: 0.31, OF: 0.49, PD: 0.17** 
 
-Turk showed elite potential in limited action in 2021, before coming back down to earth in his final year at OU. He boasts a powerful leg with more control than Baringer. He declared for the 2022 draft but was not selected or signed. This may be a red flag for teams, but we believe he has what it takes to make a solid pro.
+Turk showed elite potential in limited action in 2021, before coming back down to earth in his final year at OU. He boasts a powerful leg with more control than Baringer. He declared for the 2022 draft but was not selected or signed. This may be a red flag for teams, but we believe he has what it takes to make a solid pro. His punt-to-punt consistency makes him the most pro-ready punter in the class.
 
 **Bottom line:** More refined punter than Baringer with a lower ceiling. May have played his draft cards wrong. **NFL Comp: JK Scott**  
 
-## 3. Brad Robbins (Michigan) {#brad-robbins}
-HT: 6003  WT: 200  age: 24 
-  
-**2022: Punts: 43, net: 41.2, pEPA: 0.14, OF: 0.17, PD: 0.05**   
-**2021: Punts: 45, net: 45.4, pEPA: 0.27, OF: 0.27, PD: 0.27**  
-**2020: Punts: 23, net: 44.7, pEPA: 0.18, OF: 0.23, PD: 0.05**  
-**2019: Punts: 63, net: 37.9, pEPA: -0.11, OF: -0.13, PD: -0.08** 
-
-A four-year starter at Michigan, Robbins has been a consistent weapon for the Blue in the last two years. Though he could not follow up a great 2021 with an even better 2022, he has been a much better precision punter than the two guys above him. Robbins only has one total touchback in the last two seasons. 
-
-**Bottom line:** Consistent, pro-ready punter who will thrive in a ball-control offense that prioritizes giving the defense long fields to work with **NFL Comp: a poor man's Jordan Stout** 
-
-## 4. Adam Korsak (Rutgers) {#adam-korsak}
+## 3. Adam Korsak (Rutgers) {#adam-korsak}
 HT: 6005  WT: 191  age: 25 
   
 **2022: Punts: 68, net: 44.3, pEPA: 0.24, OF: 0.22, PD: 0.28**   
@@ -73,7 +61,19 @@ HT: 6005  WT: 191  age: 25
 
 2022 Ray Guy Award winner Adam Korsak put together an impressive body of work in his 5 years at Rutgers. He boasts impressive pin-deep numbers and solid but unflashy open-field numbers. In a changing NFL punting landscape, Korsak may be a dying breed, but plenty of college punters have figured out how to boom punts only after they leave college (see Jack Fox).
 
-**Bottom line:** Remarkably consistent punter who may not have the elite leg to impress at the NFL level **NFL Comp: Arryn Siposs** 
+**Bottom line:** Remarkably consistent punter with elite pin-deep skills but without the elite leg strength of the two punters above him. **NFL Comp: Arryn Siposs** 
+
+## 4. Brad Robbins (Michigan) {#brad-robbins}
+HT: 6003  WT: 200  age: 24 
+  
+**2022: Punts: 43, net: 41.2, pEPA: 0.14, OF: 0.17, PD: 0.05**   
+**2021: Punts: 45, net: 45.4, pEPA: 0.27, OF: 0.27, PD: 0.27**  
+**2020: Punts: 23, net: 44.7, pEPA: 0.18, OF: 0.23, PD: 0.05**  
+**2019: Punts: 63, net: 37.9, pEPA: -0.11, OF: -0.13, PD: -0.08** 
+
+A four-year starter at Michigan, Robbins has been a consistent weapon for the Blue in the last two years. Though he did not follow up a great 2021 with an even better 2022, he has been a much better precision punter than the two guys above him. Eye-popping stat: Robbins only has one total touchback in the last two seasons. 
+
+**Bottom line:** Consistent, pro-ready punter with pin-deep skills who will thrive in a ball-control offense that prioritizes giving the defense long fields to work with **NFL Comp: a poor man's Jordan Stout** 
 
 ## 5. Ty Zentner (Kansas State) {#ty-zentner}
 HT: 6015  WT: 199  age: 24 
@@ -114,5 +114,6 @@ HT: 6027  WT: 222  age: 29
 
 **Bottom line:** 29 year-old Aussie with elite college production, who is probably too old to be considered by NFL teams. **NFL Comp: Max Duffy**
 
+NB: There is enough buzz about D2 Wingate punter **Ethan Evans**, that he should probably be ranked here. We just don't have enough stats and info to rank him.
 
 [^1]: Measurements from Dane Brugler's "The Beast" Draft Guide
