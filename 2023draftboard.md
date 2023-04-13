@@ -17,11 +17,12 @@ Here at Puntalytics we subscribe to a "kick ball far good" ideology. We value pu
 |--|--|--|
 | 1 | [Bryce Baringer](#bryce-baringer)| Michigan State
 | 2 | [Michael Turk](#michael-turk)| Oklahoma
-| 3 | [Adam Korsak](#adam-korsak)| Rutgers
-| 4 | [Ty Zentner](#ty-zentner)| Kansas State
-| 5 | [Joe Doyle](#joe-doyle)| Memphis
-| 6 | [Paxton Brooks](#paxton-brooks)| Tennessee
-| 7 | [Lou Hedley](#lou-hedley)| Miami
+| 3 | [Brad Robbins](#brad-robbins)| Michigan
+| 4 | [Adam Korsak](#adam-korsak)| Rutgers
+| 5 | [Ty Zentner](#ty-zentner)| Kansas State
+| 6 | [Joe Doyle](#joe-doyle)| Memphis
+| 7 | [Paxton Brooks](#paxton-brooks)| Tennessee
+| 8 | [Lou Hedley](#lou-hedley)| Miami
   
 Read on for our takes and custom metrics on all your favorite punting prospects. Be sure to keep checking back at [our twitter feed](https://twitter.com/ThePuntRunts) for the latest draft content! Curious about our custom EPA metric, pEPA? Read about it and our other metrics [here](/metrics.html).
   
@@ -49,7 +50,19 @@ Turk showed elite potential in limited action in 2021, before coming back down t
 
 **Bottom line:** More refined punter than Baringer with a lower ceiling. May have played his draft cards wrong. **NFL Comp: JK Scott**  
 
-## 3. Adam Korsak (Rutgers) {#adam-korsak}
+## 3. Brad Robbins (Michigan) {#brad-robbins}
+HT: 6003  WT: 200  age: 24 
+  
+**2022: Punts: 43, net: 41.2, pEPA: 0.14, OF: 0.17, PD: 0.05**   
+**2021: Punts: 45, net: 45.4, pEPA: 0.27, OF: 0.27, PD: 0.27**  
+**2020: Punts: 23, net: 44.7, pEPA: 0.18, OF: 0.23, PD: 0.05**  
+**2019: Punts: 63, net: 37.9, pEPA: -0.11, OF: -0.13, PD: -0.08** 
+
+A four-year starter at Michigan, Robbins has been a consistent weapon for the Blue in the last two years. Though he could not follow up a great 2021 with an even better 2022, he has been a much better precision punter than the two guys above him. Robbins only has one total touchback in the last two seasons. 
+
+**Bottom line:** Consistent, pro-ready punter who will thrive in a ball-control offense that prioritizes giving the defense long fields to work with **NFL Comp: a poor man's Jordan Stout** 
+
+## 4. Adam Korsak (Rutgers) {#adam-korsak}
 HT: 6005  WT: 191  age: 25 
   
 **2022: Punts: 68, net: 44.3, pEPA: 0.24, OF: 0.22, PD: 0.28**   
@@ -62,7 +75,7 @@ HT: 6005  WT: 191  age: 25
 
 **Bottom line:** Remarkably consistent punter who may not have the elite leg to impress at the NFL level **NFL Comp: Arryn Siposs** 
 
-## 4. Ty Zentner (Kansas State) {#ty-zentner}
+## 5. Ty Zentner (Kansas State) {#ty-zentner}
 HT: 6015  WT: 199  age: 24 
   
 **2022: Punts: 65, net: 42.5, pEPA: 0.15, OF: 0.18, PD: 0.09**   
@@ -71,7 +84,7 @@ HT: 6015  WT: 199  age: 24
 
 **Bottom line:** Highlight reel punter with a knack for shanks (Four 60+ yarders downed inside the 5 to go with 8 shanks in 2022) **NFL Comp: Jake Bailey but only the highest highs and the lowest lows** 
 
-## 5. Joe Doyle (Memphis) {#joe-doyle}
+## 6. Joe Doyle (Memphis) {#joe-doyle}
 HT: 6000  WT: 195  age: 25 
   
 **2022: Punts: 51, net: 42.8, pEPA: 0.13, OF: 0.15, PD: 0.09**   
@@ -81,7 +94,7 @@ HT: 6000  WT: 195  age: 25
 
 **Bottom line:** Above-average college punter who couldn't build off of his successful 2021 season. **NFL Comp: Matt Haack**
 
-## 6. Paxton Brooks (Tennesee) {#paxton-brooks}
+## 7. Paxton Brooks (Tennesee) {#paxton-brooks}
 HT: 6054  WT: 199  age: 23 
   
 **2022: Punts: 40, net: 39.3, pEPA: -0.11, OF: -0.14, PD: -0.06**   
@@ -91,7 +104,7 @@ HT: 6054  WT: 199  age: 23
 
 **Bottom line:** Inconsistent punter who has shown enough flashes to get him to someone's spring workouts **NFL Comp: J. Schroeder but who could turn into Blake Gillikin** 
 
-## 7. Lou Hedley (Miami) {#lou-hedley}
+## 8. Lou Hedley (Miami) {#lou-hedley}
 HT: 6027  WT: 222  age: 29 
   
 **2022: Punts: 49, net: 44.1, pEPA: 0.22, OF: 0.27, PD: 0.12**   
