@@ -19,8 +19,9 @@ Here at Puntalytics we subscribe to a "kick ball far good" ideology. We value pu
 | 2 | [Michael Turk](#michael-turk)| Oklahoma
 | 3 | [Adam Korsak](#adam-korsak)| Rutgers
 | 4 | [Ty Zentner](#ty-zentner)| Kansas State
-| 5 | [Paxton Brooks](#paxton-brooks)| Tennessee
-| 6 | [Lou Hedley](#lou-hedley)| Miami
+| 5 | [Joe Doyle](#joe-doyle)| Memphis
+| 6 | [Paxton Brooks](#paxton-brooks)| Tennessee
+| 7 | [Lou Hedley](#lou-hedley)| Miami
   
 Read on for our takes and custom metrics on all your favorite punting prospects. Be sure to keep checking back at [our twitter feed](https://twitter.com/ThePuntRunts) for the latest draft content! Curious about our custom EPA metric, pEPA? Read about it and our other metrics [here](/metrics.html).
   
@@ -68,9 +69,19 @@ HT: 6015  WT: 199  age: 24
 **2021: Punts: 43, net: 42.1, pEPA: 0.12, OF: 0.29, PD: -0.06**  
 **2020: Punts: 28, net: 40.21, pEPA: -0.01, OF: -0.05, PD: 0.06** 
 
-**Bottom line:** Highlight reel punter with a knack for shanks (Four 60+ yarders downed inside the 5, to go with 8 shanks in 2022) **NFL Comp: Jake Bailey but only the highest highs and the lowest lows** 
+**Bottom line:** Highlight reel punter with a knack for shanks (Four 60+ yarders downed inside the 5 to go with 8 shanks in 2022) **NFL Comp: Jake Bailey but only the highest highs and the lowest lows** 
 
-## 5. Paxton Brooks (Tennesee) {#paxton-brooks}
+## 5. Joe Doyle (Memphis) {#joe-doyle}
+HT: 6000  WT: 195  age: 25 
+  
+**2022: Punts: 51, net: 42.8, pEPA: 0.13, OF: 0.15, PD: 0.09**   
+**2021: Punts: 42, net: 43.9, pEPA: 0.18, OF: 0.25, PD: 0.00**  
+**2020: Punts: 22, net: 39.7, pEPA: -0.16, OF: -0.03, PD: -0.65**  
+**2019: Punts: 66, net: 39.2, pEPA: 0.00, OF: 0.05, PD: -0.05** 
+
+**Bottom line:** Above-average college punter who couldn't build off of his successful 2021 season. **NFL Comp: Matt Haack**
+
+## 6. Paxton Brooks (Tennesee) {#paxton-brooks}
 HT: 6054  WT: 199  age: 23 
   
 **2022: Punts: 40, net: 39.3, pEPA: -0.11, OF: -0.14, PD: -0.06**   
@@ -80,7 +91,7 @@ HT: 6054  WT: 199  age: 23
 
 **Bottom line:** Inconsistent punter who has shown enough flashes to get him to someone's spring workouts **NFL Comp: J. Schroeder but who could turn into Blake Gillikin** 
 
-## 6. Lou Hedley (Miami) {#lou-hedley}
+## 7. Lou Hedley (Miami) {#lou-hedley}
 HT: 6027  WT: 222  age: 29 
   
 **2022: Punts: 49, net: 44.1, pEPA: 0.22, OF: 0.27, PD: 0.12**   
