@@ -82,7 +82,7 @@ HT: 6015  WT: 199  age: 24
 **2021: Punts: 43, net: 42.1, pEPA: 0.12, OF: 0.29, PD: -0.06**  
 **2020: Punts: 28, net: 40.21, pEPA: -0.01, OF: -0.05, PD: 0.06** 
 
-**Bottom line:** Highlight reel punter with a knack for shanks (Four 60+ yarders downed inside the 5 to go with 8 shanks in 2022) **NFL Comp: Jake Bailey but only the highest highs and the lowest lows** 
+**Bottom line:** Highlight reel punter with a knack for shanks (Four 60+ yarders downed inside the 5 to go with 8 shanks in 2022) **NFL Comp: Jake Bailey but we could truly mean any of his seasons** 
 
 ## 6. Joe Doyle (Memphis) {#joe-doyle}
 HT: 6000  WT: 195  age: 25 
