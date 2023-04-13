@@ -102,7 +102,7 @@ HT: 6054  WT: 199  age: 23
 **2020: Punts: 49, net: 43.5, pEPA: 0.14, OF: 0.26, PD: -0.11**  
 **2019: Punts: 29, net: 41.0, pEPA: -0.02, OF: 0.03, PD: -0.11** 
 
-**Bottom line:** Inconsistent punter who has shown enough flashes to get him to someone's spring workouts **NFL Comp: J. Schroeder but who could turn into Blake Gillikin** 
+**Bottom line:** Inconsistent punter who has shown enough flashes to get him to someone's spring workouts **NFL Comp: J. Schroeder with a tiny chance to turn into Blake Gillikin** 
 
 ## 8. Lou Hedley (Miami) {#lou-hedley}
 HT: 6027  WT: 222  age: 29 
