@@ -71,7 +71,7 @@ HT: 6003  WT: 200  age: 24
 **2020: Punts: 23, net: 44.7, pEPA: 0.18, OF: 0.23, PD: 0.05**  
 **2019: Punts: 63, net: 37.9, pEPA: -0.11, OF: -0.13, PD: -0.08** 
 
-A four-year starter at Michigan, Robbins has been a consistent weapon for the Blue in the last two years. Though he did not follow up a great 2021 with an even better 2022, he has been a much better precision punter than the two guys above him. Eye-popping stat: Robbins only has one total touchback in the last two seasons. 
+A four-year starter at Michigan, Robbins has been a consistent weapon for the Blue in the last two years. Though he did not follow up a great 2021 with an even better 2022, he has been a much better precision punter than the two guys above him. Eye-popping stat: Robbins only has three total touchback in the last two seasons (none in 2022). 
 
 **Bottom line:** Consistent, pro-ready punter with pin-deep skills who will thrive in a ball-control offense that prioritizes giving the defense long fields to work with **NFL Comp: a poor man's Jordan Stout** 
 
