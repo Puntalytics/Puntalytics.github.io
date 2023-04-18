@@ -1,5 +1,5 @@
 ---
-title: "Draft fits
+title: "2023 Draft and UDFA fits
 subtitle: "We give our best fits for our top 5 punters"
 layout: default
 output:
