@@ -7,7 +7,7 @@ output:
     variant: gfm
     preserve_yaml: TRUE
 ---
-# 2023 Draft Fits
+# 2023 Draft and UDFA fits
 
 Last year we did a punters-only mock draft, and correctly predicted the Ravens to draft the first punter, in the 4th round. We were scorned and rejected for it (jk no one really cared, it’s fine). This year, there are neither enough draftable punters, nor enough teams for whom it makes any sense to draft a punter for us to repeat the exercise. Instead, we’re just giving you our best fits for our top-5 guys. There are very, very few teams left with question marks at punter (probably some foreshadowing about what the NFL sees in this draft class). It would not be a shock if only one punter gets drafted. That said, read on for some **PUNTER CONTENT!**
 
