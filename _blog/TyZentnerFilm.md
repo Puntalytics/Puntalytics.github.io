@@ -1,5 +1,6 @@
 ---
 layout: post
+title: We watched every Ty Zentner punt from 2022
 subtitle: Here are our takeaways
 ---
 
