@@ -16,7 +16,7 @@ Our benchmark for draftable punters is at least one season with a pEPA above .25
 
 ## So why could Zentner end up like the three guys listed above and not like the myriad of good college punters who have not been able to make an impact in the league?
 
-Zentner’s A+ punts are as good as anyones. Take a look at this punt:
+Zentner’s A+ punts are as good as anyones. Take a look at this punt (fwiw these are time-stamped links):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bMGmb7RIJvo?start=5252" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Zentner hits a rocket from his own 31, the returner thinks it’s a guaranteed touchback, but the punt bounces straight up at the 10 yard line, right into the hands of the coverage team. It goes in as a 66 yard net, downed at the 2. Even if the returner had judged it well, he likely would have called for a fair catch at the 10, and Zentner would have been credited with a 58 yard fair catch.
