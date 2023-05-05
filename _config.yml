@@ -3,9 +3,11 @@ theme: jekyll-theme-modernist
 url: https://puntalytics.github.io
 google_analytics: UA-192928906-1
   
-gems:
+plugins:
   - jekyll-font-awesome-sass
   
 collections:
   draft_central:
+    output: true
+  blog:
     output: true
