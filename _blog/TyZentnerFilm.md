@@ -29,7 +29,7 @@ Zentner hits another beauty. This one bounces inside the five and outside the nu
 If there is one single punt from Zentner that convinces me that he can make it in the NFL it is this one:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2FTo_8psAE?start=4454" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Lined up on his own left hash and facing a punt rush from the Baylor coverage team, Zentner gets the punt off in under 2 seconds (1.9s is the NFL benchmark for operation time). He hits this one from left hash to the right sideline, moving the returner, who has no choice but to call for a fair catch at the 13. This one goes in as a 48 yard fair catch from own 39 to the opposing 13. No Zentner highlight reel is going to show off this punt, but here he shows NFL caliber combination of operation time, sideline control, distance, and hangtime. 
+Lined up on his own left hash and facing a punt rush from the Baylor coverage team, Zentner gets the punt off in under 2 seconds (1.9s is the NFL benchmark for operation time). He hits this one from left hash to the right sideline, moving the returner, who has no choice but to call for a fair catch at the 13. This one goes in as a 48 yard fair catch from own 39 to the opposing 13. No Zentner highlight reel is going to show off this punt, but **here he shows NFL caliber combination of operation time, sideline control, distance, and hangtime.** 
 
 The first two punts show off elite results; this third one showcases a terrific process. 
 
@@ -47,7 +47,7 @@ Zentner also has a lot of punts that look like this one:
 
 There’s nothing bad about this punt, he gets it off quick enough, and boots it with enough hangtime for it to be fair caught at the 17. Here’s the thing, in the NFL (and in college) this is a below average punt. When punting from beyond your 40, the average result is pinning teams at their 10. Chasing those extra yards is well worth the penalty of a touchback. Don’t believe us? Check this out (link to Tommy Touchback). We know that this might go against old-school punting philosophy, but punters have evolved. Pin deep punts should lead to possessions that begin inside the 10.
 
-Zentner’s middle tier of punts remind us a lot of Siposs. He has great endzone and return control (4 touchbacks on 27 pin deep attempts and only 7 returns of greater than 1 yard on 65 punts) with questions about punt-to-punt leg strength. 
+Zentner’s middle tier of punts remind us a lot of Siposs. **He has great endzone and return control (4 touchbacks on 27 pin deep attempts and only 7 returns of greater than 1 yard on 65 punts) with questions about punt-to-punt leg strength.** 
 
 ## Here’s where things get uglier.
 
@@ -58,6 +58,6 @@ On numerous occasions, Zentner hits a punt that looks like this:
 Or like this:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ah4rI8l82c?start=6830" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-On both of these punts, the ball bounces way in front of the returner, back towards Zentner. These punts might play well in pin-deep territory, but in the open field, both of these are well below average, resulting in nets below 40 yards. In 2022, Zentner had 12 of his 36 open-field punts net fewer than 40 yards, compared to 4/39 for Bryce Baringer or 6/34 for Brad Robbins (in 2021).
+On both of these punts, the ball bounces way in front of the returner, back towards Zentner. These punts might play well in pin-deep territory, but in the open field, both of these are well below average, resulting in nets below 40 yards. **In 2022, Zentner had 12 of his 36 open-field punts net fewer than 40 yards**, compared to 4/39 for Bryce Baringer or 6/34 for Brad Robbins (in 2021).
 
 **The bottom line:** Zentner’s highs are outrageously high, but his lows are worrisome. He will need to improve his consistency, and add a few yards to his baseline punt without sacrificing hangtime or placement. He will also need to improve his sideline control, as NFL returners will be less forgiving of down the middle punts. He definitely has a shot, and to us he was the best UDFA bet in the 2023 class. After all, he has already gotten further in the NFL than our 2022 darling, Race Porter.  
