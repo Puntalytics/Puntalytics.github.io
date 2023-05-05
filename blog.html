@@ -1,0 +1,18 @@
+---
+layout: default
+title: Blog
+subtitle: Miscellaneous musings from the Punt Runts
+---
+
+<h1> Punterviews </h1>
+<h3> Miscellaneous musings from the Punt Runts </h3>
+<ul>
+  {% for post in site.blog %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.subtitle }}
+      <br>
+      <br>
+    </li>
+  {% endfor %}
+</ul>
