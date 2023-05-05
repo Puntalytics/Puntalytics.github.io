@@ -1,4 +1,7 @@
-# We watched every Ty Zentner punt from 2022. Here are our takeaways:
+---
+layout: post
+subtitle: Here are our takeaways
+---
 
 At Puntalytics, we pride ourselves on our metrics, so before we get into the film, let’s talk about the stats. 
 
