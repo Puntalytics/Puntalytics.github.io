@@ -51,7 +51,7 @@ Zentner’s middle tier of punts remind us a lot of Siposs. He has great endzone
 
 ## Here’s where things get uglier.
 
-Zentner’s worst punts are bad, and there is a worrisome amount of them.
+Zentner’s worst punts are **bad**, and there are a worrisome amount of them.
 
 On numerous occasions, Zentner hits a punt that looks like this:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B95NdBXlesY?start=1616" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
