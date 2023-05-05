@@ -49,7 +49,7 @@ There’s nothing bad about this punt, he gets it off quick enough, and boots it
 
 Zentner’s middle tier of punts remind us a lot of Siposs. He has great endzone and return control (4 touchbacks on 27 pin deep attempts and only 7 returns of greater than 1 yard on 65 punts) with questions about punt-to-punt leg strength. 
 
-Here’s where things get uglier.
+## Here’s where things get uglier.
 
 Zentner’s worst punts are bad, and there is a worrisome amount of them.
 
@@ -60,4 +60,4 @@ Or like this:
 
 On both of these punts, the ball bounces way in front of the returner, back towards Zentner. These punts might play well in pin-deep territory, but in the open field, both of these are well below average, resulting in nets below 40 yards. In 2022, Zentner had 12 of his 36 open-field punts net fewer than 40 yards, compared to 4/39 for Bryce Baringer or 6/34 for Brad Robbins (in 2021).
 
-The bottom line: Zentner’s highs are outrageously high, but his lows are worrisome. He will need to improve his consistency, and add a few yards to his baseline punt without sacrificing hangtime or placement. He will also need to improve his sideline control, as NFL returners will be less forgiving of down the middle punts. He definitely has a shot, and to us he was the best UDFA bet in the 2023 class. After all, He has already gotten further in the NFL than our 2022 darling, Race Porter.  
+**The bottom line:** Zentner’s highs are outrageously high, but his lows are worrisome. He will need to improve his consistency, and add a few yards to his baseline punt without sacrificing hangtime or placement. He will also need to improve his sideline control, as NFL returners will be less forgiving of down the middle punts. He definitely has a shot, and to us he was the best UDFA bet in the 2023 class. After all, He has already gotten further in the NFL than our 2022 darling, Race Porter.  
