@@ -1,7 +1,11 @@
 ---
-layout: post
-title: We watched every Ty Zentner punt from 2022
-subtitle: Here are our takeaways
+title: "We watched every Ty Zentner punt from 2022"
+subtitle: "Here are our takeaways"
+layout: default
+output:
+  md_document:
+    variant: gfm
+    preserve_yaml: TRUE
 ---
 
 At Puntalytics, we pride ourselves on our metrics, so before we get into the film, let’s talk about the stats. 
