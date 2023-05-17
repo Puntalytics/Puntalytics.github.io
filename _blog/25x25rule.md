@@ -1,6 +1,6 @@
 ---
 title: "The 25x25 rule of evaluating college punters"
-subtitle: "our thoughts on finding draftable punters"
+subtitle: "Our thoughts on finding draftable punters"
 layout: post
 output:
   md_document:
