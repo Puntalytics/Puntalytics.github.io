@@ -17,7 +17,7 @@ If you haven’t yet read about our custom metric pEPA/p (punter expected points
 
 Looking at our metrics and the recent history of drafted punters, we can set the following thresholds: **one year with pEPA/p above 0.25, AND 25 years or younger at draft time.** This controls for the slew of successful college punters who have not been drafted likely due to their age (see Max Duffy, John Haggerty, etc).
 
-In recent years, here are how young punters have slotted up. Note that additional 2023 punters may end up breaking through, it’s just too early to tell
+In recent years, here are how young punters have slotted up. Note that additional 2023 punters may end up breaking through, it’s just too early to tell.
 
 | Year | Punter              | pEPA of best season | draftable grade | draft status | started in NFL           |
 |------|---------------------|---------------------|-----------------|--------------|--------------------------|
