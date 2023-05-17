@@ -15,7 +15,7 @@ Despite the fact that for college punters, we are limited to occasionally inaccu
 
 If you haven’t yet read about our custom metric pEPA/p (punter expected points added per punt), you can read about it [here](https://puntalytics.github.io/metrics.html). pEPA is different from the classic EPA per play, which you might see used to discuss quarterbacks or other offensive performance. The TLDR is that our metric adjusts for line of scrimmage (short punts, closer to the opposing endzone are not penalized for being short) and for return outcome (fair caught, out of bounds, and downed punts are rewarded for being unreturnable, while return yards are normalized so that punters aren’t dinged for missed tackles by the coverage team). We tend to look at splits for punters in terms of Open-Field (inside own 40) vs Pin-Deep (beyond own 40).
 
-Looking at our metrics and the recent history of drafted punters, we can set the following thresholds: one year with pEPA/p above 0.25, AND 25 years or younger at draft time. This controls for the slew of successful college punters who have not been drafted likely due to their age (see Max Duffy, John Haggerty, etc).
+Looking at our metrics and the recent history of drafted punters, we can set the following thresholds: **one year with pEPA/p above 0.25, AND 25 years or younger at draft time.** This controls for the slew of successful college punters who have not been drafted likely due to their age (see Max Duffy, John Haggerty, etc).
 
 In recent years, here are how young punters have slotted up. Note that additional 2023 punters may end up breaking through, it’s just too early to tell
 
