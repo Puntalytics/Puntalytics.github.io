@@ -30,32 +30,14 @@ pbp <- tbl(connection, "nflfastR_pbp")
 
 punts <- pbp %>%
   filter(punt_attempt==1) %>%
-  filter(season %in% 2020:2022) %>%
+  filter(season %in% 2021:2023) %>%
   collect() %>%
   trust_the_process() %>%
   filter(punt_blocked==0)
 
-aj_play <- tibble(
-  game_id = "2022_03_LV_TEN",
-  play_id = 2470,
-  GrossYards = 39,
-  NetYards = 39,
-  touchback = 0,
-  punt_downed = 1
-)
-
-butt <- tibble(
-  game_id = "2022_03_BUF_MIA",
-  play_id = 3846
-)
-
 punts <- punts %>%
-  rows_update(aj_play,
-              by = c("game_id", "play_id")) %>%
-  rows_delete(butt,
-              by = c("game_id", "play_id")) %>%
   calculate_all() %>%
-  filter(season == 2022)
+  filter(season == 2023)
 
 dbDisconnect(connection)
 
@@ -72,7 +54,7 @@ tab <- mini %>%
   mutate(across(where(is.numeric), round, 2)) %>%
   gt() %>%
   tab_header(
-    title = "Punters in 2022, ranked by pEPA",
+    title = "Punters in 2023, ranked by pEPA",
     subtitle = glue("Minimum {current_threshold} punts")
   ) %>%
   tab_source_note(
@@ -92,7 +74,7 @@ ggplot(data=mini, aes(x = reorder(punter_player_name, pEPA), y = pEPA)) +
   coord_flip() +
   scale_fill_identity() +
   theme_bw() +
-  labs(title = "Punter EPA in 2022", subtitle = glue("Minimum {current_threshold} punts"),
+  labs(title = "Punter EPA in 2023", subtitle = glue("Minimum {current_threshold} punts"),
        y="Punter EPA/p above expected", x="Punters in 2022",
        caption=glue("figure @ThePuntRunts | data @nflfastR | updated {now('America/New_York')}")) +
   theme(plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm")) +
