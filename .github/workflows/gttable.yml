@@ -37,8 +37,8 @@ jobs:
       - name: Install packages
         run: |
           install.packages(c("tidyverse", "glue", "ggimage", "DBI", "RSQLite", "gsisdecoder", "remotes", "nflfastR", "htmltools"))
-          remotes::install_github("Puntalytics/puntr")
-          remotes::install_github("jthomasmock/gtExtras")
+          #remotes::install_github("Puntalytics/puntr")
+          #remotes::install_github("jthomasmock/gtExtras")
         shell: Rscript {0}
 
       # - name: Install dependencies
