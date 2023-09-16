@@ -9,8 +9,8 @@ remotes::install_github("Puntalytics/puntr")
 #install.packages("gt")
 remotes::install_github("jthomasmock/gtExtras")
 
-if (!require("pak")) install.packages("pak")
-pak::pak("nflverse/nflfastR")
+#if (!require("pak")) install.packages("pak")
+#pak::pak("nflverse/nflfastR")
 
 library(tidyverse)
 library(glue)
