@@ -20,12 +20,12 @@ jobs:
 
       # - uses: r-lib/actions/setup-renv@v2
     
-      # - name: Cache
-      #   uses: actions/cache@v2
-      #   with:
-      #      path: ~/Library/Application\ Support/renv
-      #      key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-      #      restore-keys: ${{ runner.os }}-renv-
+      - name: Cache
+        uses: actions/cache@v2
+        with:
+           path: ~/Library/Application\ Support/renv
+           key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+           restore-keys: ${{ runner.os }}-renv-
       - name: Activate Renv
         run:  |
            install.packages("renv")
@@ -33,10 +33,15 @@ jobs:
         shell: Rscript {0}
 
       # - uses: r-lib/actions/setup-renv@v2
-     
-      - name: Install packages
-        run: install.packages(c("tidyverse", "glue", "ggimage", "DBI", "RSQLite", "gsisdecoder", "remotes", "nflfastR", "htmltools"))
-        shell: Rscript {0}
+
+      # - name: Install packages
+      #   run: install.packages(c("tidyverse", "glue", "ggimage", "DBI", "RSQLite", "gsisdecoder", "remotes", "nflfastR", "htmltools"))
+      #   shell: Rscript {0}
+
+      - name: Install dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        # with:
+        #   extra-packages: ggplot
    
       - name: Run script
         run: Rscript tables/tableworkflow.R
