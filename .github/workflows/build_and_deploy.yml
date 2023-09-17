@@ -1,7 +1,10 @@
 name: Build and deploy site
 
 on:
-  workflow_call:
+  workflow_run:
+    workflows: ["Make stat table"]
+    types:
+      - completed
   # Runs on pushes targeting the default branch
   push:
     branches: ["master"]
