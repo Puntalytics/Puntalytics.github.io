@@ -33,6 +33,7 @@ HT: 6'4"  WT: 235  age: 26
 **2020: Punts: 40, adj net: 42.7, pEPA: 0.33, OF: 0.32, PD: 0.33** 
 
 As the second best phenom to get drafted out of Iowa this month, Tory Taylor is worth all the hype he's been given. His 2023 season profiles similarly to Matt Araiza's 2021, but he has also shown elite levels of pin-deep accuracy in seasons past. As punter prospects go, he is a notch below the generational level of Michael Dickson, and profiles closer to the Jordan Stout tier.  The thing that sets him apart from all other punting prospects is his volume (thanks Iowa). He has three seasons with over 80 punts, and in each of those, he was able to maintain good to elite results. In other words, his numbers are much more trustworthy than your typical punting prospect. We at puntalytics love large sample sizes. In his senior season, Taylor posted a 0.37 pEPA score on 93 punts. The only other punter to score at least .30 on 80 or more punts? Michael Dickson.  
+
 Coaches might not like his 7 touchbacks in 2023, but we like his willingness to hunt big plays, as demonstrated by a great boom to shank ratio. It's also important to note that he is already 27, and though teams have been less bothered by punter age in recent years, it could be a deterrent to his draft stock in an already strong class. **He should be the first punter drafted, and could go as high as the 4th round (though rounds 5-6 are more likely).**
 
 
@@ -46,6 +47,7 @@ HT: 6050  WT: 204  age: 23
 **2019: Punts: 59, adj net: 41.7, pEPA: 0.23, OF: 0.24, PD: 0.20** 
 
 Punters 2-4 on our big board are all very closely ranked, any one of these three has a case to be the second punter drafted. We'll present the case for Austin McNamara. His 0.51 open field score in 2021 is tantalizing. Yes it was only on 27 punts, but an open field score that high is enough to get us to forget about our high volume preference. That number isn't buyoed by long bouncing punts either as one third of those punts were fair caught (three times more than the typical draftable punter) and over 48 yards.  
+
 McNamara does not display the consistency of the punter below him, but we believe that when drafting punters, teams should shoot for upside. At 23, he is on the younger end for punting prospects. **He should be drafted and could go as high as the 5th round.** 
 
 ## 3. Matthew Hayball (Vanderbilt via Florida Atlantic) {#matthew-hayball}
@@ -69,6 +71,7 @@ HT: 6002  WT: 227
 **2020: Punts: 28, adj net: 41.8, pEPA: 0.27, OF: 0.32, PD: 0.21** 
 
 Ryan Rehkow's (REE-co) overall numbers profile similarly to Tory Taylor's (one year of elite production, multiple years before that as a plus starter, and top-tier open field numbers). Even their percentage of open-field fair caught punts over 48 yards (a quick gauge of how often punters are hitting a B+ or above spiral punt) are very similar (both around 10%). Rehkow has everything we like to see in a drafted punter, but he has neither the crazy upside of McNamara, nor Taylor's punt to punt consistency. In 2023, he had 5 open field punts under 30 yards (Taylor had 0).  
+
 Despite that, Rehkow easily clears our draftable threshold and we expect him to be a solid pro. **He should be drafted around the 6th round.**
 
 
