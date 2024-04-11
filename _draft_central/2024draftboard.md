@@ -22,7 +22,7 @@ Here at Puntalytics we subscribe to a "kick ball far good" ideology. We value pu
 | 5 | [Ryan Sanborn](#ryan-sanborn)| Texas
 | 6 | [Porter Wilson](#porter-wilson)| Duke
   
-Read on for our takes and custom metrics on all your favorite punting prospects. Be sure to keep checking back at [our twitter feed](https://twitter.com/ThePuntRunts) for the latest draft content! Curious about our custom EPA metric, pEPA? Read about it and our other metrics [here](/metrics.html).
+Read on for our takes and custom metrics on all your favorite punting prospects. Be sure to keep checking back at [our twitter feed](https://twitter.com/ThePuntRunts) for the latest draft content! Adj Net is return adjusted net, OF is Open-field score (inside own 40), and PD is pin-deep score (beyond own 40). Curious about our custom EPA metric, pEPA? Read about it and our other metrics [here](/metrics.html).
   
 ## 1. Tory Taylor (Iowa) {#tory-taylor}
 HT: 6'4"  WT: 235  age: 26 
