@@ -72,7 +72,7 @@ HT: 6002  WT: 227
 
 Ryan Rehkow's (REE-co) overall numbers profile similarly to Tory Taylor's (one year of elite production, multiple years before that as a plus starter, and top-tier open field numbers). Even their percentage of open-field fair caught punts over 48 yards (a quick gauge of how often punters are hitting a B+ or above spiral punt) are very similar (both around 10%). Rehkow has everything we like to see in a drafted punter, but he has neither the crazy upside of McNamara, nor Taylor's punt to punt consistency. In 2023, he had 5 open field punts under 30 yards (Taylor had 0).  
 
-Despite that, Rehkow easily clears our draftable threshold and we expect him to be a solid pro. **He should be drafted around the 6th round.**
+Despite that, Rehkow easily clears our draftable threshold (he would have been our number 1 punter last year) and we expect him to be a solid pro. **He should be drafted around the 6th round.**
 
 
 ## 5. Ryan Sanborn (Texas via Stanford) {#ryan-sanborn}
