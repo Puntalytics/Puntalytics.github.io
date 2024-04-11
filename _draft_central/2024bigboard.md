@@ -46,7 +46,7 @@ HT: 6050  WT: 204  age: 23
 
 Punters 2-4 on our big board are all very closely ranked, any one of these three has a case to be the second punter drafted. We'll present the case for Austin McNamara. His 0.51 open field score in 2021 is tantalizing. Yes it was only on 27 punts, but an open field score that high is enough to get us to forget about our high volume preference. That number isn't buyoed by long bouncing punts either as one third of those punts were fair caught (three times more than the typical draftable punter) and over 48 yards. McNamara does not display the consistency of the two punters below him, but we believe that when drafting punters, teams should shoot for upside. At 23, he is on the younger end for punting prospects. **He should be drafted and could go as high as the 5th round.** 
 
-## 3. Matthew Hayball (Vanderbilt via Florida Atlantic) {#Matthew Hayball}
+## 3. Matthew Hayball (Vanderbilt via Florida Atlantic) {#matthew-hayball}
 HT: 6'0"  WT: 190  age: 27 
   
 **2023: Punts: 57, adj net: 45.1, pEPA: 0.38, OF: 0.47, PD: 0.15**   
