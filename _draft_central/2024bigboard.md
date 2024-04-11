@@ -53,6 +53,7 @@ HT: 6'0"  WT: 190  age: 27
 **2022: Punts: 61, adj net: 41.1, pEPA: 0.07, OF: 0.01, PD: 0.28**  
 **2021: Punts: 58, adj net: 42.8, pEPA: 0.23, OF: 0.26, PD: 0.18**  
 **2020: Punts: 27, adj net: 40.9, pEPA: 0.14, OF: 0.13, PD: 0.17**
+
 **2019: Punts: 68, adj net: 41.0, pEPA: 0.10, OF: 0.18, PD: -0.12**
 
 Matthew Hayball's 2023 season is the best graded season from any punter in this year's class. His year to year inconsistencies perfectly match his story. In 2022, he transfered to Vanderbilt from FAU and saw his numbers dip. But after one year of adjusting to the SEC, he saw amazing improvement in his top of the line 2023 season. At different points in his career, he has shown prowess in both open-field and pin-deep areas of the field. At 27, he is on the older side for a punting prospect, but this shouldn't stop teams from taking a chance on his in the draft. He should be drafted in the 6th round.
@@ -63,6 +64,7 @@ HT: 6002  WT: 227
 **2023: Punts: 70, adj net: 44.9, pEPA: 0.32, OF: 0.39, PD: 0.02**   
 **2022: Punts: 39, adj net: 41.6, pEPA: 0.16, OF: 0.19, PD: 0.09**  
 **2021: Punts: 40, adj net: 41.7, pEPA: 0.18, OF: 0.22, PD: 0.08**
+
 **2020: Punts: 28, adj net: 41.8, pEPA: 0.27, OF: 0.32, PD: 0.21** 
 
 Ryan Rehkow's (REE-co) overall numbers profile similarly to Tory Taylor's (one year of elite production, multiple years before that as a plus starter, and top-tier open field numbers). Even their percentage of open-field fair caught punts over 48 yards (a quick gauge of how often punters are hitting a B+ or above spiral punt) are very similar (both around 10%). Rehkow has everything we like to see in a drafted punter, but he has neither the crazy upside of McNamara, nor Taylor's punt to punt consistency. In 2023, he had 5 open field punts under 30 yards (Taylor had 0). Despite that, Rehkow easily clears our draftable threshold and we expect him to be a solid pro. He should be drafted around the 6th round.
@@ -74,7 +76,9 @@ HT: 6'2"  WT: 212  age: 23
 **2023: Punts: 38, adj net: 43.4, pEPA: 0.30, OF: 0.32, PD: 0.25**   
 **2022: Punts: 57, adj net: 38.5, pEPA: -0.09, OF: -0.18, PD: 0.11**  
 **2021: Punts: 59, adj net: 39.3, pEPA: 0.00, OF: 0.00, PD: 0.02**
+
 **2020: Punts: 21, adj net: 37.1, pEPA: 0.07, OF: -0.03, PD: 0.14** 
+
 **2019: Punts: 53, adj net: 38.4, pEPA: 0.02, OF: 0.01, PD: 0.02** 
 
 Our dark horse in this year's class, Ryan Sanborn posted elite numbers in 2023, despite not punting much at Texas. He meets our draftable thresholds, but given that he only punted 38 times in his final season, it is hard to know how much credence we can give those numbers. His age should be a positive for NFL teams. We would draft him in the 7th round, but the NFL will likely bring him in as a UDFA.
