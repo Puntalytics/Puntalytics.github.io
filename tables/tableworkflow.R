@@ -5,7 +5,7 @@
 #install.packages("gsisdecoder")
 #install.packages("remotes")
 #install.packages("nflfastR")
-remotes::install_github("Puntalytics/puntr@move-cfb")
+remotes::install_github("Puntalytics/puntr")
 #install.packages("gt")
 remotes::install_github("jthomasmock/gtExtras")
 
