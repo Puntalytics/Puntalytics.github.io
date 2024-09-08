@@ -54,7 +54,7 @@ tab <- mini %>%
   mutate(across(where(is.numeric), round, 2)) %>%
   gt() %>%
   tab_header(
-    title = "Punters in 2023, ranked by pEPA",
+    title = "Punters in 2024, ranked by pEPA",
     subtitle = glue("Minimum {current_threshold} punts")
   ) %>%
   tab_source_note(
