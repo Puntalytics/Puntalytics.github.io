@@ -30,14 +30,14 @@ pbp <- tbl(connection, "nflfastR_pbp")
 
 punts <- pbp %>%
   filter(punt_attempt==1) %>%
-  filter(season %in% 2021:2023) %>%
+  filter(season %in% 2022:2024) %>%
   collect() %>%
   trust_the_process() %>%
   filter(punt_blocked==0)
 
 punts <- punts %>%
   calculate_all() %>%
-  filter(season == 2023)
+  filter(season == 2024)
 
 dbDisconnect(connection)
 
@@ -74,8 +74,8 @@ ggplot(data=mini, aes(x = reorder(punter_player_name, pEPA), y = pEPA)) +
   coord_flip() +
   scale_fill_identity() +
   theme_bw() +
-  labs(title = "Punter EPA in 2023", subtitle = glue("Minimum {current_threshold} punts"),
-       y="Punter EPA/p above expected", x="Punters in 2023",
+  labs(title = "Punter EPA in 2024", subtitle = glue("Minimum {current_threshold} punts"),
+       y="Punter EPA/p above expected", x="Punters in 2024",
        caption=glue("figure @ThePuntRunts | data @nflfastR | updated {now('America/New_York')}")) +
   theme(plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm")) +
   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = 0.5))
