@@ -53,7 +53,7 @@ tab <- mini %>%
   ungroup() %>%
   select(Team=team_logo_espn, Punter = punter_player_name, NumPunts, pEPA, Gross, Net, RERUN, OF=SHARP_RERUN_OF, PD=SHARP_RERUN_PD) %>%
   arrange(desc(pEPA)) %>%
-  mutate(across(a:b, \(x) mean(x, na.rm = TRUE))) %>%
+  mutate(across(where(is.numeric), ~round(.x, 2))) %>%
   gt() %>%
   tab_header(
     title = "Punters in 2024, ranked by pEPA",
