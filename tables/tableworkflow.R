@@ -45,7 +45,9 @@ current_threshold <- max(punts$week)
 
 mini <- punts %>%
   filter(!is.na(posteam)) %>%
-  by_punters(threshold = current_threshold)
+  by_punters(
+    # threshold = current_threshold   # commenting this out, but it can be brought back later in the season
+  )
 
 tab <- mini %>%
   ungroup() %>%
