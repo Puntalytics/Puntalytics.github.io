@@ -46,7 +46,7 @@ current_threshold <- max(punts$week)
 mini <- punts %>%
   filter(!is.na(posteam)) %>%
   by_punters(
-    # threshold = current_threshold   # commenting this out, but it can be brought back later in the season
+    threshold = 0   # commenting this out, but it can be brought back later in the season
   )
 
 tab <- mini %>%
@@ -57,7 +57,7 @@ tab <- mini %>%
   gt() %>%
   tab_header(
     title = "Punters in 2024, ranked by pEPA",
-    subtitle = glue("Minimum {current_threshold} punts")
+    # subtitle = glue("Minimum {current_threshold} punts")
   ) %>%
   tab_source_note(
     source_note = "'OF and 'PD' are SHARP_RERUN scores for Open-field and pin-deep, respectively"
