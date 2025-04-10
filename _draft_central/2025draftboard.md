@@ -16,7 +16,7 @@ Here at Puntalytics we subscribe to a "kick ball far good" ideology. We value pu
 | Rank | Punter | School |
 |--|--|--|
 | 1 | [Eddie Czaplicki](#eddie-czaplicki)| USC
-| 2 | [Jeremy Crawshaw](#jeremy-crawshaw)| FSU 
+| 2 | [Jeremy Crawshaw](#jeremy-crawshaw)| Florida
 | 3 | [Alex Mastromanno](#alex-mastromanno)| FSU 
 | 4 | [James Burnip](#james-burnip)| Alabama
 | 5 | [Fraser Masin](#Fraser-Masin)| Ole Miss
