@@ -13,3 +13,11 @@ Before we get into our rankings, let's get one thing straight: it's hard to tell
 
 Here at Puntalytics we subscribe to a "kick ball far good" ideology. We value punters who above anything else can punt the ball far, really really far. We're sort of renegades among the puntalygensia for that. Now let's get to those rankings!
 
+| Rank | Punter | School |
+|--|--|--|
+| 1 | [Eddie Czaplicki](#eddie-Czaplicki)| USC
+| 2 | [Austin McNamara](#austin-mcnamara)| Texas Tech 
+| 3 | [Matthew Hayball](#matthew-hayball)| Vanderbilt
+| 4 | [Ryan Rehkow](#ryan-rehkow)| BYU
+| 5 | [Ryan Sanborn](#ryan-sanborn)| Texas
+| 6 | [Porter Wilson](#porter-wilson)| Duke
