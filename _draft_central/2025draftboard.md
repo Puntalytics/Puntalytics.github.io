@@ -43,7 +43,7 @@ HT: 6'3"  WT: 201  age: 23
 **2022: Punts: 38, adj net: 44.0, pEPA: 0.24, OF: 0.23, PD: 0.29**  
 **2021: Punts: 52, adj net: 40.1, pEPA: 0.11, OF: 0.34, PD: -0.21** 
 
-Crawshaw is this year's media darling. He is Dane Brugler's #1 ranked punter and Lance Zierlein's #2. With solid seasons in 2022 and 2023, he meets our draftable thresholds for punter. He has always been better in the open field than in pin deep situations, which projects better to the pros. It's hard not to wonder about his dropoff in 2024. We prefer punters who leave college on a high note. **Crawshaw projects as a 7th round pick and might year of development before becoming a starter**
+Crawshaw is this year's media darling. He is Dane Brugler's #1 ranked punter and Lance Zierlein's #2. With solid seasons in 2022 and 2023, he meets our draftable thresholds for punter. He has always been better in the open field than in pin deep situations, which projects better to the pros. It's hard not to wonder about his dropoff in 2024. We prefer punters who leave college on a high note. **Crawshaw projects as a 7th round pick and might need a year of development before becoming a starter**
 
 ## 3. Alex Mastromanno (FSU) {#alex-mastromanno}
 HT: 6'1"  WT: 243   
