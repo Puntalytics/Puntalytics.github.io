@@ -1,7 +1,7 @@
 ---
 title: "2023 Big Board"
 subtitle: "We rank the 2023 punter prospects"
-layout: default
+layout: draftpage
 output:
   md_document:
     variant: gfm
