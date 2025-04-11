@@ -51,7 +51,7 @@ HT: 6'1"  WT: 243
 **2024: Punts: 59, adj net: 44.2, pEPA: 0.27, OF: 0.27, PD: 0.26**   
 **2023: Punts: 67, adj net: 42.6, pEPA: 0.11, OF: 0.11, PD: 0.27**  
 **2022: Punts: 38, adj net: 38.5, pEPA: 0.06, OF: -0.04, PD: 0.22**  
-**2021: Punts: 62, adj net: 41.0, pEPA: 0.08, OF: 0.0, PD: 0.36** 
+**2021: Punts: 62, adj net: 41.0, pEPA: 0.08, OF: 0.0, PD: 0.36**  
 **2020: Punts: 35, adj net: 40.1, pEPA: -0.01, OF: -0.03, PD: 0.06** 
 
 It would be great if Mastromanno could become a top tier punter because we'd be able to call him "the maestro," which feels like a terrific nickname for a punter. He's this class's pin deep specialist, which doesn't often work out (see Adam Korsak or Blake Hayes). We couldn't find his age, but if he is under 25, he meets our draftable thresholds. **He is worthy a draft selection in the 7th**
@@ -81,7 +81,7 @@ HT: 6'3"  WT: 213 Age: 22
 **2024: Punts: 39, adj net: 42.0, pEPA: 0.17, OF: 0.28, PD: -0.03**   
 **2023: Punts: 60, adj net: 42.8, pEPA: 0.08, OF: 0.01, PD: 0.20**  
 **2022: Punts: 61, adj net: 44.4, pEPA: 0.15, OF: 0.22, PD: 0.07**  
-**2021: Punts: 60, adj net: 40.4, pEPA: 0.15, OF: 0.18, PD: 0.11** 
+**2021: Punts: 60, adj net: 40.4, pEPA: 0.15, OF: 0.18, PD: 0.11**  
 **2020: Punts: 38, adj net: 39.2, pEPA: -0.04, OF: -0.06, PD: 0.01** 
 
 People love Kai Kroeger, and he certainly has impressive experience given his age, but it's hard to fall in love with that statistical profile. Who knows, though? He could always be this year's AJ Cole. **He should be a UDFA add, and will look to compete for a job in camp**
