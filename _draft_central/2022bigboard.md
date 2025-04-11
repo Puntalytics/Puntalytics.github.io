@@ -1,7 +1,7 @@
 ---
 title: "2022 Big Board"
 subtitle: "We rank the 2022 punter prospects"
-layout: default
+layout: draftpage
 output:
   md_document:
     variant: gfm
