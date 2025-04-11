@@ -1,5 +1,5 @@
 ---
-title: "Big Board"
+title: "2024 Big Board"
 subtitle: "We rank the 2024 punter prospects"
 layout: default
 output:
