@@ -1,5 +1,5 @@
 ---
-title: "Punters-only mock draft 1.0"
+title: "2022 Punters-only mock draft 1.0"
 subtitle: "Predicting day 3 of the draft, but only for punters"
 layout: default
 output:
