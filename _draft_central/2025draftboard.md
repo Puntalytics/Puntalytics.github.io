@@ -1,7 +1,7 @@
 ---
-title: "Big Board"
+title: "2025 Big Board"
 subtitle: "We rank the 2025 punter prospects"
-layout: default
+layout: draftpage
 output:
   md_document:
     variant: gfm
