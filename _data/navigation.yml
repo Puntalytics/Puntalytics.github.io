@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: 2025 Draft
-  link: /_draft_central/2025draftboard.html
+  link: /draft_central/2025draftboard.html
 - name: Our Metrics
   link: /metrics.html
 - name: Blog
