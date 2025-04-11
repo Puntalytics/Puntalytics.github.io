@@ -30,14 +30,14 @@ pbp <- tbl(connection, "nflfastR_pbp")
 
 punts <- pbp %>%
   filter(punt_attempt==1) %>%
-  filter(season %in% 2021:2023) %>%
+  filter(season %in% 2022:2024) %>%
   collect() %>%
   trust_the_process() %>%
   filter(punt_blocked==0)
 
 punts <- punts %>%
   calculate_all() %>%
-  filter(season == 2023)
+  filter(season == 2024)
 
 dbDisconnect(connection)
 
@@ -45,17 +45,19 @@ current_threshold <- max(punts$week)
 
 mini <- punts %>%
   filter(!is.na(posteam)) %>%
-  by_punters(threshold = current_threshold)
+  by_punters(
+    threshold = 0   # commenting this out, but it can be brought back later in the season
+  )
 
 tab <- mini %>%
   ungroup() %>%
   select(Team=team_logo_espn, Punter = punter_player_name, NumPunts, pEPA, Gross, Net, RERUN, OF=SHARP_RERUN_OF, PD=SHARP_RERUN_PD) %>%
   arrange(desc(pEPA)) %>%
-  mutate(across(where(is.numeric), round, 2)) %>%
+  mutate(across(where(is.numeric), ~round(.x, 2))) %>%
   gt() %>%
   tab_header(
-    title = "Punters in 2023, ranked by pEPA",
-    subtitle = glue("Minimum {current_threshold} punts")
+    title = "Punters in 2024, ranked by pEPA",
+    # subtitle = glue("Minimum {current_threshold} punts")
   ) %>%
   tab_source_note(
     source_note = "'OF and 'PD' are SHARP_RERUN scores for Open-field and pin-deep, respectively"
@@ -74,8 +76,8 @@ ggplot(data=mini, aes(x = reorder(punter_player_name, pEPA), y = pEPA)) +
   coord_flip() +
   scale_fill_identity() +
   theme_bw() +
-  labs(title = "Punter EPA in 2023", subtitle = glue("Minimum {current_threshold} punts"),
-       y="Punter EPA/p above expected", x="Punters in 2023",
+  labs(title = "Punter EPA in 2024", subtitle = glue("Minimum {current_threshold} punts"),
+       y="Punter EPA/p above expected", x="Punters in 2024",
        caption=glue("figure @ThePuntRunts | data @nflfastR | updated {now('America/New_York')}")) +
   theme(plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm")) +
   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = 0.5))
