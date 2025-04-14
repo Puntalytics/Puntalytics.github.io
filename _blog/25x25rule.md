@@ -32,6 +32,7 @@ In recent years, here are how young punters have slotted up.
 | 2023 | Ethan Evans         | NA-D2               | NA              | 7th round    | yes                      |2/2
 | 2023 | Ty Zentner          | 0.15                | no              | UDFA         | yes                      |1/2
 | 2023 | Lou Hedley          | 0.40                | no (age)        | UDFA         | yes                      |1/2
+| 2023 | Adam Korsak         | 0.36                | no (age)        | UDFA         | no                       |0/2
 | 2022 | Jordan Stout        | 0.34                | yes             | 4th round    | yes                      |3/3
 | 2022 | Jake Camarda        | 0.33                | yes             | 4th round    | yes                      |3/3
 | 2022 | Matt Araiza         | 0.39                | yes             | 6th round    | yes                      |1/depends how you count
@@ -41,12 +42,15 @@ In recent years, here are how young punters have slotted up.
 | 2022 | Race Porter         | 0.34                | yes             | XFL          | no                       |0/3
 | 2021 | Pressley Harvin III | 0.41                | yes             | 7th round    | yes                      |3/4
 | 2021 | Drue Chrisman       | 0.32                | yes             | UDFA         | yes                      |0.5/4
+| 2021 | Max Duffy           | 0.48                | no (age)        | UDFA         | no                       |0/4
+| 2021 | James Smith         | 0.36                | no (age)        | UDFA         | no                       |0/4
 | 2020 | Braden Mann         | 0.37                | yes             | 6th round    | yes                      |5/5
 | 2020 | Sterling Hofrichter | 0.22                | no              | 7th round    | yes                      |1/5
 | 2020 | Tommy Townsend      | 0.33                | yes             | UDFA         | yes (2022 AP1)           |5/5
 | 2020 | Joseph Charlton     | 0.39                | yes             | UDFA         | no                       |1.5/5
 | 2020 | Blake Gillikin      | 0.19                | no              | UDFA         | yes                      |4/5
 | 2020 | Arryn Siposs        | 0.22                | no              | UDFA         | yes                      |2/5
+| 2020 | Dane Roy            | 0.33                | no (age)        | UDFA         | no                       |0/5
 | 2019 | Mitch Wishnowsky    | 0.41                | yes             | 4th round    | yes                      |6/6
 | 2019 | Jake Bailey         | 0.26                | yes             | 5th round    | yes (2020 AP1)           |6/6
 | 2019 | Jack Fox            | 0.16                | no              | UDFA         | yes (2020 AP2, 2024 AP 1)|6/6
