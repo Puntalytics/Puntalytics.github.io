@@ -61,7 +61,7 @@ Because we pride ourselves on our transparency, let's talk about our hits and mi
 
 **Guys we were wrong about** (we had high grades on them, but they either weren't drafted or never panned out): Michael Turk, Race Porter, Joseph Charlton, and Brandon Wright.  
 
-**Guys the NFL got right that we would have missed** (self-explanatory): *crickets* You could count Ethan Evans here, but because he was a D2 punter on him, we had no data available. We still listed him on our punter big board that year.  
+**Guys the NFL got right that we would have missed** (self-explanatory): *crickets ...* You could count Ethan Evans here, but because he was a D2 punter on him, we had no data available. We still listed him on our punter big board that year.  
 
 **Guys that everyone was wrong about** (didn't meet our thresholds, did not get drafted, but are now household names): Jack Fox, A. J. Cole, and Blake Gillikin. 
 
