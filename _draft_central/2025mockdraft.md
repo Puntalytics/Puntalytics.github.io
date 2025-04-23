@@ -22,11 +22,11 @@ I also have a hard time seeing a punter being drafted here. According to our met
 
 #### With the 197th pick, the Broncos **Eddie Czaplicki** punter, USC!
 
-The Broncos are the only team in the league, who must exit the draft with a punter. They are currently rostering Matt Haack, a formerly serviceable, now replacement level leg. Haack hasn't been a full time player since 2022, and hasn't been above average since 2020. In Czaplicki, the Broncos find a big leg with big time upside. The Ray Guy winner has only had one season of elite production, but he was so good in 2024, that teams should be tantalized by his potential.
+The Broncos are the only team in the league who must exit the draft with a punter. They are currently rostering Matt Haack, a formerly-serviceable, now replacement-level leg. Haack hasn't been a full time player since 2022, and hasn't been above average since 2020. In Czaplicki, the Broncos find a big leg with big-time upside. The Ray Guy winner has only had one season of elite production, but he was so good in 2024 (think Matt Araiza with worse PR) that teams should be tantalized by his potential.
 
 #### With the 206th pick, the Bills select **Jeremy Crawshaw** punter, Florida!
 
-With the run on punter started, the Bills are happy to nab the draft's most consistent punter in Crawshaw. The Bills are relieved that they won't have to watch the training camp punter battle between Jake Camarda and Brad Robbins. With draft capital invested in him, Crawshaw will now be favored to beat out Camarda. In Crawshaw, the Bills get a punter with two years of top tier production over a span of four good college seasons. It's rare to see college punters produce as many above average seasons as Crawshaw, and the Bills happily draft the highest floor punter prospect.
+With the run on punter started, the Bills nab the draft's most consistent punter in Crawshaw. The Bills are relieved that they won't have to watch the training camp punter battle between Jake Camarda and Brad Robbins. With draft capital invested in him, Crawshaw will now be favored to beat out Camarda. In Crawshaw, the Bills get a punter with two years of top tier production over a span of four good college seasons. It's rare to see college punters produce as many above average seasons as Crawshaw, and the Bills happily draft the highest floor punter prospect.
 
 ## Round 7:
 
