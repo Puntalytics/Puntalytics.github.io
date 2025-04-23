@@ -36,9 +36,9 @@ This is not the kind of draft class that sees 3 punters drafted, but we can stil
 
 ## Some UDFA matches for fun
 
-Vikings - James Burnip (Alabama)
-Jets - Kai Kroeger (South Carolina)
-Titans - Fraser Masin (Ole Miss)
-Chiefs - Jesse Mirco (Vanderbilt)
+Vikings - James Burnip (Alabama)  
+Jets - Kai Kroeger (South Carolina)  
+Titans - Fraser Masin (Ole Miss)  
+Chiefs - Jesse Mirco (Vanderbilt)  
 
 
