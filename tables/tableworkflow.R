@@ -30,14 +30,14 @@ pbp <- tbl(connection, "nflfastR_pbp")
 
 punts <- pbp %>%
   filter(punt_attempt==1) %>%
-  filter(season %in% 2022:2024) %>%
+  filter(season %in% 2023:2025) %>%
   collect() %>%
   trust_the_process() %>%
   filter(punt_blocked==0)
 
 punts <- punts %>%
   calculate_all() %>%
-  filter(season == 2024)
+  filter(season == 2025)
 
 dbDisconnect(connection)
 
@@ -56,7 +56,7 @@ tab <- mini %>%
   mutate(across(where(is.numeric), ~round(.x, 2))) %>%
   gt() %>%
   tab_header(
-    title = "Punters in 2024, ranked by pEPA",
+    title = "Punters in 2025, ranked by pEPA",
     # subtitle = glue("Minimum {current_threshold} punts")
   ) %>%
   tab_source_note(
@@ -76,8 +76,8 @@ ggplot(data=mini, aes(x = reorder(punter_player_name, pEPA), y = pEPA)) +
   coord_flip() +
   scale_fill_identity() +
   theme_bw() +
-  labs(title = "Punter EPA in 2024", subtitle = glue("Minimum {current_threshold} punts"),
-       y="Punter EPA/p above expected", x="Punters in 2024",
+  labs(title = "Punter EPA in 2025", subtitle = glue("Minimum {current_threshold} punts"),
+       y="Punter EPA/p above expected", x="Punters in 2025",
        caption=glue("figure @ThePuntRunts | data @nflfastR | updated {now('America/New_York')}")) +
   theme(plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm")) +
   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = 0.5))
